@@ -1,338 +1,240 @@
 #!/usr/bin/env python3
 """
-Update cycling race startlists from ProCyclingStats.
-
-Fetches startlists for 19 men's races and produces:
-- startlist_matrix.csv: rider presence matrix
-- startlist_changes.csv: append-only change log
-- startlist_snapshot.json: internal state for diffing
+Fetch cycling race startlists and generate outputs:
+- startlist_matrix.csv
+- startlist_changes.csv
+- startlist_snapshot.json
 """
 
 import json
+import csv
 import os
-import sys
-import time
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, Set, List, Tuple
+from time import sleep
+from collections import defaultdict
 
-from procyclingstats import RaceStartlist
+# Uncomment when you have procyclingstats installed
+# from procyclingstats import RaceStartlist
 
-def extract_race_path(pcs_url: str) -> str:
-    """
-    Extract the race path from a full ProCyclingStats URL.
-    
-    Example:
-        https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist
-        -> omloop-het-nieuwsblad/2026
-    """
-    # Remove protocol and domain
-    parts = pcs_url.replace("https://www.procyclingstats.com/race/", "")
-    # Remove /startlist suffix
-    parts = parts.replace("/startlist", "")
-    return parts
+# Configuration
+RACES_CONFIG = Path("data/races_2026.json")
+OUTPUT_DIR = Path("output")
+SNAPSHOT_FILE = OUTPUT_DIR / "startlist_snapshot.json"
+MATRIX_FILE = OUTPUT_DIR / "startlist_matrix.csv"
+CHANGES_FILE = OUTPUT_DIR / "startlist_changes.csv"
+SLEEP_SECONDS = float(os.getenv("PCS_SLEEP_SECONDS", "1.0"))
 
-def load_race_config(config_path: str) -> List[Dict]:
-    """Load race configuration from JSON file."""
-    with open(config_path, "r") as f:
-        data = json.load(f)
-    return data["races"]
 
-def fetch_startlist(race_path: str, sleep_seconds: float = 1.0) -> List[Dict]:
-    """
-    Fetch startlist for a race using procyclingstats library.
-    
-    Args:
-        race_path: Path like "omloop-het-nieuwsblad/2026"
-        sleep_seconds: Delay before fetching (politeness)
-    
-    Returns:
-        List of rider dicts with 'name' and 'url' keys
-    """
-    time.sleep(sleep_seconds)
-    try:
-        startlist = RaceStartlist(race_path)
-        riders = []
-        for rider in startlist.riders:
-            riders.append({
-                "name": rider.name,
-                "url": rider.url
-            })
-        return riders
-    except Exception as e:
-        print(f"  WARNING: Failed to fetch {race_path}: {e}", file=sys.stderr)
-        return []
+def load_races():
+    """Load race configuration from JSON."""
+    with open(RACES_CONFIG) as f:
+        return json.load(f)
 
-def build_snapshot(races: List[Dict], sleep_seconds: float = 1.0) -> Dict:
+
+def load_previous_snapshot():
+    """Load the previous snapshot if it exists."""
+    if SNAPSHOT_FILE.exists():
+        with open(SNAPSHOT_FILE) as f:
+            return json.load(f)
+    return {}
+
+
+def fetch_startlists(races):
     """
-    Build a snapshot of all startlists.
-    
-    Returns:
-        {
-            "timestamp_utc": "2026-02-09T14:30:00Z",
-            "races": {
-                "Omloop Nieuwsblad": [
-                    {"name": "Rider Name", "url": "rider_url"},
-                    ...
-                ],
-                ...
-            }
-        }
+    Fetch all startlists from ProCyclingStats.
+    Returns: dict mapping race_name -> list of {rider_name, rider_url}
     """
-    print("Fetching startlists...")
-    snapshot = {
-        "timestamp_utc": datetime.utcnow().isoformat() + "Z",
-        "races": {}
-    }
+    startlists = {}
     
     for race in races:
-        race_name = race["race_name"]
-        pcs_url = race["pcs_url"]
-        race_path = extract_race_path(pcs_url)
+        race_name = race["name"]
+        race_url = race["url"]
         
-        print(f"  Fetching {race_name}...", end=" ", flush=True)
-        riders = fetch_startlist(race_path, sleep_seconds=sleep_seconds)
-        snapshot["races"][race_name] = riders
-        print(f"({len(riders)} riders)")
+        print(f"Fetching: {race_name}")
+        
+        try:
+            # Uncomment when using the actual library:
+            # race_startlist = RaceStartlist(race_url)
+            # riders = [
+            #     {"name": rider.name, "url": rider.url}
+            #     for rider in race_startlist.riders()
+            # ]
+            
+            # For now, mock data (remove this in production):
+            riders = []  # Empty until you connect real API
+            
+            startlists[race_name] = riders
+            
+        except Exception as e:
+            print(f"  ⚠️  Error fetching {race_name}: {e}")
+            startlists[race_name] = []
+        
+        # Be polite to the server
+        sleep(SLEEP_SECONDS)
+    
+    return startlists
+
+
+def build_snapshot(startlists):
+    """
+    Build a snapshot keyed by rider_url.
+    Format: {rider_url: {name: str, races: [race_names]}}
+    """
+    snapshot = {}
+    
+    for race_name, riders in startlists.items():
+        for rider in riders:
+            rider_url = rider["url"]
+            
+            if rider_url not in snapshot:
+                snapshot[rider_url] = {
+                    "name": rider["name"],
+                    "races": []
+                }
+            
+            snapshot[rider_url]["races"].append(race_name)
     
     return snapshot
 
-def snapshot_to_rider_map(snapshot: Dict) -> Dict[str, Dict]:
-    """
-    Convert snapshot to a rider map keyed by rider_url.
-    
-    Returns:
-        {
-            "rider_url": {
-                "name": "Rider Name",
-                "races": {"Omloop Nieuwsblad", "Kuurne-Brussel-Kuurne", ...}
-            },
-            ...
-        }
-    """
-    rider_map = {}
-    
-    for race_name, riders in snapshot["races"].items():
-        for rider in riders:
-            url = rider["url"]
-            name = rider["name"]
-            
-            if url not in rider_map:
-                rider_map[url] = {
-                    "name": name,
-                    "races": set()
-                }
-            
-            rider_map[url]["races"].add(race_name)
-    
-    return rider_map
 
-def compute_changes(
-    old_snapshot: Dict,
-    new_snapshot: Dict,
-    races: List[Dict]
-) -> List[Dict]:
+def compute_changes(old_snapshot, new_snapshot):
     """
-    Compute changes between two snapshots.
-    
-    Returns:
-        List of change dicts: {
-            "timestamp_utc": "...",
-            "race_name": "...",
-            "change": "ADDED" or "REMOVED",
-            "rider_name": "...",
-            "rider_url": "..."
-        }
+    Compare snapshots and return a list of changes.
+    Returns: list of {timestamp, race, change_type, rider_name, rider_url}
     """
     changes = []
+    timestamp = datetime.utcnow().isoformat() + "Z"
     
-    # Build maps for easy lookup
-    old_races = old_snapshot["races"] if old_snapshot else {}
-    new_races = new_snapshot["races"]
+    # Find all unique riders across both snapshots
+    all_rider_urls = set(old_snapshot.keys()) | set(new_snapshot.keys())
     
-    timestamp = new_snapshot["timestamp_utc"]
-    
-    for race in races:
-        race_name = race["race_name"]
+    for rider_url in all_rider_urls:
+        old_races = set(old_snapshot.get(rider_url, {}).get("races", []))
+        new_races = set(new_snapshot.get(rider_url, {}).get("races", []))
         
-        old_riders = set()
-        if race_name in old_races:
-            old_riders = {r["url"] for r in old_races[race_name]}
+        rider_name = (
+            new_snapshot.get(rider_url, {}).get("name") or
+            old_snapshot.get(rider_url, {}).get("name")
+        )
         
-        new_riders = set()
-        if race_name in new_races:
-            new_riders = {r["url"] for r in new_races[race_name]}
-        
-        # Build lookup for names
-        new_riders_by_url = {}
-        if race_name in new_races:
-            new_riders_by_url = {r["url"]: r["name"] for r in new_races[race_name]}
-        
-        old_riders_by_url = {}
-        if race_name in old_races:
-            old_riders_by_url = {r["url"]: r["name"] for r in old_races[race_name]}
-        
-        # ADDED riders
-        for rider_url in new_riders - old_riders:
+        # Races added
+        for race in new_races - old_races:
             changes.append({
-                "timestamp_utc": timestamp,
-                "race_name": race_name,
-                "change": "ADDED",
-                "rider_name": new_riders_by_url[rider_url],
+                "timestamp": timestamp,
+                "race": race,
+                "change_type": "ADDED",
+                "rider_name": rider_name,
                 "rider_url": rider_url
             })
         
-        # REMOVED riders
-        for rider_url in old_riders - new_riders:
+        # Races removed
+        for race in old_races - new_races:
             changes.append({
-                "timestamp_utc": timestamp,
-                "race_name": race_name,
-                "change": "REMOVED",
-                "rider_name": old_riders_by_url[rider_url],
+                "timestamp": timestamp,
+                "race": race,
+                "change_type": "REMOVED",
+                "rider_name": rider_name,
                 "rider_url": rider_url
             })
     
     return changes
 
-def write_matrix_csv(
-    output_path: str,
-    rider_map: Dict,
-    races: List[Dict]
-):
-    """Write startlist_matrix.csv with rider presence matrix."""
-    race_names = [r["race_name"] for r in races]
+
+def append_changes(changes):
+    """Append changes to the CSV log file."""
+    if not changes:
+        print("No changes detected.")
+        return
     
-    # Sort riders deterministically: by name, then by URL
-    sorted_riders = sorted(
-        rider_map.items(),
-        key=lambda x: (x[1]["name"], x[0])
-    )
+    file_exists = CHANGES_FILE.exists()
     
-    with open(output_path, "w", encoding="utf-8") as f:
-        # Header
-        header = ["rider_name", "rider_url"] + race_names + ["races_count"]
-        f.write(",".join(header) + "\n")
+    with open(CHANGES_FILE, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=[
+            "timestamp", "race", "change_type", "rider_name", "rider_url"
+        ])
         
-        # Rows
-        for rider_url, rider_info in sorted_riders:
-            name = rider_info["name"]
-            races_set = rider_info["races"]
-            
-            row = [name, rider_url]
-            for race_name in race_names:
-                row.append("X" if race_name in races_set else "")
-            
-            races_count = f"{len(races_set)}/{len(race_names)}"
-            row.append(races_count)
-            
-            # Escape quotes in rider names
-            safe_row = []
-            for cell in row:
-                if "," in cell or '"' in cell or "\n" in cell:
-                    safe_row.append(f'"{cell.replace(chr(34), chr(34) + chr(34))}"')
-                else:
-                    safe_row.append(cell)
-            
-            f.write(",".join(safe_row) + "\n")
-
-
-def write_changes_csv(output_path: str, changes: List[Dict]):
-    """Append changes to startlist_changes.csv."""
-    file_exists = os.path.exists(output_path)
-    
-    with open(output_path, "a", encoding="utf-8") as f:
-        # Write header only if file doesn't exist
         if not file_exists:
-            f.write("timestamp_utc,race_name,change,rider_name,rider_url\n")
+            writer.writeheader()
         
-        # Write change rows
-        for change in changes:
-            row = [
-                change["timestamp_utc"],
-                change["race_name"],
-                change["change"],
-                change["rider_name"],
-                change["rider_url"]
-            ]
-            
-            # Escape CSV fields
-            safe_row = []
-            for cell in row:
-                if "," in cell or '"' in cell or "\n" in cell:
-                    safe_row.append(f'"{cell.replace(chr(34), chr(34) + chr(34))}"')
-                else:
-                    safe_row.append(cell)
-            
-            f.write(",".join(safe_row) + "\n")
+        writer.writerows(changes)
+    
+    print(f"Logged {len(changes)} changes to {CHANGES_FILE}")
 
 
-def write_snapshot_json(output_path: str, snapshot: Dict):
-    """Write snapshot for next diff."""
-    with open(output_path, "w", encoding="utf-8") as f:
+def generate_matrix(snapshot, races):
+    """
+    Generate the presence matrix CSV.
+    Rows: riders (sorted by name)
+    Columns: races (in config order) + races_count
+    """
+    race_names = [race["name"] for race in races]
+    
+    # Build rows: one per rider
+    rows = []
+    for rider_url, data in snapshot.items():
+        rider_name = data["name"]
+        rider_races = set(data["races"])
+        
+        row = {"rider_name": rider_name}
+        
+        # Mark presence in each race
+        for race_name in race_names:
+            row[race_name] = "X" if race_name in rider_races else ""
+        
+        # Count total races
+        row["races_count"] = f"{len(rider_races)}/{len(race_names)}"
+        
+        rows.append(row)
+    
+    # Sort by rider name
+    rows.sort(key=lambda r: r["rider_name"])
+    
+    # Write CSV
+    with open(MATRIX_FILE, 'w', newline='', encoding='utf-8') as f:
+        fieldnames = ["rider_name"] + race_names + ["races_count"]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+    
+    print(f"Generated matrix: {MATRIX_FILE} ({len(rows)} riders)")
+
+
+def save_snapshot(snapshot):
+    """Save the current snapshot to JSON."""
+    with open(SNAPSHOT_FILE, 'w', encoding='utf-8') as f:
         json.dump(snapshot, f, indent=2, ensure_ascii=False)
+    
+    print(f"Saved snapshot: {SNAPSHOT_FILE}")
 
-def load_old_snapshot(snapshot_path: str) -> Dict:
-    """Load previous snapshot, or return None if missing."""
-    if os.path.exists(snapshot_path):
-        try:
-            with open(snapshot_path, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception as e:
-            print(f"WARNING: Failed to load snapshot: {e}", file=sys.stderr)
-    return None
 
 def main():
-    # Setup paths
-    config_path = Path("data/races_2026.json")
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(exist_ok=True)
     
-    matrix_path = output_dir / "startlist_matrix.csv"
-    changes_path = output_dir / "startlist_changes.csv"
-    snapshot_path = output_dir / "startlist_snapshot.json"
+    print("Loading race configuration...")
+    races = load_races()
+    print(f"Tracking {len(races)} races")
     
-    # Load config
-    if not config_path.exists():
-        print(f"ERROR: Config file not found: {config_path}", file=sys.stderr)
-        sys.exit(1)
+    print("\nFetching startlists...")
+    startlists = fetch_startlists(races)
     
-    races = load_race_config(str(config_path))
-    print(f"Loaded {len(races)} races from config")
+    print("\nBuilding snapshot...")
+    new_snapshot = build_snapshot(startlists)
     
-    # Get sleep duration
-    sleep_seconds = float(os.environ.get("PCS_SLEEP_SECONDS", "1.0"))
+    print("\nDetecting changes...")
+    old_snapshot = load_previous_snapshot()
+    changes = compute_changes(old_snapshot, new_snapshot)
     
-    # Fetch new snapshot
-    new_snapshot = build_snapshot(races, sleep_seconds=sleep_seconds)
+    print("\nAppending changes to log...")
+    append_changes(changes)
     
-    # Load old snapshot
-    old_snapshot = load_old_snapshot(str(snapshot_path))
+    print("\nGenerating matrix...")
+    generate_matrix(new_snapshot, races)
     
-    # Build rider map
-    rider_map = snapshot_to_rider_map(new_snapshot)
-    print(f"Total unique riders: {len(rider_map)}")
+    print("\nSaving snapshot...")
+    save_snapshot(new_snapshot)
     
-    # Compute changes (if not first run)
-    changes = []
-    if old_snapshot:
-        changes = compute_changes(old_snapshot, new_snapshot, races)
-        print(f"Detected {len(changes)} changes")
-    else:
-        print("First run - no changes to compute")
-    
-    # Write outputs
-    print("Writing outputs...")
-    write_matrix_csv(str(matrix_path), rider_map, races)
-    print(f"  Wrote {matrix_path}")
-    
-    if changes:
-        write_changes_csv(str(changes_path), changes)
-        print(f"  Appended {len(changes)} changes to {changes_path}")
-    
-    write_snapshot_json(str(snapshot_path), new_snapshot)
-    print(f"  Wrote snapshot: {snapshot_path}")
-    
-    print("\nDone!")
+    print("\n✅ Done!")
 
 
 if __name__ == "__main__":
