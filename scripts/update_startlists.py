@@ -15,7 +15,7 @@ from time import sleep
 from collections import defaultdict
 
 # IMPORTANT: Uncomment the next line to enable actual data fetching
-from procyclingstats import RaceStartlist
+# from procyclingstats import RaceStartlist
 
 # Configuration
 RACES_CONFIG = Path("data/races_2026.json")
@@ -160,32 +160,58 @@ def compute_changes(old_snapshot, new_snapshot):
     # Normalize old_snapshot to new format if needed
     normalized_old = {}
     if old_snapshot:
-        # Check if it's already in the new format
-        first_key = next(iter(old_snapshot))
-        first_value = old_snapshot[first_key]
-        
-        if isinstance(first_value, dict) and "races" in first_value:
-            # Already in new format
-            normalized_old = old_snapshot
-        elif isinstance(first_value, str):
-            # Old format: {rider_url: rider_name} - need to reconstruct races from context
-            # For now, just use empty to avoid errors on first migration
-            normalized_old = {}
-        elif isinstance(first_value, list):
-            # Old format: {race_name: [rider_urls]} - need to invert
-            # Invert it to new format
-            for race_name, rider_list in old_snapshot.items():
-                if isinstance(rider_list, list):
-                    for rider_url in rider_list:
-                        if rider_url not in normalized_old:
+        # Check if it has the old structure with "races" or "timestamp_utc" keys
+        if "races" in old_snapshot or "timestamp_utc" in old_snapshot:
+            # Old format: {timestamp_utc: ..., races: {race_name: [riders]}}
+            old_races_data = old_snapshot.get("races", {})
+            
+            for race_name, riders in old_races_data.items():
+                if isinstance(riders, list):
+                    for rider in riders:
+                        # Rider might be a string (URL) or dict with 'url' and 'name'
+                        if isinstance(rider, str):
+                            rider_url = rider
+                            rider_name = ""
+                        elif isinstance(rider, dict):
+                            rider_url = rider.get("url", rider.get("rider_url", ""))
+                            rider_name = rider.get("name", rider.get("rider_name", ""))
+                        else:
+                            continue
+                        
+                        if rider_url and rider_url not in normalized_old:
                             normalized_old[rider_url] = {
-                                "name": "",  # Don't have name in old format
+                                "name": rider_name,
                                 "races": []
                             }
-                        normalized_old[rider_url]["races"].append(race_name)
+                        if rider_url:
+                            normalized_old[rider_url]["races"].append(race_name)
         else:
-            # Unknown format, start fresh
-            normalized_old = {}
+            # Check if it's already in the new format
+            first_key = next(iter(old_snapshot))
+            first_value = old_snapshot[first_key]
+            
+            if isinstance(first_value, dict) and "races" in first_value:
+                # Already in new format
+                normalized_old = old_snapshot
+            elif isinstance(first_value, str):
+                # Old format: {rider_url: rider_name} - need to reconstruct races from context
+                # For now, just use empty to avoid errors on first migration
+                normalized_old = {}
+            elif isinstance(first_value, list):
+                # Old format: {race_name: [rider_urls]} - need to invert
+                # Invert it to new format
+                for race_name, rider_list in old_snapshot.items():
+                    if isinstance(rider_list, list):
+                        for rider_url in rider_list:
+                            if rider_url not in normalized_old:
+                                normalized_old[rider_url] = {
+                                    "name": "",  # Don't have name in old format
+                                    "races": []
+                                }
+                            normalized_old[rider_url]["races"].append(race_name)
+            else:
+                # Unknown format, start fresh
+                normalized_old = {}
     
     # Find all unique riders across both snapshots
     all_rider_urls = set(normalized_old.keys()) | set(new_snapshot.keys())
