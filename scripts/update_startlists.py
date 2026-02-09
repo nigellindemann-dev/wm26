@@ -14,8 +14,8 @@ from pathlib import Path
 from time import sleep
 from collections import defaultdict
 
-# Uncomment when you have procyclingstats installed
-# from procyclingstats import RaceStartlist
+# IMPORTANT: Uncomment the next line to enable actual data fetching
+from procyclingstats import RaceStartlist
 
 # Configuration
 RACES_CONFIG = Path("data/races_2026.json")
@@ -91,15 +91,25 @@ def fetch_startlists(races):
         print(f"Fetching: {race_name} ({race_path})")
         
         try:
-            # Uncomment when using the actual library:
-            race_startlist = RaceStartlist(race_path)
-            riders = [
-                {"name": rider.name, "url": rider.url}
-                for rider in race_startlist.riders()
-            ]
+            # Check if RaceStartlist is available
+            try:
+                RaceStartlist
+                use_real_data = True
+            except NameError:
+                use_real_data = False
             
-            # For now, mock data (remove this in production):
-           
+            if use_real_data:
+                # Real data fetching (uncomment the import at the top first)
+                race_startlist = RaceStartlist(race_path)
+                riders = [
+                    {"name": rider.name, "url": rider.url}
+                    for rider in race_startlist.riders()
+                ]
+            else:
+                # Mock data - returns empty list
+                # To enable real data: uncomment the import at the top of the file
+                riders = []
+                print(f"  ℹ️  Using mock data (import RaceStartlist to fetch real data)")
             
             startlists[race_name] = riders
             
@@ -143,16 +153,51 @@ def compute_changes(old_snapshot, new_snapshot):
     changes = []
     timestamp = datetime.utcnow().isoformat() + "Z"
     
+    # Handle old snapshot format (if it's structured differently)
+    # Old format might be: {race_name: [rider_urls]} or {race_name: {rider_url: rider_name}}
+    # New format is: {rider_url: {name: str, races: [race_names]}}
+    
+    # Normalize old_snapshot to new format if needed
+    normalized_old = {}
+    if old_snapshot:
+        # Check if it's already in the new format
+        first_key = next(iter(old_snapshot))
+        first_value = old_snapshot[first_key]
+        
+        if isinstance(first_value, dict) and "races" in first_value:
+            # Already in new format
+            normalized_old = old_snapshot
+        elif isinstance(first_value, str):
+            # Old format: {rider_url: rider_name} - need to reconstruct races from context
+            # For now, just use empty to avoid errors on first migration
+            normalized_old = {}
+        elif isinstance(first_value, list):
+            # Old format: {race_name: [rider_urls]} - need to invert
+            # Invert it to new format
+            for race_name, rider_list in old_snapshot.items():
+                if isinstance(rider_list, list):
+                    for rider_url in rider_list:
+                        if rider_url not in normalized_old:
+                            normalized_old[rider_url] = {
+                                "name": "",  # Don't have name in old format
+                                "races": []
+                            }
+                        normalized_old[rider_url]["races"].append(race_name)
+        else:
+            # Unknown format, start fresh
+            normalized_old = {}
+    
     # Find all unique riders across both snapshots
-    all_rider_urls = set(old_snapshot.keys()) | set(new_snapshot.keys())
+    all_rider_urls = set(normalized_old.keys()) | set(new_snapshot.keys())
     
     for rider_url in all_rider_urls:
-        old_races = set(old_snapshot.get(rider_url, {}).get("races", []))
+        old_races = set(normalized_old.get(rider_url, {}).get("races", []))
         new_races = set(new_snapshot.get(rider_url, {}).get("races", []))
         
         rider_name = (
             new_snapshot.get(rider_url, {}).get("name") or
-            old_snapshot.get(rider_url, {}).get("name")
+            normalized_old.get(rider_url, {}).get("name") or
+            "Unknown"
         )
         
         # Races added
