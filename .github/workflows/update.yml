@@ -2,51 +2,47 @@ name: Update Startlists
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours UTC
-  workflow_dispatch:  # Allow manual trigger
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Update startlists
-        env:
-          PCS_SLEEP_SECONDS: '1'
-        run: python scripts/update_startlists.py
+      - name: Fetch startlists and generate outputs
+        run: |
+          python scripts/update_startlists.py
       
       - name: Generate HTML viewer
-        run: python scripts/generate_viewer.py
-      
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          if [ -n "$(git status --porcelain output/)" ]; then
-            git add output/
-            git commit -m "Update startlists"
-            git push origin HEAD:${{ github.ref }}
-          else
-            echo "No changes to commit"
-          fi
+          python scripts/generate_viewer.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet output/ || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "Update startlists - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
