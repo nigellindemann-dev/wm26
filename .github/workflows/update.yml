@@ -1,0 +1,52 @@
+name: Update Startlists
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Update startlists
+        env:
+          PCS_SLEEP_SECONDS: '1'
+        run: python scripts/update_startlists.py
+      
+      - name: Generate HTML viewer
+        run: python scripts/generate_viewer.py
+      
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -n "$(git status --porcelain output/)" ]; then
+            git add output/
+            git commit -m "Update startlists"
+            git push origin HEAD:${{ github.ref }}
+          else
+            echo "No changes to commit"
+          fi
