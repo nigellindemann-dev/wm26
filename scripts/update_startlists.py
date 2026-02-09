@@ -29,7 +29,34 @@ SLEEP_SECONDS = float(os.getenv("PCS_SLEEP_SECONDS", "1.0"))
 def load_races():
     """Load race configuration from JSON."""
     with open(RACES_CONFIG) as f:
-        return json.load(f)
+        data = json.load(f)
+    
+    # Handle different JSON structures
+    if isinstance(data, list):
+        # If it's already a list of race objects
+        races = data
+    elif isinstance(data, dict):
+        # If it's a dict with a "races" key
+        if "races" in data:
+            races = data["races"]
+        # If it's a single race object, wrap it in a list
+        elif "race_name" in data or "name" in data:
+            races = [data]
+        else:
+            raise ValueError(f"Unexpected JSON structure in {RACES_CONFIG}: {list(data.keys())}")
+    else:
+        raise ValueError(f"Expected list or dict in {RACES_CONFIG}, got {type(data)}")
+    
+    # Normalize field names to use 'name' and 'url' consistently
+    normalized_races = []
+    for race in races:
+        normalized = {
+            "name": race.get("race_name") or race.get("name"),
+            "url": race.get("pcs_url") or race.get("url")
+        }
+        normalized_races.append(normalized)
+    
+    return normalized_races
 
 
 def load_previous_snapshot():
@@ -51,18 +78,28 @@ def fetch_startlists(races):
         race_name = race["name"]
         race_url = race["url"]
         
-        print(f"Fetching: {race_name}")
+        # Extract path from full URL if needed
+        # procyclingstats library expects: "race/omloop-het-nieuwsblad/2026"
+        # Not: "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
+        if race_url.startswith("http"):
+            # Remove domain and /startlist suffix
+            race_path = race_url.replace("https://www.procyclingstats.com/", "")
+            race_path = race_path.replace("/startlist", "")
+        else:
+            race_path = race_url
+        
+        print(f"Fetching: {race_name} ({race_path})")
         
         try:
             # Uncomment when using the actual library:
-            # race_startlist = RaceStartlist(race_url)
-            # riders = [
-            #     {"name": rider.name, "url": rider.url}
-            #     for rider in race_startlist.riders()
-            # ]
+            race_startlist = RaceStartlist(race_path)
+            riders = [
+                {"name": rider.name, "url": rider.url}
+                for rider in race_startlist.riders()
+            ]
             
             # For now, mock data (remove this in production):
-            riders = []  # Empty until you connect real API
+           
             
             startlists[race_name] = riders
             
@@ -214,6 +251,10 @@ def main():
     print("Loading race configuration...")
     races = load_races()
     print(f"Tracking {len(races)} races")
+    
+    # Debug: show first race to verify structure
+    if races:
+        print(f"First race example: {races[0]}")
     
     print("\nFetching startlists...")
     startlists = fetch_startlists(races)
