@@ -194,71 +194,46 @@ def fetch_startlists(races):
                             # Get the raw HTML  
                             html = race_startlist.html
                             if html:
-                                # The 2026 pages use <ul class="startlist_v4"> structure
-                                # html is a selectolax HTMLParser object
-                                startlist_container = html.css_first('ul.startlist_v4')
+                                # Debug: Check what we actually got
+                                html_text = html.html if hasattr(html, 'html') else str(html)
+                                print(f"  🔍 HTML length: {len(html_text)} chars")
                                 
-                                if startlist_container:
-                                    print(f"  🔍 Found startlist_v4 container, extracting riders...")
-                                    
-                                    riders = []
-                                    seen_urls = set()
-                                    
-                                    # Find all rider links directly (selectolax approach)
-                                    # Get all <a> tags with href containing "rider/"
-                                    all_links = html.css('a')
-                                    
-                                    for link in all_links:
-                                        href = link.attributes.get('href', '')
+                                # Check for common error patterns
+                                if 'cloudflare' in html_text.lower():
+                                    print(f"  ⚠️  Cloudflare protection detected")
+                                elif 'access denied' in html_text.lower() or '403' in html_text:
+                                    print(f"  ⚠️  Access denied / 403 error")
+                                elif len(html_text) < 1000:
+                                    print(f"  ⚠️  HTML suspiciously short")
+                                    print(f"  📄 Content preview: {html_text[:300]}")
+                                
+                                # Try to find rider links
+                                all_links = html.css('a')
+                                print(f"  🔍 Total <a> tags found: {len(all_links)}")
+                                
+                                riders = []
+                                seen_urls = set()
+                                
+                                for link in all_links:
+                                    href = link.attributes.get('href', '')
+                                    if 'rider/' in href:
+                                        rider_url = href
+                                        rider_name = link.text(strip=True)
                                         
-                                        # Only process rider links
-                                        if 'rider/' in href:
-                                            rider_url = href
-                                            rider_name = link.text(strip=True)
-                                            
-                                            # Clean URL
-                                            if rider_url.startswith('/'):
-                                                rider_url = rider_url[1:]
-                                            
-                                            # Add if valid and not duplicate
-                                            if rider_name and rider_url and rider_url not in seen_urls:
-                                                seen_urls.add(rider_url)
-                                                riders.append({
-                                                    'name': rider_name,
-                                                    'url': rider_url
-                                                })
-                                    
-                                    if riders:
-                                        print(f"  ✓ Manual extraction found {len(riders)} riders")
-                                    else:
-                                        print(f"  ⚠️  Container found but no riders extracted")
+                                        if rider_url.startswith('/'):
+                                            rider_url = rider_url[1:]
+                                        
+                                        if rider_name and rider_url and rider_url not in seen_urls:
+                                            seen_urls.add(rider_url)
+                                            riders.append({
+                                                'name': rider_name,
+                                                'url': rider_url
+                                            })
+                                
+                                if riders:
+                                    print(f"  ✓ Found {len(riders)} riders")
                                 else:
-                                    # Try without container - just find all rider links
-                                    print(f"  🔍 No container, trying direct link extraction...")
-                                    riders = []
-                                    seen_urls = set()
-                                    
-                                    all_links = html.css('a')
-                                    for link in all_links:
-                                        href = link.attributes.get('href', '')
-                                        if 'rider/' in href:
-                                            rider_url = href
-                                            rider_name = link.text(strip=True)
-                                            
-                                            if rider_url.startswith('/'):
-                                                rider_url = rider_url[1:]
-                                            
-                                            if rider_name and rider_url and rider_url not in seen_urls:
-                                                seen_urls.add(rider_url)
-                                                riders.append({
-                                                    'name': rider_name,
-                                                    'url': rider_url
-                                                })
-                                    
-                                    if riders:
-                                        print(f"  ✓ Found {len(riders)} riders via direct extraction")
-                                    else:
-                                        print(f"  ⚠️  No rider links found in HTML")
+                                    print(f"  ⚠️  No rider links found - page may not have loaded correctly")
                                     
                                 startlist_data = None  # Skip normal processing
                             else:
