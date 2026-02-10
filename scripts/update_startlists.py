@@ -102,32 +102,29 @@ def fetch_startlists(races):
                 # Real data fetching
                 race_startlist = RaceStartlist(race_path)
                 
-                # Try different API patterns
-                try:
-                    # Pattern 1: Direct iteration
-                    riders = [
-                        {"name": rider.name, "url": rider.url}
-                        for rider in race_startlist
-                    ]
-                except (AttributeError, TypeError):
-                    try:
-                        # Pattern 2: .startlist property
-                        riders = [
-                            {"name": rider.name, "url": rider.url}
-                            for rider in race_startlist.startlist
-                        ]
-                    except (AttributeError, TypeError):
-                        try:
-                            # Pattern 3: .parse() method
-                            startlist_data = race_startlist.parse()
-                            riders = [
-                                {"name": rider.name, "url": rider.url}
-                                for rider in startlist_data
-                            ]
-                        except Exception:
-                            # Fallback: inspect what's available
-                            print(f"  ℹ️  Available methods: {dir(race_startlist)}")
-                            riders = []
+                # Use the .startlist property
+                startlist_data = race_startlist.startlist
+                
+                # startlist_data should be a list of rider objects
+                riders = []
+                if startlist_data:
+                    for rider in startlist_data:
+                        # Extract rider info - check what attributes are available
+                        if hasattr(rider, 'name') and hasattr(rider, 'url'):
+                            riders.append({
+                                "name": rider.name,
+                                "url": rider.url
+                            })
+                        elif isinstance(rider, dict):
+                            riders.append({
+                                "name": rider.get('name', ''),
+                                "url": rider.get('url', '')
+                            })
+                
+                if riders:
+                    print(f"  ✓ Found {len(riders)} riders")
+                else:
+                    print(f"  ℹ️  No riders found (startlist may not be published yet)")
             else:
                 # Mock data - returns empty list
                 # To enable real data: uncomment the import at the top of the file
