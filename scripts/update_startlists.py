@@ -13,6 +13,8 @@ from datetime import datetime
 from pathlib import Path
 from time import sleep
 from collections import defaultdict
+import requests
+from bs4 import BeautifulSoup
 
 # IMPORTANT: Uncomment the next line to enable actual data fetching
 from procyclingstats import RaceStartlist
@@ -57,6 +59,58 @@ def load_races():
         normalized_races.append(normalized)
     
     return normalized_races
+
+
+def scrape_startlist_direct(url):
+    """
+    Directly scrape a PCS startlist page using BeautifulSoup.
+    Fallback when procyclingstats library fails.
+    
+    Args:
+        url: Full URL like "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
+    
+    Returns:
+        List of dicts with 'name' and 'url' keys
+    """
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        riders = []
+        
+        # Find all rider links in the startlist
+        rider_links = soup.find_all('a', href=lambda x: x and '/rider/' in x)
+        
+        seen_urls = set()  # Avoid duplicates
+        
+        for link in rider_links:
+            rider_url = link.get('href', '')
+            rider_name = link.get_text(strip=True)
+            
+            # Clean up the URL
+            if rider_url.startswith('http'):
+                rider_url = rider_url.replace('https://www.procyclingstats.com/', '')
+            elif rider_url.startswith('/'):
+                rider_url = rider_url[1:]  # Remove leading slash
+            
+            # Only include if we have both name and URL, and haven't seen it before
+            if rider_name and rider_url and rider_url not in seen_urls:
+                seen_urls.add(rider_url)
+                riders.append({
+                    'name': rider_name,
+                    'url': rider_url
+                })
+        
+        return riders
+        
+    except Exception as e:
+        print(f"  ⚠️  Direct scraping also failed: {e}")
+        return []
 
 
 def load_previous_snapshot():
@@ -121,10 +175,15 @@ def fetch_startlists(races):
                         print(f"  ℹ️  No riders found (startlist not published yet)")
                         
                 except AttributeError as e:
-                    # This happens when the page exists but startlist is empty
+                    # This happens when the page exists but startlist is empty/unparseable
                     if "'NoneType' object has no attribute" in str(e):
-                        print(f"  ℹ️  Startlist not published yet")
-                        riders = []
+                        print(f"  ⚠️  Library failed, trying direct scraping...")
+                        # Fallback to direct scraping
+                        riders = scrape_startlist_direct(race_url)
+                        if riders:
+                            print(f"  ✓ Direct scraping found {len(riders)} riders")
+                        else:
+                            print(f"  ℹ️  Startlist not published yet")
                     else:
                         raise
             else:
