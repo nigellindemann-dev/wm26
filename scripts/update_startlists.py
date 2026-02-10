@@ -99,12 +99,35 @@ def fetch_startlists(races):
                 use_real_data = False
             
             if use_real_data:
-                # Real data fetching (uncomment the import at the top first)
+                # Real data fetching
                 race_startlist = RaceStartlist(race_path)
-                riders = [
-                    {"name": rider.name, "url": rider.url}
-                    for rider in race_startlist.riders()
-                ]
+                
+                # Try different API patterns
+                try:
+                    # Pattern 1: Direct iteration
+                    riders = [
+                        {"name": rider.name, "url": rider.url}
+                        for rider in race_startlist
+                    ]
+                except (AttributeError, TypeError):
+                    try:
+                        # Pattern 2: .startlist property
+                        riders = [
+                            {"name": rider.name, "url": rider.url}
+                            for rider in race_startlist.startlist
+                        ]
+                    except (AttributeError, TypeError):
+                        try:
+                            # Pattern 3: .parse() method
+                            startlist_data = race_startlist.parse()
+                            riders = [
+                                {"name": rider.name, "url": rider.url}
+                                for rider in startlist_data
+                            ]
+                        except Exception:
+                            # Fallback: inspect what's available
+                            print(f"  ℹ️  Available methods: {dir(race_startlist)}")
+                            riders = []
             else:
                 # Mock data - returns empty list
                 # To enable real data: uncomment the import at the top of the file
