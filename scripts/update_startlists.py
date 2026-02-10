@@ -15,7 +15,7 @@ from time import sleep
 from collections import defaultdict
 
 # IMPORTANT: Uncomment the next line to enable actual data fetching
-from procyclingstats import RaceStartlist
+# from procyclingstats import RaceStartlist
 
 # Configuration
 RACES_CONFIG = Path("data/races_2026.json")
@@ -102,24 +102,17 @@ def fetch_startlists(races):
                 # Real data fetching
                 race_startlist = RaceStartlist(race_path)
                 
-                # Call the .startlist() method
+                # Call the .startlist() method - returns list of dicts
                 startlist_data = race_startlist.startlist()
                 
-                # startlist_data should be a list of rider objects
+                # Extract riders from the dict format
                 riders = []
                 if startlist_data:
-                    for rider in startlist_data:
-                        # Extract rider info - check what attributes are available
-                        if hasattr(rider, 'name') and hasattr(rider, 'url'):
-                            riders.append({
-                                "name": rider.name,
-                                "url": rider.url
-                            })
-                        elif isinstance(rider, dict):
-                            riders.append({
-                                "name": rider.get('name', ''),
-                                "url": rider.get('url', '')
-                            })
+                    for rider_dict in startlist_data:
+                        riders.append({
+                            "name": rider_dict.get('rider_name', ''),
+                            "url": rider_dict.get('rider_url', '')
+                        })
                 
                 if riders:
                     print(f"  ✓ Found {len(riders)} riders")
