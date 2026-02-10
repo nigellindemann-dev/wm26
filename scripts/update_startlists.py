@@ -73,11 +73,29 @@ def scrape_startlist_direct(url):
         List of dicts with 'name' and 'url' keys
     """
     try:
+        # Use headers that mimic a real browser more closely
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Cache-Control': 'max-age=0'
         }
         
-        response = requests.get(url, headers=headers, timeout=10)
+        # Create a session to maintain cookies
+        session = requests.Session()
+        session.headers.update(headers)
+        
+        # Small delay to be polite
+        sleep(0.5)
+        
+        response = session.get(url, timeout=15)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -108,8 +126,15 @@ def scrape_startlist_direct(url):
         
         return riders
         
+    except requests.exceptions.HTTPError as e:
+        if '403' in str(e):
+            print(f"  ⚠️  Access blocked (403) - PCS may be blocking automated requests")
+            print(f"  💡  The procyclingstats library handles this better - it may work after retrying")
+        else:
+            print(f"  ⚠️  HTTP error: {e}")
+        return []
     except Exception as e:
-        print(f"  ⚠️  Direct scraping also failed: {e}")
+        print(f"  ⚠️  Direct scraping error: {e}")
         return []
 
 
@@ -157,35 +182,41 @@ def fetch_startlists(races):
                 try:
                     race_startlist = RaceStartlist(race_path)
                     
-                    # Call the .startlist() method - returns list of dicts
-                    startlist_data = race_startlist.startlist()
+                    # Only request the fields we actually need (rider_name, rider_url)
+                    # This is more robust for preliminary startlists
+                    try:
+                        startlist_data = race_startlist.startlist('rider_name', 'rider_url')
+                    except (ValueError, AttributeError, TypeError):
+                        # If specific fields fail, try without arguments
+                        startlist_data = race_startlist.startlist()
                     
                     # Extract riders from the dict format
                     riders = []
-                    if startlist_data:
+                    if startlist_data and isinstance(startlist_data, list):
                         for rider_dict in startlist_data:
-                            riders.append({
-                                "name": rider_dict.get('rider_name', ''),
-                                "url": rider_dict.get('rider_url', '')
-                            })
+                            rider_name = rider_dict.get('rider_name', '')
+                            rider_url = rider_dict.get('rider_url', '')
+                            
+                            # Only add if we have both name and URL
+                            if rider_name and rider_url:
+                                riders.append({
+                                    "name": rider_name,
+                                    "url": rider_url
+                                })
                     
                     if riders:
                         print(f"  ✓ Found {len(riders)} riders")
                     else:
-                        print(f"  ℹ️  No riders found (startlist not published yet)")
+                        print(f"  ℹ️  Startlist returned no riders")
                         
                 except AttributeError as e:
-                    # This happens when the page exists but startlist is empty/unparseable
-                    if "'NoneType' object has no attribute" in str(e):
-                        print(f"  ⚠️  Library failed, trying direct scraping...")
-                        # Fallback to direct scraping
-                        riders = scrape_startlist_direct(race_url)
-                        if riders:
-                            print(f"  ✓ Direct scraping found {len(riders)} riders")
-                        else:
-                            print(f"  ℹ️  Startlist not published yet")
-                    else:
-                        raise
+                    error_msg = str(e)
+                    print(f"  ⚠️  Parse error: {error_msg[:150]}")
+                    riders = []
+                        
+                except Exception as e:
+                    print(f"  ⚠️  Error: {type(e).__name__}: {str(e)[:150]}")
+                    riders = []
             else:
                 # Mock data - returns empty list
                 # To enable real data: uncomment the import at the top of the file
