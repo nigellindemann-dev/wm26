@@ -182,37 +182,68 @@ def fetch_startlists(races):
                 try:
                     race_startlist = RaceStartlist(race_path)
                     
-                    # Only request the fields we actually need (rider_name, rider_url)
-                    # This is more robust for preliminary startlists
+                    # Try the library's method first
                     try:
                         startlist_data = race_startlist.startlist('rider_name', 'rider_url')
-                    except (ValueError, AttributeError, TypeError):
-                        # If specific fields fail, try without arguments
-                        startlist_data = race_startlist.startlist()
-                    
-                    # Extract riders from the dict format
-                    riders = []
-                    if startlist_data and isinstance(startlist_data, list):
-                        for rider_dict in startlist_data:
-                            rider_name = rider_dict.get('rider_name', '')
-                            rider_url = rider_dict.get('rider_url', '')
+                    except AttributeError as ae:
+                        # Library can't parse - manually extract from HTML
+                        if "'NoneType' object has no attribute" in str(ae):
+                            print(f"  💡 Library parser failed, extracting manually...")
+                            riders = []
                             
-                            # Only add if we have both name and URL
-                            if rider_name and rider_url:
-                                riders.append({
-                                    "name": rider_name,
-                                    "url": rider_url
-                                })
+                            # Get the raw HTML
+                            html = race_startlist.html
+                            if html:
+                                # Find all rider links
+                                rider_links = html.css('a[href*="/rider/"]')
+                                seen_urls = set()
+                                
+                                for link in rider_links:
+                                    rider_url = link.attributes.get('href', '')
+                                    rider_name = link.text(strip=True)
+                                    
+                                    # Clean URL
+                                    if rider_url.startswith('/'):
+                                        rider_url = rider_url[1:]
+                                    
+                                    # Add if valid and not duplicate
+                                    if rider_name and rider_url and rider_url not in seen_urls:
+                                        seen_urls.add(rider_url)
+                                        riders.append({
+                                            'name': rider_name,
+                                            'url': rider_url
+                                        })
+                                
+                                if riders:
+                                    print(f"  ✓ Manual extraction found {len(riders)} riders")
+                                else:
+                                    print(f"  ℹ️  No riders in HTML")
+                                startlist_data = None  # Skip normal processing
+                            else:
+                                print(f"  ⚠️  No HTML content")
+                                riders = []
+                                startlist_data = None
+                        else:
+                            raise
                     
-                    if riders:
-                        print(f"  ✓ Found {len(riders)} riders")
-                    else:
-                        print(f"  ℹ️  Startlist returned no riders")
+                    # Normal processing if library worked
+                    if startlist_data is not None:
+                        riders = []
+                        if startlist_data and isinstance(startlist_data, list):
+                            for rider_dict in startlist_data:
+                                rider_name = rider_dict.get('rider_name', '')
+                                rider_url = rider_dict.get('rider_url', '')
+                                
+                                if rider_name and rider_url:
+                                    riders.append({
+                                        "name": rider_name,
+                                        "url": rider_url
+                                    })
                         
-                except AttributeError as e:
-                    error_msg = str(e)
-                    print(f"  ⚠️  Parse error: {error_msg[:150]}")
-                    riders = []
+                        if riders:
+                            print(f"  ✓ Found {len(riders)} riders")
+                        else:
+                            print(f"  ℹ️  Startlist returned no riders")
                         
                 except Exception as e:
                     print(f"  ⚠️  Error: {type(e).__name__}: {str(e)[:150]}")
