@@ -15,7 +15,7 @@ from time import sleep
 from collections import defaultdict
 
 # IMPORTANT: Uncomment the next line to enable actual data fetching
-from procyclingstats import RaceStartlist
+# from procyclingstats import RaceStartlist
 
 # Configuration
 RACES_CONFIG = Path("data/races_2026.json")
@@ -102,8 +102,8 @@ def fetch_startlists(races):
                 # Real data fetching
                 race_startlist = RaceStartlist(race_path)
                 
-                # Use the .startlist property
-                startlist_data = race_startlist.startlist
+                # Call the .startlist() method
+                startlist_data = race_startlist.startlist()
                 
                 # startlist_data should be a list of rider objects
                 riders = []
