@@ -79,16 +79,16 @@ def fetch_startlists(races):
         race_url = race["url"]
         
         # Extract path from full URL if needed
-        # procyclingstats library expects: "race/omloop-het-nieuwsblad/2026"
-        # Not: "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
+        # procyclingstats library expects: "race/omloop-het-nieuwsblad/2026/startlist"
+        # Your JSON has: "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
         if race_url.startswith("http"):
-            # Remove domain and /startlist suffix
+            # Remove domain but KEEP /startlist
             race_path = race_url.replace("https://www.procyclingstats.com/", "")
-            race_path = race_path.replace("/startlist", "")
         else:
             race_path = race_url
         
-        print(f"Fetching: {race_name} ({race_path})")
+        print(f"Fetching: {race_name}")
+        print(f"  URL path: {race_path}")
         
         try:
             # Check if RaceStartlist is available
@@ -100,24 +100,33 @@ def fetch_startlists(races):
             
             if use_real_data:
                 # Real data fetching
-                race_startlist = RaceStartlist(race_path)
-                
-                # Call the .startlist() method - returns list of dicts
-                startlist_data = race_startlist.startlist()
-                
-                # Extract riders from the dict format
-                riders = []
-                if startlist_data:
-                    for rider_dict in startlist_data:
-                        riders.append({
-                            "name": rider_dict.get('rider_name', ''),
-                            "url": rider_dict.get('rider_url', '')
-                        })
-                
-                if riders:
-                    print(f"  ✓ Found {len(riders)} riders")
-                else:
-                    print(f"  ℹ️  No riders found (startlist may not be published yet)")
+                try:
+                    race_startlist = RaceStartlist(race_path)
+                    
+                    # Call the .startlist() method - returns list of dicts
+                    startlist_data = race_startlist.startlist()
+                    
+                    # Extract riders from the dict format
+                    riders = []
+                    if startlist_data:
+                        for rider_dict in startlist_data:
+                            riders.append({
+                                "name": rider_dict.get('rider_name', ''),
+                                "url": rider_dict.get('rider_url', '')
+                            })
+                    
+                    if riders:
+                        print(f"  ✓ Found {len(riders)} riders")
+                    else:
+                        print(f"  ℹ️  No riders found (startlist not published yet)")
+                        
+                except AttributeError as e:
+                    # This happens when the page exists but startlist is empty
+                    if "'NoneType' object has no attribute" in str(e):
+                        print(f"  ℹ️  Startlist not published yet")
+                        riders = []
+                    else:
+                        raise
             else:
                 # Mock data - returns empty list
                 # To enable real data: uncomment the import at the top of the file
