@@ -15,7 +15,7 @@ from time import sleep
 from collections import defaultdict
 
 # IMPORTANT: Uncomment the next line to enable actual data fetching
-# from procyclingstats import RaceStartlist
+from procyclingstats import RaceStartlist
 
 # Configuration
 RACES_CONFIG = Path("data/races_2026.json")
