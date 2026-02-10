@@ -194,30 +194,46 @@ def fetch_startlists(races):
                             # Get the raw HTML
                             html = race_startlist.html
                             if html:
-                                # Find all rider links
-                                rider_links = html.css('a[href*="/rider/"]')
-                                seen_urls = set()
+                                # The 2026 pages use <ul class="startlist_v4"> structure
+                                startlist_container = html.css_first('ul.startlist_v4')
                                 
-                                for link in rider_links:
-                                    rider_url = link.attributes.get('href', '')
-                                    rider_name = link.text(strip=True)
+                                if startlist_container:
+                                    print(f"  🔍 Found startlist_v4 container, extracting riders...")
                                     
-                                    # Clean URL
-                                    if rider_url.startswith('/'):
-                                        rider_url = rider_url[1:]
+                                    riders = []
+                                    seen_urls = set()
                                     
-                                    # Add if valid and not duplicate
-                                    if rider_name and rider_url and rider_url not in seen_urls:
-                                        seen_urls.add(rider_url)
-                                        riders.append({
-                                            'name': rider_name,
-                                            'url': rider_url
-                                        })
-                                
-                                if riders:
-                                    print(f"  ✓ Manual extraction found {len(riders)} riders")
+                                    # Each team is in a <li>, find all rider containers
+                                    riders_containers = startlist_container.css('div.ridersCont')
+                                    
+                                    for container in riders_containers:
+                                        # Find rider list within this team
+                                        rider_links = container.css('ul li a[href*="rider/"]')
+                                        
+                                        for link in rider_links:
+                                            rider_url = link.attributes.get('href', '')
+                                            rider_name = link.text(strip=True)
+                                            
+                                            # Clean URL
+                                            if rider_url.startswith('/'):
+                                                rider_url = rider_url[1:]
+                                            
+                                            # Add if valid and not duplicate
+                                            if rider_name and rider_url and rider_url not in seen_urls:
+                                                seen_urls.add(rider_url)
+                                                riders.append({
+                                                    'name': rider_name,
+                                                    'url': rider_url
+                                                })
+                                    
+                                    if riders:
+                                        print(f"  ✓ Manual extraction found {len(riders)} riders")
+                                    else:
+                                        print(f"  ⚠️  Container found but no riders extracted")
                                 else:
-                                    print(f"  ℹ️  No riders in HTML")
+                                    print(f"  ⚠️  No startlist_v4 container found in HTML")
+                                    riders = []
+                                    
                                 startlist_data = None  # Skip normal processing
                             else:
                                 print(f"  ⚠️  No HTML content")
