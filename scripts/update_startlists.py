@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch cycling race startlists and generate outputs:
+Fetch cycling race startlists and generate:
 - startlist_matrix.csv
 - startlist_changes.csv
 - startlist_snapshot.json
@@ -9,504 +9,242 @@ Fetch cycling race startlists and generate outputs:
 import json
 import csv
 import os
+import re
+import time
 from datetime import datetime
 from pathlib import Path
 from time import sleep
-from collections import defaultdict
-import requests
-from bs4 import BeautifulSoup
 
-# IMPORTANT: Uncomment the next line to enable actual data fetching
-from procyclingstats import RaceStartlist
+import cloudscraper
+import procyclingstats as pcs
 
-# Configuration
+
+# ======================
+# Config
+# ======================
+
 RACES_CONFIG = Path("data/races_2026.json")
 OUTPUT_DIR = Path("output")
+
 SNAPSHOT_FILE = OUTPUT_DIR / "startlist_snapshot.json"
 MATRIX_FILE = OUTPUT_DIR / "startlist_matrix.csv"
 CHANGES_FILE = OUTPUT_DIR / "startlist_changes.csv"
+
 SLEEP_SECONDS = float(os.getenv("PCS_SLEEP_SECONDS", "1.0"))
 
 
+# ======================
+# Utils
+# ======================
+
 def load_races():
-    """Load race configuration from JSON."""
+    """Load race config supporting both flat and legacy formats."""
     with open(RACES_CONFIG) as f:
         data = json.load(f)
-    
-    # Handle different JSON structures
+
     if isinstance(data, list):
-        # If it's already a list of race objects
-        races = data
-    elif isinstance(data, dict):
-        # If it's a dict with a "races" key
-        if "races" in data:
-            races = data["races"]
-        # If it's a single race object, wrap it in a list
-        elif "race_name" in data or "name" in data:
-            races = [data]
-        else:
-            raise ValueError(f"Unexpected JSON structure in {RACES_CONFIG}: {list(data.keys())}")
-    else:
-        raise ValueError(f"Expected list or dict in {RACES_CONFIG}, got {type(data)}")
-    
-    # Normalize field names to use 'name' and 'url' consistently
-    normalized_races = []
-    for race in races:
-        normalized = {
-            "name": race.get("race_name") or race.get("name"),
-            "url": race.get("pcs_url") or race.get("url")
-        }
-        normalized_races.append(normalized)
-    
-    return normalized_races
+        return data
+
+    if isinstance(data, dict) and "races" in data:
+        return [
+            {"name": r["race_name"], "url": r["pcs_url"]}
+            for r in data["races"]
+        ]
+
+    raise ValueError("Unsupported races JSON format")
 
 
-def scrape_startlist_direct(url):
-    """
-    Directly scrape a PCS startlist page using BeautifulSoup.
-    Fallback when procyclingstats library fails.
-    
-    Args:
-        url: Full URL like "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
-    
-    Returns:
-        List of dicts with 'name' and 'url' keys
-    """
-    try:
-        # Use headers that mimic a real browser more closely
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'DNT': '1',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
-            'Sec-Fetch-Dest': 'document',
-            'Sec-Fetch-Mode': 'navigate',
-            'Sec-Fetch-Site': 'none',
-            'Cache-Control': 'max-age=0'
-        }
-        
-        # Create a session to maintain cookies
-        session = requests.Session()
-        session.headers.update(headers)
-        
-        # Small delay to be polite
-        sleep(0.5)
-        
-        response = session.get(url, timeout=15)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        riders = []
-        
-        # Find all rider links in the startlist
-        rider_links = soup.find_all('a', href=lambda x: x and '/rider/' in x)
-        
-        seen_urls = set()  # Avoid duplicates
-        
-        for link in rider_links:
-            rider_url = link.get('href', '')
-            rider_name = link.get_text(strip=True)
-            
-            # Clean up the URL
-            if rider_url.startswith('http'):
-                rider_url = rider_url.replace('https://www.procyclingstats.com/', '')
-            elif rider_url.startswith('/'):
-                rider_url = rider_url[1:]  # Remove leading slash
-            
-            # Only include if we have both name and URL, and haven't seen it before
-            if rider_name and rider_url and rider_url not in seen_urls:
-                seen_urls.add(rider_url)
-                riders.append({
-                    'name': rider_name,
-                    'url': rider_url
-                })
-        
-        return riders
-        
-    except requests.exceptions.HTTPError as e:
-        if '403' in str(e):
-            print(f"  ⚠️  Access blocked (403) - PCS may be blocking automated requests")
-            print(f"  💡  The procyclingstats library handles this better - it may work after retrying")
-        else:
-            print(f"  ⚠️  HTTP error: {e}")
-        return []
-    except Exception as e:
-        print(f"  ⚠️  Direct scraping error: {e}")
-        return []
+def rel_pcs(url: str) -> str:
+    """Convert full PCS URL → relative path required by library."""
+    return re.sub(r"^https?://www\.procyclingstats\.com/", "", url.strip()).lstrip("/")
 
 
-def load_previous_snapshot():
-    """Load the previous snapshot if it exists."""
-    if SNAPSHOT_FILE.exists():
-        with open(SNAPSHOT_FILE) as f:
-            return json.load(f)
-    return {}
+def fetch_html(scraper, url, retries=3, timeout=30):
+    last_err = None
+    for attempt in range(retries):
+        try:
+            resp = scraper.get(url, timeout=timeout)
+            if resp.status_code == 200 and resp.text and len(resp.text) > 500:
+                return resp.text
+            last_err = Exception(f"HTTP {resp.status_code} or short HTML")
+        except Exception as e:
+            last_err = e
+        time.sleep(2 * (attempt + 1))
+    raise last_err
 
+
+# ======================
+# Fetch PCS startlists
+# ======================
 
 def fetch_startlists(races):
-    """
-    Fetch all startlists from ProCyclingStats.
-    Returns: dict mapping race_name -> list of {rider_name, rider_url}
-    """
     startlists = {}
-    
+
+    scraper = cloudscraper.create_scraper(
+        browser={"browser": "chrome", "platform": "windows", "mobile": False}
+    )
+
     for race in races:
         race_name = race["name"]
-        race_url = race["url"]
-        
-        # Extract path from full URL if needed
-        # procyclingstats library expects: "race/omloop-het-nieuwsblad/2026/startlist"
-        # Your JSON has: "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2026/startlist"
-        if race_url.startswith("http"):
-            # Remove domain but KEEP /startlist
-            race_path = race_url.replace("https://www.procyclingstats.com/", "")
-        else:
-            race_path = race_url
-        
+        url = race["url"]
+
         print(f"Fetching: {race_name}")
-        print(f"  URL path: {race_path}")
-        
+
         try:
-            # Check if RaceStartlist is available
-            try:
-                RaceStartlist
-                use_real_data = True
-            except NameError:
-                use_real_data = False
-            
-            if use_real_data:
-                # Real data fetching
-                try:
-                    race_startlist = RaceStartlist(race_path)
-                    
-                    # Try the library's method first
-                    try:
-                        startlist_data = race_startlist.startlist('rider_name', 'rider_url')
-                    except AttributeError as ae:
-                        # Library can't parse - manually extract from HTML
-                        if "'NoneType' object has no attribute" in str(ae):
-                            print(f"  💡 Library parser failed, extracting manually...")
-                            riders = []
-                            
-                            # Get the raw HTML  
-                            html = race_startlist.html
-                            if html:
-                                # Debug: Check what we actually got
-                                html_text = html.html if hasattr(html, 'html') else str(html)
-                                print(f"  🔍 HTML length: {len(html_text)} chars")
-                                
-                                # Check for common error patterns
-                                if 'cloudflare' in html_text.lower():
-                                    print(f"  ⚠️  Cloudflare protection detected")
-                                elif 'access denied' in html_text.lower() or '403' in html_text:
-                                    print(f"  ⚠️  Access denied / 403 error")
-                                elif len(html_text) < 1000:
-                                    print(f"  ⚠️  HTML suspiciously short")
-                                    print(f"  📄 Content preview: {html_text[:300]}")
-                                
-                                # Try to find rider links
-                                all_links = html.css('a')
-                                print(f"  🔍 Total <a> tags found: {len(all_links)}")
-                                
-                                riders = []
-                                seen_urls = set()
-                                
-                                for link in all_links:
-                                    href = link.attributes.get('href', '')
-                                    if 'rider/' in href:
-                                        rider_url = href
-                                        rider_name = link.text(strip=True)
-                                        
-                                        if rider_url.startswith('/'):
-                                            rider_url = rider_url[1:]
-                                        
-                                        if rider_name and rider_url and rider_url not in seen_urls:
-                                            seen_urls.add(rider_url)
-                                            riders.append({
-                                                'name': rider_name,
-                                                'url': rider_url
-                                            })
-                                
-                                if riders:
-                                    print(f"  ✓ Found {len(riders)} riders")
-                                else:
-                                    print(f"  ⚠️  No rider links found - page may not have loaded correctly")
-                                    
-                                startlist_data = None  # Skip normal processing
-                            else:
-                                print(f"  ⚠️  No HTML content")
-                                riders = []
-                                startlist_data = None
-                        else:
-                            raise
-                    
-                    # Normal processing if library worked
-                    if startlist_data is not None:
-                        riders = []
-                        if startlist_data and isinstance(startlist_data, list):
-                            for rider_dict in startlist_data:
-                                rider_name = rider_dict.get('rider_name', '')
-                                rider_url = rider_dict.get('rider_url', '')
-                                
-                                if rider_name and rider_url:
-                                    riders.append({
-                                        "name": rider_name,
-                                        "url": rider_url
-                                    })
-                        
-                        if riders:
-                            print(f"  ✓ Found {len(riders)} riders")
-                        else:
-                            print(f"  ℹ️  Startlist returned no riders")
-                        
-                except Exception as e:
-                    print(f"  ⚠️  Error: {type(e).__name__}: {str(e)[:150]}")
-                    riders = []
-            else:
-                # Mock data - returns empty list
-                # To enable real data: uncomment the import at the top of the file
-                riders = []
-                print(f"  ℹ️  Using mock data (import RaceStartlist to fetch real data)")
-            
+            rel = rel_pcs(url)
+            html = fetch_html(scraper, url)
+
+            data = pcs.RaceStartlist(rel, html, update_html=False).startlist(
+                "rider_name", "rider_url"
+            )
+
+            riders = []
+            for r in data or []:
+                name = (r.get("rider_name") or "").strip()
+                rider_url = (r.get("rider_url") or "").strip()
+                if name and rider_url:
+                    riders.append({"name": name, "url": rider_url})
+
+            print(f"  ✓ {len(riders)} riders")
             startlists[race_name] = riders
-            
+
         except Exception as e:
-            print(f"  ⚠️  Error fetching {race_name}: {e}")
+            print(f"  ⚠️ Failed: {type(e).__name__}: {e}")
             startlists[race_name] = []
-        
-        # Be polite to the server
+
         sleep(SLEEP_SECONDS)
-    
+
     return startlists
 
 
+# ======================
+# Snapshot + changes
+# ======================
+
 def build_snapshot(startlists):
-    """
-    Build a snapshot keyed by rider_url.
-    Format: {rider_url: {name: str, races: [race_names]}}
-    """
     snapshot = {}
-    
     for race_name, riders in startlists.items():
-        for rider in riders:
-            rider_url = rider["url"]
-            
-            if rider_url not in snapshot:
-                snapshot[rider_url] = {
-                    "name": rider["name"],
-                    "races": []
-                }
-            
-            snapshot[rider_url]["races"].append(race_name)
-    
+        for r in riders:
+            url = r["url"]
+            if url not in snapshot:
+                snapshot[url] = {"name": r["name"], "races": []}
+            snapshot[url]["races"].append(race_name)
     return snapshot
 
 
-def compute_changes(old_snapshot, new_snapshot):
-    """
-    Compare snapshots and return a list of changes.
-    Returns: list of {timestamp, race, change_type, rider_name, rider_url}
-    """
+def load_previous_snapshot():
+    if SNAPSHOT_FILE.exists():
+        return json.loads(SNAPSHOT_FILE.read_text())
+    return {}
+
+
+def compute_changes(old, new):
     changes = []
     timestamp = datetime.utcnow().isoformat() + "Z"
-    
-    # Handle old snapshot format (if it's structured differently)
-    # Old format might be: {race_name: [rider_urls]} or {race_name: {rider_url: rider_name}}
-    # New format is: {rider_url: {name: str, races: [race_names]}}
-    
-    # Normalize old_snapshot to new format if needed
-    normalized_old = {}
-    if old_snapshot:
-        # Check if it has the old structure with "races" or "timestamp_utc" keys
-        if "races" in old_snapshot or "timestamp_utc" in old_snapshot:
-            # Old format: {timestamp_utc: ..., races: {race_name: [riders]}}
-            old_races_data = old_snapshot.get("races", {})
-            
-            for race_name, riders in old_races_data.items():
-                if isinstance(riders, list):
-                    for rider in riders:
-                        # Rider might be a string (URL) or dict with 'url' and 'name'
-                        if isinstance(rider, str):
-                            rider_url = rider
-                            rider_name = ""
-                        elif isinstance(rider, dict):
-                            rider_url = rider.get("url", rider.get("rider_url", ""))
-                            rider_name = rider.get("name", rider.get("rider_name", ""))
-                        else:
-                            continue
-                        
-                        if rider_url and rider_url not in normalized_old:
-                            normalized_old[rider_url] = {
-                                "name": rider_name,
-                                "races": []
-                            }
-                        if rider_url:
-                            normalized_old[rider_url]["races"].append(race_name)
-        else:
-            # Check if it's already in the new format
-            first_key = next(iter(old_snapshot))
-            first_value = old_snapshot[first_key]
-            
-            if isinstance(first_value, dict) and "races" in first_value:
-                # Already in new format
-                normalized_old = old_snapshot
-            elif isinstance(first_value, str):
-                # Old format: {rider_url: rider_name} - need to reconstruct races from context
-                # For now, just use empty to avoid errors on first migration
-                normalized_old = {}
-            elif isinstance(first_value, list):
-                # Old format: {race_name: [rider_urls]} - need to invert
-                # Invert it to new format
-                for race_name, rider_list in old_snapshot.items():
-                    if isinstance(rider_list, list):
-                        for rider_url in rider_list:
-                            if rider_url not in normalized_old:
-                                normalized_old[rider_url] = {
-                                    "name": "",  # Don't have name in old format
-                                    "races": []
-                                }
-                            normalized_old[rider_url]["races"].append(race_name)
-            else:
-                # Unknown format, start fresh
-                normalized_old = {}
-    
-    # Find all unique riders across both snapshots
-    all_rider_urls = set(normalized_old.keys()) | set(new_snapshot.keys())
-    
-    for rider_url in all_rider_urls:
-        old_races = set(normalized_old.get(rider_url, {}).get("races", []))
-        new_races = set(new_snapshot.get(rider_url, {}).get("races", []))
-        
-        rider_name = (
-            new_snapshot.get(rider_url, {}).get("name") or
-            normalized_old.get(rider_url, {}).get("name") or
-            "Unknown"
-        )
-        
-        # Races added
-        for race in new_races - old_races:
+
+    all_urls = set(old.keys()) | set(new.keys())
+
+    for url in all_urls:
+        old_r = set(old.get(url, {}).get("races", []))
+        new_r = set(new.get(url, {}).get("races", []))
+        name = new.get(url, {}).get("name") or old.get(url, {}).get("name") or "Unknown"
+
+        for race in new_r - old_r:
             changes.append({
                 "timestamp": timestamp,
                 "race": race,
                 "change_type": "ADDED",
-                "rider_name": rider_name,
-                "rider_url": rider_url
+                "rider_name": name,
+                "rider_url": url
             })
-        
-        # Races removed
-        for race in old_races - new_races:
+
+        for race in old_r - new_r:
             changes.append({
                 "timestamp": timestamp,
                 "race": race,
                 "change_type": "REMOVED",
-                "rider_name": rider_name,
-                "rider_url": rider_url
+                "rider_name": name,
+                "rider_url": url
             })
-    
+
     return changes
 
 
 def append_changes(changes):
-    """Append changes to the CSV log file."""
     if not changes:
-        print("No changes detected.")
+        print("No changes.")
         return
-    
-    file_exists = CHANGES_FILE.exists()
-    
-    with open(CHANGES_FILE, 'a', newline='', encoding='utf-8') as f:
+
+    exists = CHANGES_FILE.exists()
+    with open(CHANGES_FILE, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=[
             "timestamp", "race", "change_type", "rider_name", "rider_url"
         ])
-        
-        if not file_exists:
+        if not exists:
             writer.writeheader()
-        
         writer.writerows(changes)
-    
-    print(f"Logged {len(changes)} changes to {CHANGES_FILE}")
 
+    print(f"Logged {len(changes)} changes")
+
+
+# ======================
+# Matrix output
+# ======================
 
 def generate_matrix(snapshot, races):
-    """
-    Generate the presence matrix CSV.
-    Rows: riders (sorted by name)
-    Columns: races (in config order) + races_count
-    """
-    race_names = [race["name"] for race in races]
-    
-    # Build rows: one per rider
+    race_names = [r["name"] for r in races]
+
     rows = []
     for rider_url, data in snapshot.items():
-        rider_name = data["name"]
+        row = {
+            "rider_name": data["name"],
+            "rider_url": rider_url
+        }
+
         rider_races = set(data["races"])
-        
-        row = {"rider_name": rider_name}
-        
-        # Mark presence in each race
-        for race_name in race_names:
-            row[race_name] = "X" if race_name in rider_races else ""
-        
-        # Count total races
+        for race in race_names:
+            row[race] = "X" if race in rider_races else ""
+
         row["races_count"] = f"{len(rider_races)}/{len(race_names)}"
-        
         rows.append(row)
-    
-    # Sort by rider name
-    rows.sort(key=lambda r: r["rider_name"])
-    
-    # Write CSV
-    with open(MATRIX_FILE, 'w', newline='', encoding='utf-8') as f:
-        fieldnames = ["rider_name"] + race_names + ["races_count"]
+
+    rows.sort(key=lambda r: (r["rider_name"], r["rider_url"]))
+
+    with open(MATRIX_FILE, "w", newline="", encoding="utf-8") as f:
+        fieldnames = ["rider_name", "rider_url"] + race_names + ["races_count"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
-    
-    print(f"Generated matrix: {MATRIX_FILE} ({len(rows)} riders)")
+
+    print(f"Matrix written ({len(rows)} riders)")
 
 
 def save_snapshot(snapshot):
-    """Save the current snapshot to JSON."""
-    with open(SNAPSHOT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(snapshot, f, indent=2, ensure_ascii=False)
-    
-    print(f"Saved snapshot: {SNAPSHOT_FILE}")
+    SNAPSHOT_FILE.write_text(json.dumps(snapshot, indent=2, ensure_ascii=False))
 
+
+# ======================
+# Main
+# ======================
 
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
-    
-    print("Loading race configuration...")
+
     races = load_races()
     print(f"Tracking {len(races)} races")
-    
-    # Debug: show first race to verify structure
-    if races:
-        print(f"First race example: {races[0]}")
-    
-    print("\nFetching startlists...")
+
     startlists = fetch_startlists(races)
-    
-    print("\nBuilding snapshot...")
+
     new_snapshot = build_snapshot(startlists)
-    
-    print("\nDetecting changes...")
     old_snapshot = load_previous_snapshot()
+
     changes = compute_changes(old_snapshot, new_snapshot)
-    
-    print("\nAppending changes to log...")
     append_changes(changes)
-    
-    print("\nGenerating matrix...")
+
     generate_matrix(new_snapshot, races)
-    
-    print("\nSaving snapshot...")
     save_snapshot(new_snapshot)
-    
-    print("\n✅ Done!")
+
+    print("✅ Done")
 
 
 if __name__ == "__main__":
