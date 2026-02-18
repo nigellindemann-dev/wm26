@@ -1,3 +1,6 @@
 procyclingstats
 beautifulsoup4
 requests
+procyclingstats
+gspread
+cloudscraper
