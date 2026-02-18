@@ -1,1 +1,3050 @@
-{}
+{
+  "rider/soren-waerenskjold": {
+    "name": "WÆRENSKJOLD Søren",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jonas-abrahamsen": {
+    "name": "ABRAHAMSEN Jonas",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/carl-frederik-bevort": {
+    "name": "BÉVORT Carl-Frederik",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/sven-erik-bystrom": {
+    "name": "BYSTRØM Sven Erik",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/markus-hoelgaard": {
+    "name": "HOELGAARD Markus",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/erik-nordsaeter-resell": {
+    "name": "RESELL Erik Nordsæter",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/rasmus-tiller": {
+    "name": "TILLER Rasmus",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jasper-philipsen": {
+    "name": "PHILIPSEN Jasper",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Scheldeprijs",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/kaden-groves": {
+    "name": "GROVES Kaden",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/tobias-bayer": {
+    "name": "BAYER Tobias",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/lennert-belmans": {
+    "name": "BELMANS Lennert",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jonas-geens": {
+    "name": "GEENS Jonas",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/edward-planckaert": {
+    "name": "PLANCKAERT Edward",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/oscar-riesebeek": {
+    "name": "RIESEBEEK Oscar",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/florian-senechal": {
+    "name": "SÉNÉCHAL Florian",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/matej-mohoric": {
+    "name": "MOHORIČ Matej",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/kamil-gradek": {
+    "name": "GRADEK Kamil",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/fran-miholjevic": {
+    "name": "MIHOLJEVIĆ Fran",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/pau-miquel-delgado": {
+    "name": "MIQUEL Pau",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/alec-segaert": {
+    "name": "SEGAERT Alec",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/attila-valter": {
+    "name": "VALTER Attila",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/vlad-van-mechelen": {
+    "name": "VAN MECHELEN Vlad",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/tiesj-benoot": {
+    "name": "BENOOT Tiesj",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/stefan-bissegger": {
+    "name": "BISSEGGER Stefan",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/oscar-chamberlain": {
+    "name": "CHAMBERLAIN Oscar",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/sander-de-pestel": {
+    "name": "DE PESTEL Sander",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/stan-dewulf": {
+    "name": "DEWULF Stan",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/oliver-naesen": {
+    "name": "NAESEN Oliver",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/rasmus-sojbergpedersen": {
+    "name": "PEDERSEN Rasmus Søjberg",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Ronde van Brugge",
+      "E3 Saxo Classic"
+    ]
+  },
+  "rider/kasper-asgreen": {
+    "name": "ASGREEN Kasper",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/vincenzo-albanese": {
+    "name": "ALBANESE Vincenzo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/noah-hobbs": {
+    "name": "HOBBS Noah",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/mikkel-honore": {
+    "name": "HONORÉ Mikkel Frølich",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/luke-lamperti": {
+    "name": "LAMPERTI Luke",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/colby-simmons": {
+    "name": "SIMMONS Colby",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/marijn-van-den-berg": {
+    "name": "VAN DEN BERG Marijn",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/valentin-madouas": {
+    "name": "MADOUAS Valentin",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/cyril-barthe": {
+    "name": "BARTHE Cyril",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/thibaud-gruel": {
+    "name": "GRUEL Thibaud",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/axel-huens": {
+    "name": "HUENS Axel",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
+    ]
+  },
+  "rider/johan-jacobs": {
+    "name": "JACOBS Johan",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/clement-russo": {
+    "name": "RUSSO Clément",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/bastien-tronchon": {
+    "name": "TRONCHON Bastien",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Strade Bianche",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/michal-kwiatkowski": {
+    "name": "KWIATKOWSKI Michał",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/kim-heiduk": {
+    "name": "HEIDUK Kim",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/magnus-sheffield": {
+    "name": "SHEFFIELD Magnus",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/artem-shmidt": {
+    "name": "SHMIDT Artem",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/ben-swift": {
+    "name": "SWIFT Ben",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/ben-turner": {
+    "name": "TURNER Ben",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/samuel-watson": {
+    "name": "WATSON Samuel",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/soren-kragh-andersen": {
+    "name": "KRAGH ANDERSEN Søren",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/toms-skujins": {
+    "name": "SKUJIŅŠ Toms",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jakob-soderqvist": {
+    "name": "SÖDERQVIST Jakob",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/tim-torn-teutenberg": {
+    "name": "TEUTENBERG Tim Torn",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic"
+    ]
+  },
+  "rider/edward-theuns": {
+    "name": "THEUNS Edward",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/mathias-vacek": {
+    "name": "VACEK Mathias",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/otto-vergaerde": {
+    "name": "VERGAERDE Otto",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/arnaud-de-lie": {
+    "name": "DE LIE Arnaud",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/huub-artz": {
+    "name": "ARTZ Huub",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Milaan-Sanremo",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/jenno-berckmoes": {
+    "name": "BERCKMOES Jenno",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/cedric-beullens": {
+    "name": "BEULLENS Cedric",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/sebastien-grignard": {
+    "name": "GRIGNARD Sébastien",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/luca-van-boven": {
+    "name": "VAN BOVEN Luca",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/roel-van-sintmaartensdijk": {
+    "name": "VAN SINTMAARTENSDIJK Roel",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/roger-adria": {
+    "name": "ADRIÀ Roger",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/orluis-aular": {
+    "name": "AULAR Orluis",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jon-barrenetxea-golzarri": {
+    "name": "BARRENETXEA Jon",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/carlos-canal": {
+    "name": "CANAL Carlos",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/ivan-garcia-cortina": {
+    "name": "GARCÍA CORTINA Iván",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/filip-maciejuk": {
+    "name": "MACIEJUK Filip",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/manlio-moro": {
+    "name": "MORO Manlio",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/biniam-girmay": {
+    "name": "GIRMAY Biniam",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/lewis-askey": {
+    "name": "ASKEY Lewis",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/guillaume-boivin": {
+    "name": "BOIVIN Guillaume",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/matis-louvel": {
+    "name": "LOUVEL Matis",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/ryan-mullen": {
+    "name": "MULLEN Ryan",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/riley-sheehan": {
+    "name": "SHEEHAN Riley",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/tom-van-asbroeck": {
+    "name": "VAN ASBROECK Tom",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/jordi-meeus": {
+    "name": "MEEUS Jordi",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "In Flanders Fields",
+      "Scheldeprijs",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/jarrad-drizners": {
+    "name": "DRIZNERS Jarrad",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/laurence-pithie": {
+    "name": "PITHIE Laurence",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/mick-van-dijke": {
+    "name": "VAN DIJKE Mick",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/tim-van-dijke": {
+    "name": "VAN DIJKE Tim",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/danny-van-poppel": {
+    "name": "VAN POPPEL Danny",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "In Flanders Fields",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/gianni-vermeersch": {
+    "name": "VERMEERSCH Gianni",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Strade Bianche",
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/yves-lampaert": {
+    "name": "LAMPAERT Yves",
+    "races": [
+      "Omloop Nieuwsblad",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/paul-magnier": {
+    "name": "MAGNIER Paul",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/casper-pedersen": {
+    "name": "PEDERSEN Casper",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/laurenz-rex": {
+    "name": "REX Laurenz",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/jasper-stuyven": {
+    "name": "STUYVEN Jasper",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/dylan-van-baarle": {
+    "name": "VAN BAARLE Dylan",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/dries-van-gestel": {
+    "name": "VAN GESTEL Dries",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/amaury-capiot": {
+    "name": "CAPIOT Amaury",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/dries-de-bondt": {
+    "name": "DE BONDT Dries",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Ronde van Limburg"
+    ]
+  },
+  "rider/dries-de-pooter": {
+    "name": "DE POOTER Dries",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/robert-donaldson": {
+    "name": "DONALDSON Robert",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/anders-foldager": {
+    "name": "FOLDAGER Anders",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/jelte-krijnsen": {
+    "name": "KRIJNSEN Jelte",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/kelland-brien": {
+    "name": "O'BRIEN Kelland",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/john-degenkolb": {
+    "name": "DEGENKOLB John",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/timo-de-jong": {
+    "name": "DE JONG Timo",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/sean-flynn": {
+    "name": "FLYNN Sean",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/henri-francois-renard-haquin": {
+    "name": "RENARD-HAQUIN Henri-François",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/timo-roosen": {
+    "name": "ROOSEN Timo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/julius-van-den-berg": {
+    "name": "VAN DEN BERG Julius",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/frank-van-den-broek": {
+    "name": "VAN DEN BROEK Frank",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/wout-van-aert": {
+    "name": "VAN AERT Wout",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/edoardo-affini": {
+    "name": "AFFINI Edoardo",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/matthew-brennan": {
+    "name": "BRENNAN Matthew",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/per-strand-hagenes": {
+    "name": "HAGENES Per Strand",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/timo-kielich": {
+    "name": "KIELICH Timo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/christophe-laporte": {
+    "name": "LAPORTE Christophe",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/axel-zingle": {
+    "name": "ZINGLE Axel",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/tim-wellens": {
+    "name": "WELLENS Tim",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Nokere Koerse",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/rui-oliveira": {
+    "name": "OLIVEIRA Rui",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/mikkel-bjerg": {
+    "name": "BJERG Mikkel",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/rune-herregodts": {
+    "name": "HERREGODTS Rune",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/nils-politt": {
+    "name": "POLITT Nils",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/florian-vermeersch": {
+    "name": "VERMEERSCH Florian",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/davide-ballerini": {
+    "name": "BALLERINI Davide",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/alberto-bettiol": {
+    "name": "BETTIOL Alberto",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/yevgeniy-fedorov": {
+    "name": "FEDOROV Yevgeniy",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/aaron-gate": {
+    "name": "GATE Aaron",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/arjen-livyns": {
+    "name": "LIVYNS Arjen",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/alessandro-romele": {
+    "name": "ROMELE Alessandro",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/mike-teunissen": {
+    "name": "TEUNISSEN Mike",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/piet-allegaert": {
+    "name": "ALLEGAERT Piet",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/stanislaw-aniolkowski": {
+    "name": "ANIOŁKOWSKI Stanisław",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge"
+    ]
+  },
+  "rider/jenthe-biermans": {
+    "name": "BIERMANS Jenthe",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Nokere Koerse"
+    ]
+  },
+  "rider/alex-kirsch": {
+    "name": "KIRSCH Alex",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/hugo-page": {
+    "name": "PAGE Hugo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/alexis-renard": {
+    "name": "RENARD Alexis",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/dylan-teuns": {
+    "name": "TEUNS Dylan",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/thomas-pidcock": {
+    "name": "PIDCOCK Thomas",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/aime-de-gendt": {
+    "name": "DE GENDT Aimé",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/frederik-frison": {
+    "name": "FRISON Frederik",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/xandro-meurisse": {
+    "name": "MEURISSE Xandro",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/brent-van-moer": {
+    "name": "VAN MOER Brent",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/alfred-wright": {
+    "name": "WRIGHT Fred",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/nickolas-zukowsky": {
+    "name": "ZUKOWSKY Nickolas",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/clement-alleno": {
+    "name": "ALLENO Clément",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/rodrigo-alvarez-rogriguez": {
+    "name": "ÁLVAREZ Rodrigo",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/daniel-cavia-sanz": {
+    "name": "CAVIA Daniel",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/hugo-de-la-calle-arango": {
+    "name": "DE LA CALLE Hugo",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/eric-antonio-fagundez": {
+    "name": "FAGÚNDEZ Eric Antonio",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/vojtech-kminek": {
+    "name": "KMÍNEK Vojtěch",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/cesar-macias-estrada": {
+    "name": "MACÍAS César",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/stefan-kung": {
+    "name": "KÜNG Stefan",
+    "races": [
+      "Omloop Nieuwsblad",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/marco-haller": {
+    "name": "HALLER Marco",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/petr-kelemen": {
+    "name": "KELEMEN Petr",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/aivaras-mikutis": {
+    "name": "MIKUTIS Aivaras",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/luca-mozzato": {
+    "name": "MOZZATO Luca",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/rick-pluimers": {
+    "name": "PLUIMERS Rick",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/matteo-trentin": {
+    "name": "TRENTIN Matteo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/siebe-deweirdt": {
+    "name": "DEWEIRDT Siebe",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/michiel-lambrecht": {
+    "name": "LAMBRECHT Michiel",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/milan-lanhove": {
+    "name": "LANHOVE Milan",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/elias-maris": {
+    "name": "MARIS Elias",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/vincent-van-hemelen": {
+    "name": "VAN HEMELEN Vincent",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/dylan-vandenstorme": {
+    "name": "VANDENSTORME Dylan",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/ward-vanhoof": {
+    "name": "VANHOOF Ward",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/alexys-brunel": {
+    "name": "BRUNEL Alexys",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/sandy-dujardin": {
+    "name": "DUJARDIN Sandy",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/thomas-gachignard": {
+    "name": "GACHIGNARD Thomas",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/samuel-leroux": {
+    "name": "LEROUX Samuel",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/lorrenzo-manzin": {
+    "name": "MANZIN Lorrenzo",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/anthony-turgis": {
+    "name": "TURGIS Anthony",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/baptiste-vadic": {
+    "name": "VADIC Baptiste",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/joren-bloem2": {
+    "name": "BLOEM Joren",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/karsten-larsen-feldmann": {
+    "name": "FELDMANN Karsten Larsen",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/tomas-kopecky": {
+    "name": "KOPECKÝ Tomáš",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/lukas-kubis": {
+    "name": "KUBIŠ Lukáš",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Bredene Koksijde Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/niklas-larsen": {
+    "name": "LARSEN Niklas",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/martijn-rasenberg": {
+    "name": "RASENBERG Martijn",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
+    ]
+  },
+  "rider/sente-sentjens": {
+    "name": "SENTJENS Sente",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Scheldeprijs",
+      "Ronde van Limburg"
+    ]
+  },
+  "rider/cees-bol": {
+    "name": "BOL Cees",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/robbe-ghys": {
+    "name": "GHYS Robbe",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/daan-hoole": {
+    "name": "HOOLE Daan",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/pavel-bittner": {
+    "name": "BITTNER Pavel",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/pietro-mattio": {
+    "name": "MATTIO Pietro",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
+    ]
+  },
+  "rider/filippo-fiorelli": {
+    "name": "FIORELLI Filippo",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mathias-norsgaard": {
+    "name": "SUNEKÆR NORSGAARD Mathias",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/albert-withen-philipsen": {
+    "name": "WITHEN PHILIPSEN Albert",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/steffen-de-schuyteneer": {
+    "name": "DE SCHUYTENEER Steffen",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Scheldeprijs"
+    ]
+  },
+  "rider/jasper-de-buyst": {
+    "name": "DE BUYST Jasper",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
+    ]
+  },
+  "rider/hugo-hofstetter": {
+    "name": "HOFSTETTER Hugo",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Vlaanderen",
+      "Scheldeprijs",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/haimar-etxeberria": {
+    "name": "ETXEBERRIA Haimar",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
+    ]
+  },
+  "rider/arne-marit": {
+    "name": "MARIT Arne",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Scheldeprijs"
+    ]
+  },
+  "rider/max-kanter": {
+    "name": "KANTER Max",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/milan-fretin": {
+    "name": "FRETIN Milan",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Scheldeprijs",
+      "Ronde van Limburg"
+    ]
+  },
+  "rider/dylan-groenewegen": {
+    "name": "GROENEWEGEN Dylan",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
+      "Bredene Koksijde Classic",
+      "Scheldeprijs",
+      "Ronde van Limburg"
+    ]
+  },
+  "rider/maikel-zijlaard": {
+    "name": "ZIJLAARD Maikel",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/tom-crabbe": {
+    "name": "CRABBE Tom",
+    "races": [
+      "Kuurne-Brussel-Kuurne"
+    ]
+  },
+  "rider/gil-gelders": {
+    "name": "GELDERS Gil",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/martin-svrcek": {
+    "name": "SVRČEK Martin",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/warre-vangheluwe": {
+    "name": "VANGHELUWE Warre",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/ceriel-desal": {
+    "name": "DESAL Ceriel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/stan-van-tricht": {
+    "name": "VAN TRICHT Stan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joeri-schaper": {
+    "name": "SCHAPER Joeri",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/phil-bauhaus": {
+    "name": "BAUHAUS Phil",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/alessandro-borgo": {
+    "name": "BORGO Alessandro",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/alberto-bruttomesso": {
+    "name": "BRUTTOMESSO Alberto",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/zak-erzen": {
+    "name": "ERŽEN Žak",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/matevz-govekar": {
+    "name": "GOVEKAR Matevž",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/robert-stannard": {
+    "name": "STANNARD Robert",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/oded-kogut": {
+    "name": "KOGUT Oded",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/kiaan-watts": {
+    "name": "WATTS Kiaan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/rotem-tene": {
+    "name": "TENE Rotem",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/floris-van-tricht": {
+    "name": "VAN TRICHT Floris",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jens-verbrugghe": {
+    "name": "VERBRUGGHE Jens",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/titouan-fontaine": {
+    "name": "FONTAINE Titouan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/matteo-milan": {
+    "name": "MILAN Matteo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/paul-penhoet": {
+    "name": "PENHOËT Paul",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/blake-agnoletto": {
+    "name": "AGNOLETTO Blake",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/niklas-behrens": {
+    "name": "BEHRENS Niklas",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/loe-van-belle": {
+    "name": "VAN BELLE Loe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/aldo-taillieu": {
+    "name": "TAILLIEU Aldo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/fabio-jakobsen": {
+    "name": "JAKOBSEN Fabio",
+    "races": [
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "Scheldeprijs"
+    ]
+  },
+  "rider/frits-biesterbos": {
+    "name": "BIESTERBOS Frits",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/dillon-corkery": {
+    "name": "CORKERY Dillon",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/mees-vlot": {
+    "name": "VLOT Mees",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/alessio-magagnotti": {
+    "name": "MAGAGNOTTI Alessio",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/michiel-mouris": {
+    "name": "MOURIS Michiel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/milan-menten": {
+    "name": "MENTEN Milan",
+    "races": [
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Ronde van Limburg",
+      "Brabantse Pijl"
+    ]
+  },
+  "rider/vito-braet": {
+    "name": "BRAET Vito",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/florian-dauphin": {
+    "name": "DAUPHIN Florian",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/nicola-marcerou": {
+    "name": "MARCEROU Nicola",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jason-tesson": {
+    "name": "TESSON Jason",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/elmar-reinders": {
+    "name": "REINDERS Elmar",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jelle-johannink": {
+    "name": "JOHANNINK Jelle",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/rory-townsend": {
+    "name": "TOWNSEND Rory",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jan-maas": {
+    "name": "MAAS Jan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/samuel-boardman": {
+    "name": "BOARDMAN Samuel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/sean-christian": {
+    "name": "CHRISTIAN Sean",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/cole-kessler": {
+    "name": "KESSLER Cole",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/brody-mcdonald": {
+    "name": "MCDONALD Brody",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/ben-oliver": {
+    "name": "OLIVER Ben",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/riley-pickrell": {
+    "name": "PICKRELL Riley",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/mark-stewart": {
+    "name": "STEWART Mark",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/rick-ottema": {
+    "name": "OTTEMA Rick",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/quinten-veling": {
+    "name": "VELING Quinten",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/ed-uptegrove": {
+    "name": "UPTEGROVE Ed",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/chiel-schulten": {
+    "name": "SCHULTEN Chiel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/hugo-paats": {
+    "name": "PAATS Hugo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/guillaume-visser": {
+    "name": "VISSER Guillaume",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/lars-rouffaer": {
+    "name": "ROUFFAER Lars",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/bert-bolle": {
+    "name": "BOLLE Bert",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joost-brinkman": {
+    "name": "BRINKMAN Joost",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/robbe-claeys": {
+    "name": "CLAEYS Robbe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/finn-crockett": {
+    "name": "CROCKETT Finn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/born-de-dobbelaere": {
+    "name": "DE DOBBELAERE Born",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/senne-hulsmans": {
+    "name": "HULSMANS Senne",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/thor-verleysen": {
+    "name": "VERLEYSEN Thor",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/stijn-appel": {
+    "name": "APPEL Stijn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/david-dekker": {
+    "name": "DEKKER David",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jochem-kerckhaert": {
+    "name": "KERCKHAERT Jochem",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/max-kroonen": {
+    "name": "KROONEN Max",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/daan-van-sintmaartensdijk": {
+    "name": "VAN SINTMAARTENSDIJK Daan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/marijn-maas": {
+    "name": "MAAS Marijn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/michiel-coppens": {
+    "name": "COPPENS Michiel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/timothy-dupont": {
+    "name": "DUPONT Timothy",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/yorben-lauryssen": {
+    "name": "LAURYSSEN Yorben",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/zeno-moonen": {
+    "name": "MOONEN Zeno",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/arne-santy": {
+    "name": "SANTY Arne",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joppe-sterck": {
+    "name": "STERCK Joppe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/axandre-van-petegem": {
+    "name": "VAN PETEGEM Axandre",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jelle-vermoote": {
+    "name": "VERMOOTE Jelle",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/alfred-george": {
+    "name": "GEORGE Alfred",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jan-sommer": {
+    "name": "SOMMER Jan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/guillaume-bagou": {
+    "name": "BAGOU Guillaume",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/loris-rouiller": {
+    "name": "ROUILLER Loris",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/victor-jean": {
+    "name": "JEAN Victor",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/valentin-darbellay": {
+    "name": "DARBELLAY Valentin",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/noah-bogli": {
+    "name": "BÖGLI Noah",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joshua-huppertz": {
+    "name": "HUPPERTZ Joshua",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/alexandre-kess": {
+    "name": "KESS Alexandre",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jonathan-malte-rottmann": {
+    "name": "ROTTMANN Jonathan Malte",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/ole-jablonski": {
+    "name": "JABLONSKI Ole",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/eike-behrens": {
+    "name": "BEHRENS Eike",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/louis-grupp": {
+    "name": "GRUPP Louis",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jesko-wrobel": {
+    "name": "WROBEL Jesko",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/antoine-raugel": {
+    "name": "RAUGEL Antoine",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/daniel-arnes": {
+    "name": "ÅRNES Daniel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/kevin-avoine": {
+    "name": "AVOINE Kévin",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joppe-heremans": {
+    "name": "HEREMANS Joppe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/joes-oosterlinck": {
+    "name": "OOSTERLINCK Joes",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/arnaud-tendon": {
+    "name": "TENDON Arnaud",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/killian-theot": {
+    "name": "THÉOT Killian",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/antoine-berger": {
+    "name": "BERGER Antoine",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/lucas-beneteau": {
+    "name": "BÉNÉTEAU Lucas",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/axel-bouquet": {
+    "name": "BOUQUET Axel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/romain-cardis": {
+    "name": "CARDIS Romain",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/theo-delacroix": {
+    "name": "DELACROIX Théo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jeremy-lecroq": {
+    "name": "LECROQ Jérémy",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/morne-van-niekerk": {
+    "name": "VAN NIEKERK Morné",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/enrico-dhaeye": {
+    "name": "DHAEYE Enrico",
+    "races": [
+      "Samyn Classic",
+      "Ronde van Limburg"
+    ]
+  },
+  "rider/kristoffer-gullhav": {
+    "name": "GULLHAV Kristoffer",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/matthew-king1": {
+    "name": "KING Matthew",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/james-mckay": {
+    "name": "MCKAY James",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/magnus-lorents-nielsen": {
+    "name": "NIELSEN Magnus Lorents",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/george-radcliffe": {
+    "name": "RADCLIFFE George",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/brian-rigole": {
+    "name": "RIGOLE Brian",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/julien-desmarets": {
+    "name": "DESMARETS Julien",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/lucas-jacques": {
+    "name": "JACQUES Lucas",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/matteo-melotte": {
+    "name": "MELOTTE Matteo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/hugo-wertz": {
+    "name": "WERTZ Hugo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/william-graff": {
+    "name": "GRAFF William",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/nicolas-aernouts": {
+    "name": "AERNOUTS Nicolas",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/guillaume-daix": {
+    "name": "DAIX Guillaume",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jocelyn-baguelin": {
+    "name": "BAGUELIN Jocelyn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/gilles-dockx": {
+    "name": "DOCKX Gilles",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/victor-hannes": {
+    "name": "HANNES Victor",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/arthur-lowagie": {
+    "name": "LOWAGIE Arthur",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/gibbe-staes": {
+    "name": "STAES Gibbe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/axel-van-den-broek1": {
+    "name": "VAN DEN BROEK Axel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/bogdan-zabelinskiy": {
+    "name": "ZABELINSKIY Bogdan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/simone-gualdi": {
+    "name": "GUALDI Simone",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/georg-zimmermann": {
+    "name": "ZIMMERMANN Georg",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/jarno-widar": {
+    "name": "WIDAR Jarno",
+    "races": [
+      "Strade Bianche",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/lennert-van-eetvelt": {
+    "name": "VAN EETVELT Lennert",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/jordan-labrosse": {
+    "name": "LABROSSE Jordan",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/paul-lapeira": {
+    "name": "LAPEIRA Paul",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/nicolas-prodhomme": {
+    "name": "PRODHOMME Nicolas",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/gregor-muhlberger": {
+    "name": "MÜHLBERGER Gregor",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/paul-seixas": {
+    "name": "SEIXAS Paul",
+    "races": [
+      "Strade Bianche",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/alessandro-covi": {
+    "name": "COVI Alessandro",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/alan-hatherly": {
+    "name": "HATHERLY Alan",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/filippo-conca": {
+    "name": "CONCA Filippo",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/adrien-boichis": {
+    "name": "BOICHIS Adrien",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/giulio-pellizzari": {
+    "name": "PELLIZZARI Giulio",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/bauke-mollema": {
+    "name": "MOLLEMA Bauke",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/quinn-simmons": {
+    "name": "SIMMONS Quinn",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/jan-christen": {
+    "name": "CHRISTEN Jan",
+    "races": [
+      "Strade Bianche",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/isaac-del-toro": {
+    "name": "DEL TORO Isaac",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/tadej-pogacar": {
+    "name": "POGAČAR Tadej",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/domen-novak": {
+    "name": "NOVAK Domen",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/pello-bilbao": {
+    "name": "BILBAO Pello",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/afonso-eulalio": {
+    "name": "EULÁLIO Afonso",
+    "races": [
+      "Strade Bianche",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/neilson-powless": {
+    "name": "POWLESS Neilson",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/ben-healy": {
+    "name": "HEALY Ben",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/clement-champoussin": {
+    "name": "CHAMPOUSSIN Clément",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/davide-toneatti": {
+    "name": "TONEATTI Davide",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/andrea-raccagni-noviero": {
+    "name": "RACCAGNI NOVIERO Andrea",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/roland-thalmann": {
+    "name": "THALMANN Roland",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/julian-alaphilippe": {
+    "name": "ALAPHILIPPE Julian",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/lorenzo-germani": {
+    "name": "GERMANI Lorenzo",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/romain-gregoire1": {
+    "name": "GRÉGOIRE Romain",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/warren-barguil": {
+    "name": "BARGUIL Warren",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mattia-gaffuri": {
+    "name": "GAFFURI Mattia",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/ben-tulett": {
+    "name": "TULETT Ben",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/matteo-jorgenson": {
+    "name": "JORGENSON Matteo",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/louis-barre": {
+    "name": "BARRÉ Louis",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/pau-marti-soriano": {
+    "name": "MARTÍ Pau",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/alessandro-pinarello": {
+    "name": "PINARELLO Alessandro",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/quinten-hermans": {
+    "name": "HERMANS Quinten",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/axel-laurance": {
+    "name": "LAURANCE Axel",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/egan-bernal": {
+    "name": "BERNAL Egan",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/tobias-halland-johannessen": {
+    "name": "JOHANNESSEN Tobias Halland",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/francesco-busatto": {
+    "name": "BUSATTO Francesco",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/martin-marcellusi": {
+    "name": "MARCELLUSI Martin",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/victor-lafay": {
+    "name": "LAFAY Victor",
+    "races": [
+      "Strade Bianche",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/filippo-baroncini": {
+    "name": "BARONCINI Filippo",
+    "races": [
+      "Nokere Koerse"
+    ]
+  },
+  "rider/gerben-thijssen": {
+    "name": "THIJSSEN Gerben",
+    "races": [
+      "Nokere Koerse",
+      "Bredene Koksijde Classic"
+    ]
+  },
+  "rider/clement-venturini": {
+    "name": "VENTURINI Clément",
+    "races": [
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/aurelien-paret-peintre": {
+    "name": "PARET-PEINTRE Aurélien",
+    "races": [
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/damiano-caruso": {
+    "name": "CARUSO Damiano",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/filippo-ganna": {
+    "name": "GANNA Filippo",
+    "races": [
+      "Milaan-Sanremo",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/mads-pedersen": {
+    "name": "PEDERSEN Mads",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/jonathan-milan": {
+    "name": "MILAN Jonathan",
+    "races": [
+      "Milaan-Sanremo",
+      "In Flanders Fields",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/ivan-romeo": {
+    "name": "ROMEO Iván",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/mauro-schmid": {
+    "name": "SCHMID Mauro",
+    "races": [
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/michael-matthews": {
+    "name": "MATTHEWS Michael",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/magnus-cort-nielsen": {
+    "name": "CORT Magnus",
+    "races": [
+      "Milaan-Sanremo",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/nicolas-vinokurov": {
+    "name": "VINOKUROV Nicolas",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/bryan-coquard": {
+    "name": "COQUARD Bryan",
+    "races": [
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/alex-aranburu": {
+    "name": "ARANBURU Alex",
+    "races": [
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/benjamin-thomas-2": {
+    "name": "THOMAS Benjamin",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/clement-izquierdo": {
+    "name": "IZQUIERDO Clément",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/dario-igor-belletta": {
+    "name": "BELLETTA Dario Igor",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/tim-merlier": {
+    "name": "MERLIER Tim",
+    "races": [
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Scheldeprijs",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/sebastian-kolze-changizi": {
+    "name": "KOLZE CHANGIZI Sebastian",
+    "races": [
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/michael-valgren-andersen": {
+    "name": "VALGREN Michael",
+    "races": [
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/jan-tratnik": {
+    "name": "TRATNIK Jan",
+    "races": [
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Amstel Gold Race",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/tobias-lund-andresen": {
+    "name": "ANDRESEN Tobias Lund",
+    "races": [
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/antonio-morgado": {
+    "name": "MORGADO António",
+    "races": [
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/toon-aerts": {
+    "name": "AERTS Toon",
+    "races": [
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/benoit-cosnefroy": {
+    "name": "COSNEFROY Benoît",
+    "races": [
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/alex-baudin": {
+    "name": "BAUDIN Alex",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/ewen-costiou": {
+    "name": "COSTIOU Ewen",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/dorian-godon": {
+    "name": "GODON Dorian",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/victor-langellotti": {
+    "name": "LANGELLOTTI Victor",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/thibau-nys": {
+    "name": "NYS Thibau",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mattias-skjelmose-jensen": {
+    "name": "SKJELMOSE Mattias",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/giulio-ciccone": {
+    "name": "CICCONE Giulio",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/remco-evenepoel": {
+    "name": "EVENEPOEL Remco",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/maxim-van-gils": {
+    "name": "VAN GILS Maxim",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/nick-schultz": {
+    "name": "SCHULTZ Nick",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/joseph-blackmore": {
+    "name": "BLACKMORE Joseph",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/ilan-van-wilder": {
+    "name": "VAN WILDER Ilan",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/pavel-sivakov": {
+    "name": "SIVAKOV Pavel",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/diego-ulissi": {
+    "name": "ULISSI Diego",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/darren-van-bekkum": {
+    "name": "VAN BEKKUM Darren",
+    "races": [
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/christian-scaroni": {
+    "name": "SCARONI Christian",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/ion-izagirre": {
+    "name": "IZAGIRRE Ion",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/marc-hirschi": {
+    "name": "HIRSCHI Marc",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/lenny-martinez": {
+    "name": "MARTINEZ Lenny",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
+  "rider/juan-ayuso-pesquera": {
+    "name": "AYUSO Juan",
+    "races": [
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/cian-uijtdebroeks": {
+    "name": "UIJTDEBROEKS Cian",
+    "races": [
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/daniel-felipe-martinez": {
+    "name": "MARTÍNEZ Daniel Felipe",
+    "races": [
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/alexandre-delettre": {
+    "name": "DELETTRE Alexandre",
+    "races": [
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/brieuc-rolland": {
+    "name": "ROLLAND Brieuc",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  }
+}

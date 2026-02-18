@@ -1,0 +1,994 @@
+timestamp,race,change_type,rider_name,rider_url
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN DEN BERG Julius,rider/julius-van-den-berg
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BOICHIS Adrien,rider/adrien-boichis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LAMPERTI Luke,rider/luke-lamperti
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,DE BONDT Dries,rider/dries-de-bondt
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,PELLIZZARI Giulio,rider/giulio-pellizzari
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VAN DIJKE Tim,rider/tim-van-dijke
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VAN DIJKE Tim,rider/tim-van-dijke
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN DIJKE Tim,rider/tim-van-dijke
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VAN DIJKE Tim,rider/tim-van-dijke
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VAN DIJKE Tim,rider/tim-van-dijke
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MEURISSE Xandro,rider/xandro-meurisse
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TENE Rotem,rider/rotem-tene
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SHMIDT Artem,rider/artem-shmidt
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,LOUVEL Matis,rider/matis-louvel
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LOUVEL Matis,rider/matis-louvel
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,THALMANN Roland,rider/roland-thalmann
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BRAET Vito,rider/vito-braet
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GRADEK Kamil,rider/kamil-gradek
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SIMMONS Colby,rider/colby-simmons
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GELDERS Gil,rider/gil-gelders
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,THIJSSEN Gerben,rider/gerben-thijssen
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,THIJSSEN Gerben,rider/gerben-thijssen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LECROQ Jérémy,rider/jeremy-lecroq
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DE DOBBELAERE Born,rider/born-de-dobbelaere
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN PETEGEM Axandre,rider/axandre-van-petegem
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,HEALY Ben,rider/ben-healy
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,HEALY Ben,rider/ben-healy
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,HEALY Ben,rider/ben-healy
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,HEALY Ben,rider/ben-healy
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ROUILLER Loris,rider/loris-rouiller
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TAILLIEU Aldo,rider/aldo-taillieu
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FRISON Frederik,rider/frederik-frison
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,STANNARD Robert,rider/robert-stannard
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SKUJIŅŠ Toms,rider/toms-skujins
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE LA CALLE Hugo,rider/hugo-de-la-calle-arango
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,JACOBS Johan,rider/johan-jacobs
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,ANDRESEN Tobias Lund,rider/tobias-lund-andresen
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,SEGAERT Alec,rider/alec-segaert
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,SEGAERT Alec,rider/alec-segaert
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SEGAERT Alec,rider/alec-segaert
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,SEGAERT Alec,rider/alec-segaert
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DOCKX Gilles,rider/gilles-dockx
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE POOTER Dries,rider/dries-de-pooter
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BEHRENS Eike,rider/eike-behrens
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,TEUNISSEN Mike,rider/mike-teunissen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VELING Quinten,rider/quinten-veling
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,NAESEN Oliver,rider/oliver-naesen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,CHAMBERLAIN Oscar,rider/oscar-chamberlain
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ALLENO Clément,rider/clement-alleno
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,FELDMANN Karsten Larsen,rider/karsten-larsen-feldmann
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FELDMANN Karsten Larsen,rider/karsten-larsen-feldmann
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KERCKHAERT Jochem,rider/jochem-kerckhaert
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PLANCKAERT Edward,rider/edward-planckaert
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MAAS Marijn,rider/marijn-maas
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GATE Aaron,rider/aaron-gate
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,POWLESS Neilson,rider/neilson-powless
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,SHEEHAN Riley,rider/riley-sheehan
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SHEEHAN Riley,rider/riley-sheehan
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ROMEO Iván,rider/ivan-romeo
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,GANNA Filippo,rider/filippo-ganna
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,GANNA Filippo,rider/filippo-ganna
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MACIEJUK Filip,rider/filip-maciejuk
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VERBRUGGHE Jens,rider/jens-verbrugghe
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VAN POPPEL Danny,rider/danny-van-poppel
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,VAN POPPEL Danny,rider/danny-van-poppel
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN POPPEL Danny,rider/danny-van-poppel
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN POPPEL Danny,rider/danny-van-poppel
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VAN POPPEL Danny,rider/danny-van-poppel
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MORO Manlio,rider/manlio-moro
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,MOHORIČ Matej,rider/matej-mohoric
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HOELGAARD Markus,rider/markus-hoelgaard
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BETTIOL Alberto,rider/alberto-bettiol
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BETTIOL Alberto,rider/alberto-bettiol
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,BETTIOL Alberto,rider/alberto-bettiol
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TENDON Arnaud,rider/arnaud-tendon
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MCDONALD Brody,rider/brody-mcdonald
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BÉNÉTEAU Lucas,rider/lucas-beneteau
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GEORGE Alfred,rider/alfred-george
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DUPONT Timothy,rider/timothy-dupont
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VERLEYSEN Thor,rider/thor-verleysen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BARRENETXEA Jon,rider/jon-barrenetxea-golzarri
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MARCELLUSI Martin,rider/martin-marcellusi
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,WROBEL Jesko,rider/jesko-wrobel
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RENARD-HAQUIN Henri-François,rider/henri-francois-renard-haquin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RENARD-HAQUIN Henri-François,rider/henri-francois-renard-haquin
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VAN MOER Brent,rider/brent-van-moer
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN MOER Brent,rider/brent-van-moer
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,ALAPHILIPPE Julian,rider/julian-alaphilippe
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,ALAPHILIPPE Julian,rider/julian-alaphilippe
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,ALAPHILIPPE Julian,rider/julian-alaphilippe
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,ALAPHILIPPE Julian,rider/julian-alaphilippe
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ALAPHILIPPE Julian,rider/julian-alaphilippe
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,GIRMAY Biniam,rider/biniam-girmay
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,GIRMAY Biniam,rider/biniam-girmay
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GIRMAY Biniam,rider/biniam-girmay
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,DELETTRE Alexandre,rider/alexandre-delettre
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,DELETTRE Alexandre,rider/alexandre-delettre
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GACHIGNARD Thomas,rider/thomas-gachignard
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BARGUIL Warren,rider/warren-barguil
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BARGUIL Warren,rider/warren-barguil
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BARGUIL Warren,rider/warren-barguil
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BARGUIL Warren,rider/warren-barguil
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HAGENES Per Strand,rider/per-strand-hagenes
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HAGENES Per Strand,rider/per-strand-hagenes
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ASGREEN Kasper,rider/kasper-asgreen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,ASGREEN Kasper,rider/kasper-asgreen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ASGREEN Kasper,rider/kasper-asgreen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,ASGREEN Kasper,rider/kasper-asgreen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ASGREEN Kasper,rider/kasper-asgreen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KWIATKOWSKI Michał,rider/michal-kwiatkowski
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,CARDIS Romain,rider/romain-cardis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MOZZATO Luca,rider/luca-mozzato
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,KANTER Max,rider/max-kanter
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DEWEIRDT Siebe,rider/siebe-deweirdt
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,TEUTENBERG Tim Torn,rider/tim-torn-teutenberg
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,TEUTENBERG Tim Torn,rider/tim-torn-teutenberg
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TEUTENBERG Tim Torn,rider/tim-torn-teutenberg
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,KIELICH Timo,rider/timo-kielich
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN BELLE Loe,rider/loe-van-belle
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,ROLLAND Brieuc,rider/brieuc-rolland
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,WATTS Kiaan,rider/kiaan-watts
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MATTIO Pietro,rider/pietro-mattio
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MATTIO Pietro,rider/pietro-mattio
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,CROCKETT Finn,rider/finn-crockett
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TURNER Ben,rider/ben-turner
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,ULISSI Diego,rider/diego-ulissi
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,ULISSI Diego,rider/diego-ulissi
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,ULISSI Diego,rider/diego-ulissi
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,CANAL Carlos,rider/carlos-canal
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BAYER Tobias,rider/tobias-bayer
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,FRETIN Milan,rider/milan-fretin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GEENS Jonas,rider/jonas-geens
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DESMARETS Julien,rider/julien-desmarets
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,WRIGHT Fred,rider/alfred-wright
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SCARONI Christian,rider/christian-scaroni
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SCARONI Christian,rider/christian-scaroni
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SCARONI Christian,rider/christian-scaroni
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,WITHEN PHILIPSEN Albert,rider/albert-withen-philipsen
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,HERMANS Quinten,rider/quinten-hermans
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,JEAN Victor,rider/victor-jean
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,COSTIOU Ewen,rider/ewen-costiou
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,COSTIOU Ewen,rider/ewen-costiou
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,COSTIOU Ewen,rider/ewen-costiou
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,GROENEWEGEN Dylan,rider/dylan-groenewegen
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,GROENEWEGEN Dylan,rider/dylan-groenewegen
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,GROENEWEGEN Dylan,rider/dylan-groenewegen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GROENEWEGEN Dylan,rider/dylan-groenewegen
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,GROENEWEGEN Dylan,rider/dylan-groenewegen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,SANTY Arne,rider/arne-santy
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,AULAR Orluis,rider/orluis-aular
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,LABROSSE Jordan,rider/jordan-labrosse
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,LABROSSE Jordan,rider/jordan-labrosse
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,LABROSSE Jordan,rider/jordan-labrosse
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,LABROSSE Jordan,rider/jordan-labrosse
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,LABROSSE Jordan,rider/jordan-labrosse
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,LAPORTE Christophe,rider/christophe-laporte
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VERMOOTE Jelle,rider/jelle-vermoote
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,CAPIOT Amaury,rider/amaury-capiot
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DRIZNERS Jarrad,rider/jarrad-drizners
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DRIZNERS Jarrad,rider/jarrad-drizners
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ALLEGAERT Piet,rider/piet-allegaert
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ALLEGAERT Piet,rider/piet-allegaert
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MERLIER Tim,rider/tim-merlier
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,MERLIER Tim,rider/tim-merlier
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,MERLIER Tim,rider/tim-merlier
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,MERLIER Tim,rider/tim-merlier
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,GRIGNARD Sébastien,rider/sebastien-grignard
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GRIGNARD Sébastien,rider/sebastien-grignard
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,DEGENKOLB John,rider/john-degenkolb
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DEGENKOLB John,rider/john-degenkolb
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,UPTEGROVE Ed,rider/ed-uptegrove
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN NIEKERK Morné,rider/morne-van-niekerk
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SEIXAS Paul,rider/paul-seixas
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,SEIXAS Paul,rider/paul-seixas
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SEIXAS Paul,rider/paul-seixas
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BISSEGGER Stefan,rider/stefan-bissegger
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SCHMID Mauro,rider/mauro-schmid
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SCHMID Mauro,rider/mauro-schmid
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SCHMID Mauro,rider/mauro-schmid
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,SCHMID Mauro,rider/mauro-schmid
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,SCHMID Mauro,rider/mauro-schmid
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,COSNEFROY Benoît,rider/benoit-cosnefroy
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,COSNEFROY Benoît,rider/benoit-cosnefroy
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,COSNEFROY Benoît,rider/benoit-cosnefroy
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,COSNEFROY Benoît,rider/benoit-cosnefroy
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LAURYSSEN Yorben,rider/yorben-lauryssen
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,BARONCINI Filippo,rider/filippo-baroncini
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,HOOLE Daan,rider/daan-hoole
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DUJARDIN Sandy,rider/sandy-dujardin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DUJARDIN Sandy,rider/sandy-dujardin
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MELOTTE Matteo,rider/matteo-melotte
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BLOEM Joren,rider/joren-bloem2
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BLOEM Joren,rider/joren-bloem2
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN ASBROECK Tom,rider/tom-van-asbroeck
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN ASBROECK Tom,rider/tom-van-asbroeck
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,THEUNS Edward,rider/edward-theuns
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,THEUNS Edward,rider/edward-theuns
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,KOLZE CHANGIZI Sebastian,rider/sebastian-kolze-changizi
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KOLZE CHANGIZI Sebastian,rider/sebastian-kolze-changizi
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,KOLZE CHANGIZI Sebastian,rider/sebastian-kolze-changizi
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,GUALDI Simone,rider/simone-gualdi
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,TRONCHON Bastien,rider/bastien-tronchon
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ZUKOWSKY Nickolas,rider/nickolas-zukowsky
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KOPECKÝ Tomáš,rider/tomas-kopecky
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KOPECKÝ Tomáš,rider/tomas-kopecky
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MARIS Elias,rider/elias-maris
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VERMEERSCH Gianni,rider/gianni-vermeersch
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,CLAEYS Robbe,rider/robbe-claeys
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,LAPEIRA Paul,rider/paul-lapeira
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,LAPEIRA Paul,rider/paul-lapeira
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,LAPEIRA Paul,rider/paul-lapeira
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,LAPEIRA Paul,rider/paul-lapeira
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SCHULTZ Nick,rider/nick-schultz
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SCHULTZ Nick,rider/nick-schultz
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SCHULTZ Nick,rider/nick-schultz
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,COVI Alessandro,rider/alessandro-covi
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,COVI Alessandro,rider/alessandro-covi
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,COVI Alessandro,rider/alessandro-covi
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,COVI Alessandro,rider/alessandro-covi
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BILBAO Pello,rider/pello-bilbao
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BILBAO Pello,rider/pello-bilbao
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BILBAO Pello,rider/pello-bilbao
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BILBAO Pello,rider/pello-bilbao
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,PICKRELL Riley,rider/riley-pickrell
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,HATHERLY Alan,rider/alan-hatherly
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,DE LIE Arnaud,rider/arnaud-de-lie
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,IZQUIERDO Clément,rider/clement-izquierdo
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,JABLONSKI Ole,rider/ole-jablonski
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,OLIVER Ben,rider/ben-oliver
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DELACROIX Théo,rider/theo-delacroix
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,JORGENSON Matteo,rider/matteo-jorgenson
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,JORGENSON Matteo,rider/matteo-jorgenson
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,JORGENSON Matteo,rider/matteo-jorgenson
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,JORGENSON Matteo,rider/matteo-jorgenson
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,JORGENSON Matteo,rider/matteo-jorgenson
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VAN AERT Wout,rider/wout-van-aert
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ROTTMANN Jonathan Malte,rider/jonathan-malte-rottmann
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,LANGELLOTTI Victor,rider/victor-langellotti
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,LANGELLOTTI Victor,rider/victor-langellotti
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,LANGELLOTTI Victor,rider/victor-langellotti
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,OOSTERLINCK Joes,rider/joes-oosterlinck
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,POLITT Nils,rider/nils-politt
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,THOMAS Benjamin,rider/benjamin-thomas-2
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,BRENNAN Matthew,rider/matthew-brennan
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,ARANBURU Alex,rider/alex-aranburu
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,ARANBURU Alex,rider/alex-aranburu
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ARANBURU Alex,rider/alex-aranburu
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KÜNG Stefan,rider/stefan-kung
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KÜNG Stefan,rider/stefan-kung
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,KÜNG Stefan,rider/stefan-kung
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,KÜNG Stefan,rider/stefan-kung
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KÜNG Stefan,rider/stefan-kung
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,BENOOT Tiesj,rider/tiesj-benoot
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,OTTEMA Rick,rider/rick-ottema
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,THÉOT Killian,rider/killian-theot
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN GILS Maxim,rider/maxim-van-gils
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,VAN GILS Maxim,rider/maxim-van-gils
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,VAN GILS Maxim,rider/maxim-van-gils
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,PAGE Hugo,rider/hugo-page
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,STERCK Joppe,rider/joppe-sterck
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,GODON Dorian,rider/dorian-godon
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,GODON Dorian,rider/dorian-godon
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VACEK Mathias,rider/mathias-vacek
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MÜHLBERGER Gregor,rider/gregor-muhlberger
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,PIDCOCK Thomas,rider/thomas-pidcock
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ETXEBERRIA Haimar,rider/haimar-etxeberria
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ETXEBERRIA Haimar,rider/haimar-etxeberria
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,OLIVEIRA Rui,rider/rui-oliveira
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BLACKMORE Joseph,rider/joseph-blackmore
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BLACKMORE Joseph,rider/joseph-blackmore
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BLACKMORE Joseph,rider/joseph-blackmore
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BJERG Mikkel,rider/mikkel-bjerg
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,TULETT Ben,rider/ben-tulett
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,TULETT Ben,rider/ben-tulett
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,TULETT Ben,rider/ben-tulett
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,TULETT Ben,rider/ben-tulett
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MIHOLJEVIĆ Fran,rider/fran-miholjevic
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BERGER Antoine,rider/antoine-berger
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ASKEY Lewis,rider/lewis-askey
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,COPPENS Michiel,rider/michiel-coppens
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DONALDSON Robert,rider/robert-donaldson
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BÖGLI Noah,rider/noah-bogli
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BELMANS Lennert,rider/lennert-belmans
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,MARTINEZ Lenny,rider/lenny-martinez
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,VAN EETVELT Lennert,rider/lennert-van-eetvelt
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,VAN EETVELT Lennert,rider/lennert-van-eetvelt
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VAN EETVELT Lennert,rider/lennert-van-eetvelt
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,VAN EETVELT Lennert,rider/lennert-van-eetvelt
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,SUNEKÆR NORSGAARD Mathias,rider/mathias-norsgaard
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,SUNEKÆR NORSGAARD Mathias,rider/mathias-norsgaard
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,SUNEKÆR NORSGAARD Mathias,rider/mathias-norsgaard
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DEWULF Stan,rider/stan-dewulf
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VERGAERDE Otto,rider/otto-vergaerde
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MILAN Matteo,rider/matteo-milan
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LANHOVE Milan,rider/milan-lanhove
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BORGO Alessandro,rider/alessandro-borgo
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VADIC Baptiste,rider/baptiste-vadic
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VADIC Baptiste,rider/baptiste-vadic
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,BOL Cees,rider/cees-bol
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,FLYNN Sean,rider/sean-flynn
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FLYNN Sean,rider/sean-flynn
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,NYS Thibau,rider/thibau-nys
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,NYS Thibau,rider/thibau-nys
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,NYS Thibau,rider/thibau-nys
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BARRÉ Louis,rider/louis-barre
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BARRÉ Louis,rider/louis-barre
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BARRÉ Louis,rider/louis-barre
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BARRÉ Louis,rider/louis-barre
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BRINKMAN Joost,rider/joost-brinkman
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SIMMONS Quinn,rider/quinn-simmons
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,SIMMONS Quinn,rider/quinn-simmons
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,STAES Gibbe,rider/gibbe-staes
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BERNAL Egan,rider/egan-bernal
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ROMELE Alessandro,rider/alessandro-romele
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,HIRSCHI Marc,rider/marc-hirschi
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,HIRSCHI Marc,rider/marc-hirschi
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,HIRSCHI Marc,rider/marc-hirschi
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,PHILIPSEN Jasper,rider/jasper-philipsen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MARCEROU Nicola,rider/nicola-marcerou
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DARBELLAY Valentin,rider/valentin-darbellay
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KOGUT Oded,rider/oded-kogut
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,TONEATTI Davide,rider/davide-toneatti
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE GENDT Aimé,rider/aime-de-gendt
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,BIERMANS Jenthe,rider/jenthe-biermans
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BIERMANS Jenthe,rider/jenthe-biermans
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BIERMANS Jenthe,rider/jenthe-biermans
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BRUTTOMESSO Alberto,rider/alberto-bruttomesso
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BÉVORT Carl-Frederik,rider/carl-frederik-bevort
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BAGUELIN Jocelyn,rider/jocelyn-baguelin
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,APPEL Stijn,rider/stijn-appel
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BOIVIN Guillaume,rider/guillaume-boivin
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,GHYS Robbe,rider/robbe-ghys
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,MOLLEMA Bauke,rider/bauke-mollema
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MOLLEMA Bauke,rider/bauke-mollema
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,MEEUS Jordi,rider/jordi-meeus
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,COQUARD Bryan,rider/bryan-coquard
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,COQUARD Bryan,rider/bryan-coquard
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,COQUARD Bryan,rider/bryan-coquard
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BAGOU Guillaume,rider/guillaume-bagou
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VANHOOF Ward,rider/ward-vanhoof
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MULLEN Ryan,rider/ryan-mullen
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,GERMANI Lorenzo,rider/lorenzo-germani
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,GERMANI Lorenzo,rider/lorenzo-germani
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BEULLENS Cedric,rider/cedric-beullens
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BEULLENS Cedric,rider/cedric-beullens
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MAAS Jan,rider/jan-maas
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KESSLER Cole,rider/cole-kessler
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TILLER Rasmus,rider/rasmus-tiller
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BARTHE Cyril,rider/cyril-barthe
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BARTHE Cyril,rider/cyril-barthe
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,CAVIA Daniel,rider/daniel-cavia-sanz
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,STEWART Mark,rider/mark-stewart
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LAMBRECHT Michiel,rider/michiel-lambrecht
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LAMBRECHT Michiel,rider/michiel-lambrecht
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,BITTNER Pavel,rider/pavel-bittner
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,BITTNER Pavel,rider/pavel-bittner
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RIGOLE Brian,rider/brian-rigole
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MCKAY James,rider/james-mckay
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MACÍAS César,rider/cesar-macias-estrada
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MOURIS Michiel,rider/michiel-mouris
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,CHAMPOUSSIN Clément,rider/clement-champoussin
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,CHAMPOUSSIN Clément,rider/clement-champoussin
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,CHAMPOUSSIN Clément,rider/clement-champoussin
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,CHAMPOUSSIN Clément,rider/clement-champoussin
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ZIJLAARD Maikel,rider/maikel-zijlaard
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VLOT Mees,rider/mees-vlot
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,PEDERSEN Rasmus Søjberg,rider/rasmus-sojbergpedersen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PEDERSEN Rasmus Søjberg,rider/rasmus-sojbergpedersen
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,PEDERSEN Rasmus Søjberg,rider/rasmus-sojbergpedersen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LEROUX Samuel,rider/samuel-leroux
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LEROUX Samuel,rider/samuel-leroux
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DESAL Ceriel,rider/ceriel-desal
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,WERTZ Hugo,rider/hugo-wertz
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,PAATS Hugo,rider/hugo-paats
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VISSER Guillaume,rider/guillaume-visser
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,PRODHOMME Nicolas,rider/nicolas-prodhomme
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SWIFT Ben,rider/ben-swift
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KING Matthew,rider/matthew-king1
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,RENARD Alexis,rider/alexis-renard
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MOONEN Zeno,rider/zeno-moonen
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VAN BAARLE Dylan,rider/dylan-van-baarle
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GULLHAV Kristoffer,rider/kristoffer-gullhav
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ZABELINSKIY Bogdan,rider/bogdan-zabelinskiy
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,HOFSTETTER Hugo,rider/hugo-hofstetter
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KELEMEN Petr,rider/petr-kelemen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VALTER Attila,rider/attila-valter
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VALTER Attila,rider/attila-valter
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VALTER Attila,rider/attila-valter
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VALTER Attila,rider/attila-valter
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,VALTER Attila,rider/attila-valter
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MAGNIER Paul,rider/paul-magnier
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MAGNIER Paul,rider/paul-magnier
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MAGNIER Paul,rider/paul-magnier
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,MAGNIER Paul,rider/paul-magnier
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,MAGNIER Paul,rider/paul-magnier
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GROVES Kaden,rider/kaden-groves
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ROUFFAER Lars,rider/lars-rouffaer
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,BELLETTA Dario Igor,rider/dario-igor-belletta
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,JACQUES Lucas,rider/lucas-jacques
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,GRUEL Thibaud,rider/thibaud-gruel
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN TRICHT Floris,rider/floris-van-tricht
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,NOVAK Domen,rider/domen-novak
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,NOVAK Domen,rider/domen-novak
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,NOVAK Domen,rider/domen-novak
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,NOVAK Domen,rider/domen-novak
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,NOVAK Domen,rider/domen-novak
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,ADRIÀ Roger,rider/roger-adria
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,PINARELLO Alessandro,rider/alessandro-pinarello
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,AERNOUTS Nicolas,rider/nicolas-aernouts
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,TRATNIK Jan,rider/jan-tratnik
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,TRATNIK Jan,rider/jan-tratnik
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,TRATNIK Jan,rider/jan-tratnik
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,TRATNIK Jan,rider/jan-tratnik
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,TRATNIK Jan,rider/jan-tratnik
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,WIDAR Jarno,rider/jarno-widar
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,WIDAR Jarno,rider/jarno-widar
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,WIDAR Jarno,rider/jarno-widar
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,PENHOËT Paul,rider/paul-penhoet
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ALBANESE Vincenzo,rider/vincenzo-albanese
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,CICCONE Giulio,rider/giulio-ciccone
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,CICCONE Giulio,rider/giulio-ciccone
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,CICCONE Giulio,rider/giulio-ciccone
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SHEFFIELD Magnus,rider/magnus-sheffield
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KESS Alexandre,rider/alexandre-kess
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GRAFF William,rider/william-graff
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MADOUAS Valentin,rider/valentin-madouas
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MIQUEL Pau,rider/pau-miquel-delgado
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MIQUEL Pau,rider/pau-miquel-delgado
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MIQUEL Pau,rider/pau-miquel-delgado
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,MIQUEL Pau,rider/pau-miquel-delgado
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN BEKKUM Darren,rider/darren-van-bekkum
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VANGHELUWE Warre,rider/warre-vangheluwe
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,AGNOLETTO Blake,rider/blake-agnoletto
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,VENTURINI Clément,rider/clement-venturini
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VENTURINI Clément,rider/clement-venturini
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VENTURINI Clément,rider/clement-venturini
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,VENTURINI Clément,rider/clement-venturini
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,VENTURINI Clément,rider/clement-venturini
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,MATTHEWS Michael,rider/michael-matthews
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,SCHULTEN Chiel,rider/chiel-schulten
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,GAFFURI Mattia,rider/mattia-gaffuri
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN GESTEL Dries,rider/dries-van-gestel
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,EULÁLIO Afonso,rider/afonso-eulalio
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,EULÁLIO Afonso,rider/afonso-eulalio
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,REINDERS Elmar,rider/elmar-reinders
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,MENTEN Milan,rider/milan-menten
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MENTEN Milan,rider/milan-menten
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,MENTEN Milan,rider/milan-menten
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,MENTEN Milan,rider/milan-menten
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BOUQUET Axel,rider/axel-bouquet
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RADCLIFFE George,rider/george-radcliffe
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HEREMANS Joppe,rider/joppe-heremans
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RUSSO Clément,rider/clement-russo
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,SCHAPER Joeri,rider/joeri-schaper
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN TRICHT Stan,rider/stan-van-tricht
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,RACCAGNI NOVIERO Andrea,rider/andrea-raccagni-noviero
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,RACCAGNI NOVIERO Andrea,rider/andrea-raccagni-noviero
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,RACCAGNI NOVIERO Andrea,rider/andrea-raccagni-noviero
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,CHRISTIAN Sean,rider/sean-christian
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,BALLERINI Davide,rider/davide-ballerini
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,SOMMER Jan,rider/jan-sommer
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,DE BUYST Jasper,rider/jasper-de-buyst
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DE BUYST Jasper,rider/jasper-de-buyst
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HOBBS Noah,rider/noah-hobbs
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SIVAKOV Pavel,rider/pavel-sivakov
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SIVAKOV Pavel,rider/pavel-sivakov
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SIVAKOV Pavel,rider/pavel-sivakov
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FEDOROV Yevgeniy,rider/yevgeniy-fedorov
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,KIRSCH Alex,rider/alex-kirsch
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,MORGADO António,rider/antonio-morgado
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,MORGADO António,rider/antonio-morgado
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,PEDERSEN Mads,rider/mads-pedersen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ERŽEN Žak,rider/zak-erzen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MAGAGNOTTI Alessio,rider/alessio-magagnotti
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ÁLVAREZ Rodrigo,rider/rodrigo-alvarez-rogriguez
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,CONCA Filippo,rider/filippo-conca
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BIESTERBOS Frits,rider/frits-biesterbos
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TESSON Jason,rider/jason-tesson
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,DHAEYE Enrico,rider/enrico-dhaeye
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DHAEYE Enrico,rider/enrico-dhaeye
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,TEUNS Dylan,rider/dylan-teuns
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,PLUIMERS Rick,rider/rick-pluimers
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PLUIMERS Rick,rider/rick-pluimers
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,PLUIMERS Rick,rider/rick-pluimers
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,PLUIMERS Rick,rider/rick-pluimers
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,PLUIMERS Rick,rider/rick-pluimers
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN SINTMAARTENSDIJK Daan,rider/daan-van-sintmaartensdijk
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,AVOINE Kévin,rider/kevin-avoine
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,CHRISTEN Jan,rider/jan-christen
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,CHRISTEN Jan,rider/jan-christen
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,CHRISTEN Jan,rider/jan-christen
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,CHRISTEN Jan,rider/jan-christen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN SINTMAARTENSDIJK Roel,rider/roel-van-sintmaartensdijk
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN SINTMAARTENSDIJK Roel,rider/roel-van-sintmaartensdijk
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,SENTJENS Sente,rider/sente-sentjens
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,SENTJENS Sente,rider/sente-sentjens
+2026-02-18T11:30:47.591152Z,Ronde van Limburg,ADDED,SENTJENS Sente,rider/sente-sentjens
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,SENTJENS Sente,rider/sente-sentjens
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,SENTJENS Sente,rider/sente-sentjens
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ÅRNES Daniel,rider/daniel-arnes
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HERREGODTS Rune,rider/rune-herregodts
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,JOHANNINK Jelle,rider/jelle-johannink
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RAUGEL Antoine,rider/antoine-raugel
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN DEN BROEK Axel,rider/axel-van-den-broek1
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,LOWAGIE Arthur,rider/arthur-lowagie
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MANZIN Lorrenzo,rider/lorrenzo-manzin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MANZIN Lorrenzo,rider/lorrenzo-manzin
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,MARTÍ Pau,rider/pau-marti-soriano
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RESELL Erik Nordsæter,rider/erik-nordsaeter-resell
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,LAURANCE Axel,rider/axel-laurance
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,LAURANCE Axel,rider/axel-laurance
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,LAURANCE Axel,rider/axel-laurance
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,LAURANCE Axel,rider/axel-laurance
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,LAURANCE Axel,rider/axel-laurance
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PITHIE Laurence,rider/laurence-pithie
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ARTZ Huub,rider/huub-artz
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,EVENEPOEL Remco,rider/remco-evenepoel
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,EVENEPOEL Remco,rider/remco-evenepoel
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,EVENEPOEL Remco,rider/remco-evenepoel
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,VALGREN Michael,rider/michael-valgren-andersen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VALGREN Michael,rider/michael-valgren-andersen
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VALGREN Michael,rider/michael-valgren-andersen
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VALGREN Michael,rider/michael-valgren-andersen
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VALGREN Michael,rider/michael-valgren-andersen
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MILAN Jonathan,rider/jonathan-milan
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,MILAN Jonathan,rider/jonathan-milan
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,MILAN Jonathan,rider/jonathan-milan
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,MARIT Arne,rider/arne-marit
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,HUENS Axel,rider/axel-huens
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HUENS Axel,rider/axel-huens
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HUENS Axel,rider/axel-huens
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VANDENSTORME Dylan,rider/dylan-vandenstorme
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,STUYVEN Jasper,rider/jasper-stuyven
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN HEMELEN Vincent,rider/vincent-van-hemelen
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN WILDER Ilan,rider/ilan-van-wilder
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,VAN WILDER Ilan,rider/ilan-van-wilder
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,VAN WILDER Ilan,rider/ilan-van-wilder
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RIESEBEEK Oscar,rider/oscar-riesebeek
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BRUNEL Alexys,rider/alexys-brunel
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,POGAČAR Tadej,rider/tadej-pogacar
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,POGAČAR Tadej,rider/tadej-pogacar
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,POGAČAR Tadej,rider/tadej-pogacar
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,POGAČAR Tadej,rider/tadej-pogacar
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,POGAČAR Tadej,rider/tadej-pogacar
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,CARUSO Damiano,rider/damiano-caruso
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GOVEKAR Matevž,rider/matevz-govekar
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,TRENTIN Matteo,rider/matteo-trentin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TRENTIN Matteo,rider/matteo-trentin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HEIDUK Kim,rider/kim-heiduk
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,CORT Magnus,rider/magnus-cort-nielsen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,CORT Magnus,rider/magnus-cort-nielsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,HALLER Marco,rider/marco-haller
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Brabantse Pijl,ADDED,WELLENS Tim,rider/tim-wellens
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,VAN MECHELEN Vlad,rider/vlad-van-mechelen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN MECHELEN Vlad,rider/vlad-van-mechelen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BOLLE Bert,rider/bert-bolle
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BEHRENS Niklas,rider/niklas-behrens
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,TURGIS Anthony,rider/anthony-turgis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,TURGIS Anthony,rider/anthony-turgis
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,NIELSEN Magnus Lorents,rider/magnus-lorents-nielsen
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,FIORELLI Filippo,rider/filippo-fiorelli
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,FIORELLI Filippo,rider/filippo-fiorelli
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,FIORELLI Filippo,rider/filippo-fiorelli
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,FIORELLI Filippo,rider/filippo-fiorelli
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DEKKER David,rider/david-dekker
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HUPPERTZ Joshua,rider/joshua-huppertz
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,KROONEN Max,rider/max-kroonen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,RASENBERG Martijn,rider/martijn-rasenberg
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,RASENBERG Martijn,rider/martijn-rasenberg
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BAUDIN Alex,rider/alex-baudin
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BAUDIN Alex,rider/alex-baudin
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BAUDIN Alex,rider/alex-baudin
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,PEDERSEN Casper,rider/casper-pedersen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LARSEN Niklas,rider/niklas-larsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,BYSTRØM Sven Erik,rider/sven-erik-bystrom
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,FOLDAGER Anders,rider/anders-foldager
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,FOLDAGER Anders,rider/anders-foldager
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HULSMANS Senne,rider/senne-hulsmans
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,CORKERY Dillon,rider/dillon-corkery
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,CRABBE Tom,rider/tom-crabbe
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,VAN BOVEN Luca,rider/luca-van-boven
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VAN BOVEN Luca,rider/luca-van-boven
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BOARDMAN Samuel,rider/samuel-boardman
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,BAUHAUS Phil,rider/phil-bauhaus
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,IZAGIRRE Ion,rider/ion-izagirre
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,IZAGIRRE Ion,rider/ion-izagirre
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,IZAGIRRE Ion,rider/ion-izagirre
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,E3 Saxo Classic,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VERMEERSCH Florian,rider/florian-vermeersch
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,LAFAY Victor,rider/victor-lafay
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,LAFAY Victor,rider/victor-lafay
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,LAMPAERT Yves,rider/yves-lampaert
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,LAMPAERT Yves,rider/yves-lampaert
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,LAMPAERT Yves,rider/yves-lampaert
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,LAMPAERT Yves,rider/yves-lampaert
+2026-02-18T11:30:47.591152Z,Dwars door Vlaanderen,ADDED,LAMPAERT Yves,rider/yves-lampaert
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,HANNES Victor,rider/victor-hannes
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,ZIMMERMANN Georg,rider/georg-zimmermann
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ZIMMERMANN Georg,rider/georg-zimmermann
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,In Flanders Fields,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,SÉNÉCHAL Florian,rider/florian-senechal
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,TOWNSEND Rory,rider/rory-townsend
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,SVRČEK Martin,rider/martin-svrcek
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DAIX Guillaume,rider/guillaume-daix
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE PESTEL Sander,rider/sander-de-pestel
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-02-18T11:30:47.591152Z,Ronde van Brugge,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,MIKUTIS Aivaras,rider/aivaras-mikutis
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,AFFINI Edoardo,rider/edoardo-affini
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,FONTAINE Titouan,rider/titouan-fontaine
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,DE JONG Timo,rider/timo-de-jong
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,DEL TORO Isaac,rider/isaac-del-toro
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,DEL TORO Isaac,rider/isaac-del-toro
+2026-02-18T11:30:47.591152Z,Amstel Gold Race,ADDED,BUSATTO Francesco,rider/francesco-busatto
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,BUSATTO Francesco,rider/francesco-busatto
+2026-02-18T11:30:47.591152Z,Strade Bianche,ADDED,BUSATTO Francesco,rider/francesco-busatto
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,BUSATTO Francesco,rider/francesco-busatto
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,ROOSEN Timo,rider/timo-roosen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ROOSEN Timo,rider/timo-roosen
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,SÖDERQVIST Jakob,rider/jakob-soderqvist
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,SÖDERQVIST Jakob,rider/jakob-soderqvist
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,O'BRIEN Kelland,rider/kelland-brien
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,VINOKUROV Nicolas,rider/nicolas-vinokurov
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,KMÍNEK Vojtěch,rider/vojtech-kminek
+2026-02-18T11:30:47.591152Z,Ronde van Vlaanderen,ADDED,AERTS Toon,rider/toon-aerts
+2026-02-18T11:30:47.591152Z,Parijs-Roubaix,ADDED,AERTS Toon,rider/toon-aerts
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DAUPHIN Florian,rider/florian-dauphin
+2026-02-18T11:30:47.591152Z,Waalse Pijl,ADDED,AYUSO Juan,rider/juan-ayuso-pesquera
+2026-02-18T11:30:47.591152Z,Luik-Bastenaken-Luik,ADDED,AYUSO Juan,rider/juan-ayuso-pesquera
+2026-02-18T11:30:47.591152Z,Kuurne-Brussel-Kuurne,ADDED,DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer
+2026-02-18T11:30:47.591152Z,Bredene Koksijde Classic,ADDED,DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer
+2026-02-18T11:30:47.591152Z,Nokere Koerse,ADDED,DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer
+2026-02-18T11:30:47.591152Z,Scheldeprijs,ADDED,DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-18T11:30:47.591152Z,Milaan-Sanremo,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,WATSON Samuel,rider/samuel-watson
+2026-02-18T11:30:47.591152Z,Samyn Classic,ADDED,GRUPP Louis,rider/louis-grupp
+2026-02-18T11:30:47.591152Z,Omloop Nieuwsblad,ADDED,REX Laurenz,rider/laurenz-rex
