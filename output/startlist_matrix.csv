@@ -34,7 +34,6 @@ BEHRENS Eike,rider/eike-behrens,,,X,,,,,,,,,,,,,,,,,1/19
 BEHRENS Niklas,rider/niklas-behrens,,,X,,,,,,,,,,,,,,,,,1/19
 BELLETTA Dario Igor,rider/dario-igor-belletta,,,,,,,X,,,,,,,,,,,,,1/19
 BELMANS Lennert,rider/lennert-belmans,X,,,,,,,,,,,,,,,,,,,1/19
-BENOOT Tiesj,rider/tiesj-benoot,X,X,,,,,,,X,X,X,X,,,,,X,X,X,9/19
 BERCKMOES Jenno,rider/jenno-berckmoes,X,,,,,,X,,X,X,X,X,,,,X,X,,,8/19
 BERGER Antoine,rider/antoine-berger,,,X,,,,,,,,,,,,,,,,,1/19
 BERNAL Egan,rider/egan-bernal,,,,X,,,,,,,,,,,,,,,,1/19
@@ -84,7 +83,7 @@ CORT Magnus,rider/magnus-cort-nielsen,,,,,,,X,,,,,,,,,,,,X,2/19
 COSNEFROY Benoît,rider/benoit-cosnefroy,,,,,,,,,,,,,,,,X,X,X,X,4/19
 COSTIOU Ewen,rider/ewen-costiou,,,,,,,,,,,,,,,,,X,X,X,3/19
 COVI Alessandro,rider/alessandro-covi,,,,X,,,,,,,,,,,,,X,X,X,4/19
-CRABBE Tom,rider/tom-crabbe,,X,,,,,,,,,,,,,,,,,,1/19
+CRABBE Tom,rider/tom-crabbe,,X,,,X,X,,X,,X,X,,X,,,,,,,7/19
 CROCKETT Finn,rider/finn-crockett,,,X,,,,,,,,,,,,,,,,,1/19
 DAIX Guillaume,rider/guillaume-daix,,,X,,,,,,,,,,,,,,,,,1/19
 DARBELLAY Valentin,rider/valentin-darbellay,,,X,,,,,,,,,,,,,,,,,1/19
@@ -272,9 +271,9 @@ PHILIPSEN Jasper,rider/jasper-philipsen,X,X,,,X,,X,X,,X,X,,X,X,,,,,,9/19
 PICKRELL Riley,rider/riley-pickrell,,,X,,,,,,,,,,,,,,,,,1/19
 PIDCOCK Thomas,rider/thomas-pidcock,X,,,X,,,X,,,,,,,,,X,X,X,X,7/19
 PINARELLO Alessandro,rider/alessandro-pinarello,,,,X,,,,,,,,,,,,,,,,1/19
-PITHIE Laurence,rider/laurence-pithie,X,,,,,,,,,,,,,,,,,,,1/19
+PITHIE Laurence,rider/laurence-pithie,X,X,,,,,X,,X,X,X,X,,X,,,,,,8/19
 PLANCKAERT Edward,rider/edward-planckaert,X,,,,,,,,,,,,,,,,,,,1/19
-PLUIMERS Rick,rider/rick-pluimers,X,X,,,,,,,X,,,X,,,,,X,,,5/19
+PLUIMERS Rick,rider/rick-pluimers,X,X,,,,,X,,X,,X,X,,,,,X,,,7/19
 POGAČAR Tadej,rider/tadej-pogacar,,,,X,,,X,,,,,X,,X,,,,,X,5/19
 POLITT Nils,rider/nils-politt,X,,,,,,,,,,,,,,,,,,,1/19
 POWLESS Neilson,rider/neilson-powless,,,,X,,,X,,X,,X,X,,X,,,X,X,X,9/19

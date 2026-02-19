@@ -165,20 +165,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/tiesj-benoot": {
-    "name": "BENOOT Tiesj",
-    "races": [
-      "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/stefan-bissegger": {
     "name": "BISSEGGER Stefan",
     "races": [
@@ -628,7 +614,14 @@
   "rider/laurence-pithie": {
     "name": "PITHIE Laurence",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/mick-van-dijke": {
@@ -1247,7 +1240,9 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Amstel Gold Race"
     ]
@@ -1549,7 +1544,13 @@
   "rider/tom-crabbe": {
     "name": "CRABBE Tom",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Scheldeprijs"
     ]
   },
   "rider/gil-gelders": {
@@ -2937,16 +2938,16 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/nick-schultz": {
-    "name": "SCHULTZ Nick",
+  "rider/joseph-blackmore": {
+    "name": "BLACKMORE Joseph",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/joseph-blackmore": {
-    "name": "BLACKMORE Joseph",
+  "rider/nick-schultz": {
+    "name": "SCHULTZ Nick",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
