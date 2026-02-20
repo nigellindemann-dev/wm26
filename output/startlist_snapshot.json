@@ -59,7 +59,8 @@
   "rider/kaden-groves": {
     "name": "GROVES Kaden",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
     ]
   },
   "rider/tobias-bayer": {
@@ -77,7 +78,8 @@
   "rider/jonas-geens": {
     "name": "GEENS Jonas",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
     ]
   },
   "rider/edward-planckaert": {
@@ -1547,6 +1549,38 @@
       "Scheldeprijs"
     ]
   },
+  "rider/gerben-thijssen": {
+    "name": "THIJSSEN Gerben",
+    "races": [
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic"
+    ]
+  },
+  "rider/jonas-rickaert": {
+    "name": "RICKAERT Jonas",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/silvan-dillier": {
+    "name": "DILLIER Silvan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/johan-price-pejtersen": {
+    "name": "PRICE-PEJTERSEN Johan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/simon-dehairs": {
+    "name": "DEHAIRS Simon",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
   "rider/gil-gelders": {
     "name": "GELDERS Gil",
     "races": [
@@ -1878,12 +1912,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/joost-brinkman": {
-    "name": "BRINKMAN Joost",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/robbe-claeys": {
     "name": "CLAEYS Robbe",
     "races": [
@@ -1902,14 +1930,20 @@
       "Samyn Classic"
     ]
   },
-  "rider/senne-hulsmans": {
-    "name": "HULSMANS Senne",
+  "rider/elmar-abma": {
+    "name": "ABMA Elmar",
     "races": [
       "Samyn Classic"
     ]
   },
-  "rider/thor-verleysen": {
-    "name": "VERLEYSEN Thor",
+  "rider/thijmen-paardekooper": {
+    "name": "PAARDEKOOPER Thijmen",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/mattanja-woets": {
+    "name": "WOETS Mattanja",
     "races": [
       "Samyn Classic"
     ]
@@ -2661,13 +2695,6 @@
     "name": "BARONCINI Filippo",
     "races": [
       "Nokere Koerse"
-    ]
-  },
-  "rider/gerben-thijssen": {
-    "name": "THIJSSEN Gerben",
-    "races": [
-      "Nokere Koerse",
-      "Bredene Koksijde Classic"
     ]
   },
   "rider/clement-venturini": {
