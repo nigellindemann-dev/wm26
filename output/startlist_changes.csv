@@ -1031,3 +1031,5 @@ timestamp,race,change_type,rider_name,rider_url
 2026-02-20T14:26:26.517630Z,Samyn Classic,ADDED,THIJSSEN Gerben,rider/gerben-thijssen
 2026-02-20T14:26:26.517630Z,Samyn Classic,ADDED,DILLIER Silvan,rider/silvan-dillier
 2026-02-21T13:54:37.293371Z,Amstel Gold Race,ADDED,BIESTERBOS Frits,rider/frits-biesterbos
+2026-02-21T19:05:21.016705Z,Samyn Classic,REMOVED,MANZIN Lorrenzo,rider/lorrenzo-manzin
+2026-02-21T19:05:21.016705Z,Omloop Nieuwsblad,REMOVED,MANZIN Lorrenzo,rider/lorrenzo-manzin
