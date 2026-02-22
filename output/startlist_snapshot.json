@@ -2351,16 +2351,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/jordan-labrosse": {
-    "name": "LABROSSE Jordan",
-    "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/paul-lapeira": {
     "name": "LAPEIRA Paul",
     "races": [
@@ -2380,6 +2370,16 @@
     "name": "MÜHLBERGER Gregor",
     "races": [
       "Strade Bianche"
+    ]
+  },
+  "rider/jordan-labrosse": {
+    "name": "LABROSSE Jordan",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/paul-seixas": {
@@ -2587,15 +2587,6 @@
       "Strade Bianche"
     ]
   },
-  "rider/ben-tulett": {
-    "name": "TULETT Ben",
-    "races": [
-      "Strade Bianche",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/matteo-jorgenson": {
     "name": "JORGENSON Matteo",
     "races": [
@@ -2608,6 +2599,15 @@
   },
   "rider/louis-barre": {
     "name": "BARRÉ Louis",
+    "races": [
+      "Strade Bianche",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/ben-tulett": {
+    "name": "TULETT Ben",
     "races": [
       "Strade Bianche",
       "Amstel Gold Race",
@@ -2650,6 +2650,12 @@
   },
   "rider/egan-bernal": {
     "name": "BERNAL Egan",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/thymen-arensman": {
+    "name": "ARENSMAN Thymen",
     "races": [
       "Strade Bianche"
     ]
@@ -3059,6 +3065,12 @@
   },
   "rider/brieuc-rolland": {
     "name": "ROLLAND Brieuc",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/alex-molenaar": {
+    "name": "MOLENAAR Alex",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
