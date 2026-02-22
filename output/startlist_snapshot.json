@@ -462,6 +462,7 @@
     "name": "BERCKMOES Jenno",
     "races": [
       "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
@@ -1433,6 +1434,15 @@
       "Strade Bianche",
       "Amstel Gold Race",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/jonathan-milan": {
+    "name": "MILAN Jonathan",
+    "races": [
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
+      "In Flanders Fields",
+      "Parijs-Roubaix"
     ]
   },
   "rider/mathias-norsgaard": {
@@ -2737,14 +2747,6 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
-    ]
-  },
-  "rider/jonathan-milan": {
-    "name": "MILAN Jonathan",
-    "races": [
-      "Milaan-Sanremo",
-      "In Flanders Fields",
       "Parijs-Roubaix"
     ]
   },
