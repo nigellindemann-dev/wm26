@@ -1161,3 +1161,52 @@ timestamp,race,change_type,rider_name,rider_url
 2026-02-23T05:21:25.061401Z,Kuurne-Brussel-Kuurne,ADDED,BONNET Thomas,rider/thomas-bonnet
 2026-02-23T05:21:25.061401Z,Kuurne-Brussel-Kuurne,ADDED,MOLANO Juan Sebastián,rider/juan-sebastian-molano
 2026-02-23T05:21:25.061401Z,Kuurne-Brussel-Kuurne,ADDED,WRIGHT Fred,rider/alfred-wright
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,REMOVED,MARIS Elias,rider/elias-maris
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,REMOVED,ZUKOWSKY Nickolas,rider/nickolas-zukowsky
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,ADDED,TORNEY Artuur,rider/artuur-torney
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,In Flanders Fields,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,E3 Saxo Classic,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,Ronde van Vlaanderen,ADDED,ABRAHAMSEN Jonas,rider/jonas-abrahamsen
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,SHEEHAN Riley,rider/riley-sheehan
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,SHEEHAN Riley,rider/riley-sheehan
+2026-02-23T14:37:46.101516Z,E3 Saxo Classic,ADDED,SHEEHAN Riley,rider/riley-sheehan
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,REMOVED,MIHOLJEVIĆ Fran,rider/fran-miholjevic
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,ADDED,VERCOUILLIE Victor,rider/victor-vercouillie
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,REMOVED,VERCOUILLIE Victor,rider/victor-vercouillie
+2026-02-23T14:37:46.101516Z,Milaan-Sanremo,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,Amstel Gold Race,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,In Flanders Fields,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,E3 Saxo Classic,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,Ronde van Vlaanderen,ADDED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-02-23T14:37:46.101516Z,Samyn Classic,ADDED,VAN KERCKHOVE Matisse,rider/matisse-van-kerckhove
+2026-02-23T14:37:46.101516Z,Strade Bianche,REMOVED,BARGUIL Warren,rider/warren-barguil
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,ADDED,STANNARD Robert,rider/robert-stannard
+2026-02-23T14:37:46.101516Z,Milaan-Sanremo,ADDED,GROVES Kaden,rider/kaden-groves
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,GROVES Kaden,rider/kaden-groves
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,GROVES Kaden,rider/kaden-groves
+2026-02-23T14:37:46.101516Z,Ronde van Vlaanderen,ADDED,GROVES Kaden,rider/kaden-groves
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,ASKEY Lewis,rider/lewis-askey
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,ASKEY Lewis,rider/lewis-askey
+2026-02-23T14:37:46.101516Z,Ronde van Vlaanderen,ADDED,ASKEY Lewis,rider/lewis-askey
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,ADDED,DE VRIES Hartthijs,rider/hartthijs-de-vries
+2026-02-23T14:37:46.101516Z,Milaan-Sanremo,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,In Flanders Fields,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,Parijs-Roubaix,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,Ronde van Brugge,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,Ronde van Vlaanderen,ADDED,WÆRENSKJOLD Søren,rider/soren-waerenskjold
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,REMOVED,REX Laurenz,rider/laurenz-rex
+2026-02-23T14:37:46.101516Z,Omloop Nieuwsblad,ADDED,MAŁECKI Kamil,rider/kamil-malecki
+2026-02-23T14:37:46.101516Z,Bredene Koksijde Classic,ADDED,BLIKRA Erlend,rider/erlend-blikra
+2026-02-23T14:37:46.101516Z,Ronde van Brugge,ADDED,BLIKRA Erlend,rider/erlend-blikra
+2026-02-23T14:37:46.101516Z,Nokere Koerse,ADDED,BLIKRA Erlend,rider/erlend-blikra
+2026-02-23T14:37:46.101516Z,Samyn Classic,REMOVED,BEHRENS Niklas,rider/niklas-behrens
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,ADDED,HUYSMANS Nolan,rider/nolan-huysmans
+2026-02-23T14:37:46.101516Z,Milaan-Sanremo,ADDED,LAPEIRA Paul,rider/paul-lapeira
+2026-02-23T14:37:46.101516Z,Dwars door Vlaanderen,ADDED,MILAN Jonathan,rider/jonathan-milan
+2026-02-23T14:37:46.101516Z,Kuurne-Brussel-Kuurne,ADDED,MILAN Jonathan,rider/jonathan-milan
