@@ -289,7 +289,7 @@ PEDERSEN Mads,rider/mads-pedersen,,,,,,,X,,X,X,X,X,,X,,,,,,6/19
 PEDERSEN Rasmus Søjberg,rider/rasmus-sojbergpedersen,X,X,,,,,,X,X,,,,,,,,,,,4/19
 PELLIZZARI Giulio,rider/giulio-pellizzari,,,,X,,,,,,,,,,,,,,,,1/19
 PENHOËT Paul,rider/paul-penhoet,,X,X,,,,,,,,,,,,,,,,,2/19
-PHILIPSEN Jasper,rider/jasper-philipsen,X,,,,X,,X,X,,X,X,,X,X,,,,,,8/19
+PHILIPSEN Jasper,rider/jasper-philipsen,X,X,,,X,,X,X,,X,X,,X,X,,,,,,9/19
 PICKRELL Riley,rider/riley-pickrell,,X,X,,,,,,,,,,,,,,,,,2/19
 PIDCOCK Thomas,rider/thomas-pidcock,X,,,X,,,X,,,,,,,,,X,X,X,X,7/19
 PINARELLO Alessandro,rider/alessandro-pinarello,,,,X,,,,,,,,,,,,,,,,1/19
@@ -337,7 +337,7 @@ SIMMONS Colby,rider/colby-simmons,X,X,,,,,,,,,,,,,,,,,,2/19
 SIMMONS Quinn,rider/quinn-simmons,,,,X,,,,,,,,,,,,,X,,,2/19
 SIVAKOV Pavel,rider/pavel-sivakov,,,,,,,,,,,,,,,,,X,X,X,3/19
 SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,,,,,,,,,,,,,,,,,X,X,X,3/19
-SKUJIŅŠ Toms,rider/toms-skujins,X,,,,,,,,,,,,,,,,,,,1/19
+SKUJIŅŠ Toms,rider/toms-skujins,X,X,,,,,,,X,,,,,,,,X,,,4/19
 SLOCK Liam,rider/liam-slock,,X,,,,,,,,,,,,,,,,,,1/19
 SOMMER Jan,rider/jan-sommer,,,X,,,,,,,,,,,,,,,,,1/19
 STAES Gibbe,rider/gibbe-staes,,,X,,,,,,,,,,,,,,,,,1/19
@@ -429,6 +429,7 @@ WATTS Kiaan,rider/kiaan-watts,,,X,,,,,,,,,,,,,,,,,1/19
 WELLENS Tim,rider/tim-wellens,X,X,,X,X,,X,,X,X,X,X,,X,,X,X,,,12/19
 WERTZ Hugo,rider/hugo-wertz,,,X,,,,,,,,,,,,,,,,,1/19
 WIDAR Jarno,rider/jarno-widar,,,,X,,,,,,,,,,,,,,X,X,3/19
+WITHEN PHILIPSEN Albert,rider/albert-withen-philipsen,X,,,,,,,,,,,,,,,,,,,1/19
 WOETS Mattanja,rider/mattanja-woets,,,X,,,,,,,,,,,,,,,,,1/19
 WRIGHT Fred,rider/alfred-wright,X,X,,,,,,,,,,,,,,,,,,2/19
 WROBEL Jesko,rider/jesko-wrobel,,,X,,,,,,,,,,,,,,,,,1/19

@@ -61,6 +61,7 @@
     "name": "PHILIPSEN Jasper",
     "races": [
       "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Milaan-Sanremo",
       "Ronde van Brugge",
@@ -414,6 +415,12 @@
       "Omloop Nieuwsblad"
     ]
   },
+  "rider/albert-withen-philipsen": {
+    "name": "WITHEN PHILIPSEN Albert",
+    "races": [
+      "Omloop Nieuwsblad"
+    ]
+  },
   "rider/soren-kragh-andersen": {
     "name": "KRAGH ANDERSEN Søren",
     "races": [
@@ -427,7 +434,10 @@
   "rider/toms-skujins": {
     "name": "SKUJIŅŠ Toms",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "Amstel Gold Race"
     ]
   },
   "rider/jakob-soderqvist": {
