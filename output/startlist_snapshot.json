@@ -433,6 +433,9 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Amstel Gold Race"
     ]
   },
@@ -1125,7 +1128,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -1404,7 +1406,8 @@
   "rider/dylan-vandenstorme": {
     "name": "VANDENSTORME Dylan",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
     ]
   },
   "rider/ward-vanhoof": {
@@ -1914,13 +1917,15 @@
   "rider/nolan-huysmans": {
     "name": "HUYSMANS Nolan",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/artuur-torney": {
     "name": "TORNEY Artuur",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/thomas-bonnet": {
@@ -2041,6 +2046,18 @@
       "Samyn Classic"
     ]
   },
+  "rider/nicola-marcerou": {
+    "name": "MARCEROU Nicola",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jason-tesson": {
+    "name": "TESSON Jason",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
   "rider/alberto-bruttomesso": {
     "name": "BRUTTOMESSO Alberto",
     "races": [
@@ -2101,16 +2118,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/fabio-jakobsen": {
-    "name": "JAKOBSEN Fabio",
-    "races": [
-      "Samyn Classic",
-      "Nokere Koerse",
-      "Bredene Koksijde Classic",
-      "Ronde van Brugge",
-      "Scheldeprijs"
-    ]
-  },
   "rider/frits-biesterbos": {
     "name": "BIESTERBOS Frits",
     "races": [
@@ -2125,10 +2132,14 @@
       "Samyn Classic"
     ]
   },
-  "rider/mees-vlot": {
-    "name": "VLOT Mees",
+  "rider/fabio-jakobsen": {
+    "name": "JAKOBSEN Fabio",
     "races": [
-      "Samyn Classic"
+      "Samyn Classic",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "Scheldeprijs"
     ]
   },
   "rider/alessio-magagnotti": {
@@ -2152,14 +2163,26 @@
       "Brabantse Pijl"
     ]
   },
-  "rider/nicola-marcerou": {
-    "name": "MARCEROU Nicola",
+  "rider/senne-thonnon": {
+    "name": "THONNON Senne",
     "races": [
       "Samyn Classic"
     ]
   },
-  "rider/jason-tesson": {
-    "name": "TESSON Jason",
+  "rider/milan-van-den-haute": {
+    "name": "VAN DEN HAUTE Milan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/noah-vandenbranden": {
+    "name": "VANDENBRANDEN Noah",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/brody-mcdonald": {
+    "name": "MCDONALD Brody",
     "races": [
       "Samyn Classic"
     ]
@@ -2180,8 +2203,86 @@
       "Ronde van Limburg"
     ]
   },
-  "rider/brody-mcdonald": {
-    "name": "MCDONALD Brody",
+  "rider/elmar-abma": {
+    "name": "ABMA Elmar",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/bert-bolle": {
+    "name": "BOLLE Bert",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/robbe-claeys": {
+    "name": "CLAEYS Robbe",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/finn-crockett": {
+    "name": "CROCKETT Finn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/born-de-dobbelaere": {
+    "name": "DE DOBBELAERE Born",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/thijmen-paardekooper": {
+    "name": "PAARDEKOOPER Thijmen",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/mattanja-woets": {
+    "name": "WOETS Mattanja",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/david-dekker": {
+    "name": "DEKKER David",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/stijn-appel": {
+    "name": "APPEL Stijn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/marijn-maas": {
+    "name": "MAAS Marijn",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/jochem-kerckhaert": {
+    "name": "KERCKHAERT Jochem",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/max-kroonen": {
+    "name": "KROONEN Max",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/michiel-coppens": {
+    "name": "COPPENS Michiel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/daan-van-sintmaartensdijk": {
+    "name": "VAN SINTMAARTENSDIJK Daan",
     "races": [
       "Samyn Classic"
     ]
@@ -2224,90 +2325,6 @@
   },
   "rider/lars-rouffaer": {
     "name": "ROUFFAER Lars",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/bert-bolle": {
-    "name": "BOLLE Bert",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/robbe-claeys": {
-    "name": "CLAEYS Robbe",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/finn-crockett": {
-    "name": "CROCKETT Finn",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/born-de-dobbelaere": {
-    "name": "DE DOBBELAERE Born",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/elmar-abma": {
-    "name": "ABMA Elmar",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/thijmen-paardekooper": {
-    "name": "PAARDEKOOPER Thijmen",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/mattanja-woets": {
-    "name": "WOETS Mattanja",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/stijn-appel": {
-    "name": "APPEL Stijn",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/david-dekker": {
-    "name": "DEKKER David",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/jochem-kerckhaert": {
-    "name": "KERCKHAERT Jochem",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/max-kroonen": {
-    "name": "KROONEN Max",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/daan-van-sintmaartensdijk": {
-    "name": "VAN SINTMAARTENSDIJK Daan",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/marijn-maas": {
-    "name": "MAAS Marijn",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/michiel-coppens": {
-    "name": "COPPENS Michiel",
     "races": [
       "Samyn Classic"
     ]
@@ -2360,8 +2377,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/jan-sommer": {
-    "name": "SOMMER Jan",
+  "rider/loris-rouiller": {
+    "name": "ROUILLER Loris",
     "races": [
       "Samyn Classic"
     ]
@@ -2372,8 +2389,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/loris-rouiller": {
-    "name": "ROUILLER Loris",
+  "rider/jan-sommer": {
+    "name": "SOMMER Jan",
     "races": [
       "Samyn Classic"
     ]
@@ -2438,12 +2455,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/antoine-raugel": {
-    "name": "RAUGEL Antoine",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/daniel-arnes": {
     "name": "ÅRNES Daniel",
     "races": [
@@ -2468,6 +2479,12 @@
       "Samyn Classic"
     ]
   },
+  "rider/antoine-raugel": {
+    "name": "RAUGEL Antoine",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
   "rider/arnaud-tendon": {
     "name": "TENDON Arnaud",
     "races": [
@@ -2480,12 +2497,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/antoine-berger": {
-    "name": "BERGER Antoine",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/lucas-beneteau": {
     "name": "BÉNÉTEAU Lucas",
     "races": [
@@ -2494,6 +2505,12 @@
   },
   "rider/axel-bouquet": {
     "name": "BOUQUET Axel",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/antoine-berger": {
+    "name": "BERGER Antoine",
     "races": [
       "Samyn Classic"
     ]
@@ -2565,48 +2582,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/julien-desmarets": {
-    "name": "DESMARETS Julien",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/lucas-jacques": {
-    "name": "JACQUES Lucas",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/matteo-melotte": {
-    "name": "MELOTTE Matteo",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/hugo-wertz": {
-    "name": "WERTZ Hugo",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/william-graff": {
-    "name": "GRAFF William",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/nicolas-aernouts": {
-    "name": "AERNOUTS Nicolas",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/guillaume-daix": {
-    "name": "DAIX Guillaume",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/jocelyn-baguelin": {
     "name": "BAGUELIN Jocelyn",
     "races": [
@@ -2645,6 +2620,48 @@
   },
   "rider/bogdan-zabelinskiy": {
     "name": "ZABELINSKIY Bogdan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/julien-desmarets": {
+    "name": "DESMARETS Julien",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/matteo-melotte": {
+    "name": "MELOTTE Matteo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/arnaud-noirhomme": {
+    "name": "NOIRHOMME Arnaud",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/hugo-wertz": {
+    "name": "WERTZ Hugo",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/louis-marx": {
+    "name": "MARX Louis",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/nathan-cardinal": {
+    "name": "CARDINAL Nathan",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/lucas-jacques": {
+    "name": "JACQUES Lucas",
     "races": [
       "Samyn Classic"
     ]
@@ -3273,6 +3290,12 @@
     "name": "AERTS Toon",
     "races": [
       "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/laurenz-rex": {
+    "name": "REX Laurenz",
+    "races": [
       "Parijs-Roubaix"
     ]
   },
