@@ -1344,3 +1344,33 @@ timestamp,race,change_type,rider_name,rider_url
 2026-02-25T15:13:26.713432Z,Milaan-Sanremo,ADDED,VAN DER POEL Mathieu,rider/mathieu-van-der-poel
 2026-02-25T15:13:26.713432Z,Omloop Nieuwsblad,ADDED,VAN DER POEL Mathieu,rider/mathieu-van-der-poel
 2026-02-25T15:13:26.713432Z,Omloop Nieuwsblad,ADDED,MAYER Alexandre,rider/alexandre-mayer
+2026-02-25T19:56:36.276906Z,Samyn Classic,ADDED,SCHELDEMAN Xander,rider/xander-scheldeman
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,NABERMAN Tim,rider/tim-naberman
+2026-02-25T19:56:36.276906Z,Omloop Nieuwsblad,REMOVED,ÁLVAREZ Rodrigo,rider/rodrigo-alvarez-rogriguez
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,DE JONG Timo,rider/timo-de-jong
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,SUNEKÆR NORSGAARD Mathias,rider/mathias-norsgaard
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,THEUNS Edward,rider/edward-theuns
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,JOHANSEN Julius,rider/julius-johansen
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,MÄRKL Niklas,rider/niklas-markl
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,ÁLVAREZ Héctor,rider/hector-alvarez-martinez
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,DEGENKOLB John,rider/john-degenkolb
+2026-02-25T19:56:36.276906Z,Parijs-Roubaix,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Milaan-Sanremo,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Amstel Gold Race,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Ronde van Vlaanderen,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Waalse Pijl,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Dwars door Vlaanderen,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Luik-Bastenaken-Luik,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,E3 Saxo Classic,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Strade Bianche,REMOVED,POWLESS Neilson,rider/neilson-powless
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,WALSCHEID Max,rider/max-walscheid
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,SÖDERQVIST Jakob,rider/jakob-soderqvist
+2026-02-25T19:56:36.276906Z,Samyn Classic,ADDED,VAN DEN BERG Julius,rider/julius-van-den-berg
+2026-02-25T19:56:36.276906Z,Luik-Bastenaken-Luik,ADDED,OTRUBA Jakub,rider/jakub-otruba
+2026-02-25T19:56:36.276906Z,Amstel Gold Race,ADDED,OTRUBA Jakub,rider/jakub-otruba
+2026-02-25T19:56:36.276906Z,Waalse Pijl,ADDED,OTRUBA Jakub,rider/jakub-otruba
+2026-02-25T19:56:36.276906Z,Samyn Classic,REMOVED,CORKERY Dillon,rider/dillon-corkery
+2026-02-25T19:56:36.276906Z,Ronde van Limburg,REMOVED,DHAEYE Enrico,rider/enrico-dhaeye
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,VAN DEN BROEK Frank,rider/frank-van-den-broek
+2026-02-25T19:56:36.276906Z,Omloop Nieuwsblad,ADDED,BOUGLAS Georgios,rider/georgios-bouglas
+2026-02-25T19:56:36.276906Z,Kuurne-Brussel-Kuurne,ADDED,BIESTERBOS Frits,rider/frits-biesterbos
