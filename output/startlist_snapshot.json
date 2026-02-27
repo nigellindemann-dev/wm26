@@ -57,17 +57,6 @@
       "Kuurne-Brussel-Kuurne"
     ]
   },
-  "rider/mathieu-van-der-poel": {
-    "name": "VAN DER POEL Mathieu",
-    "races": [
-      "Omloop Nieuwsblad",
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
-    ]
-  },
   "rider/jasper-philipsen": {
     "name": "PHILIPSEN Jasper",
     "races": [
@@ -110,6 +99,17 @@
     "name": "PLANCKAERT Edward",
     "races": [
       "Omloop Nieuwsblad"
+    ]
+  },
+  "rider/mathieu-van-der-poel": {
+    "name": "VAN DER POEL Mathieu",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/florian-senechal": {
@@ -505,14 +505,6 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/vito-braet": {
-    "name": "BRAET Vito",
-    "races": [
-      "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
-    ]
-  },
   "rider/jenno-berckmoes": {
     "name": "BERCKMOES Jenno",
     "races": [
@@ -533,6 +525,14 @@
       "Omloop Nieuwsblad",
       "Samyn Classic",
       "In Flanders Fields"
+    ]
+  },
+  "rider/vito-braet": {
+    "name": "BRAET Vito",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/sebastien-grignard": {
@@ -949,14 +949,6 @@
       "Waalse Pijl"
     ]
   },
-  "rider/pietro-mattio": {
-    "name": "MATTIO Pietro",
-    "races": [
-      "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
-    ]
-  },
   "rider/edoardo-affini": {
     "name": "AFFINI Edoardo",
     "races": [
@@ -1007,6 +999,14 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
+    ]
+  },
+  "rider/pietro-mattio": {
+    "name": "MATTIO Pietro",
+    "races": [
+      "Omloop Nieuwsblad",
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/axel-zingle": {
@@ -1783,13 +1783,17 @@
     "name": "REX Laurenz",
     "races": [
       "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
       "Parijs-Roubaix"
     ]
   },
   "rider/bert-van-lerberghe": {
     "name": "VAN LERBERGHE Bert",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/pascal-ackermann": {
@@ -3116,6 +3120,13 @@
     "name": "BARONCINI Filippo",
     "races": [
       "Nokere Koerse"
+    ]
+  },
+  "rider/alberto-dainese": {
+    "name": "DAINESE Alberto",
+    "races": [
+      "Nokere Koerse",
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/casper-van-uden": {
