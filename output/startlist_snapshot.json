@@ -1032,14 +1032,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Strade Bianche",
-      "Nokere Koerse",
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
       "Brabantse Pijl",
       "Amstel Gold Race"
     ]
@@ -2751,16 +2743,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/paul-lapeira": {
-    "name": "LAPEIRA Paul",
-    "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/nicolas-prodhomme": {
     "name": "PRODHOMME Nicolas",
     "races": [
@@ -2775,6 +2757,16 @@
   },
   "rider/jordan-labrosse": {
     "name": "LABROSSE Jordan",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/paul-lapeira": {
+    "name": "LAPEIRA Paul",
     "races": [
       "Strade Bianche",
       "Milaan-Sanremo",
@@ -2844,15 +2836,6 @@
       "Amstel Gold Race"
     ]
   },
-  "rider/jan-christen": {
-    "name": "CHRISTEN Jan",
-    "races": [
-      "Strade Bianche",
-      "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
-    ]
-  },
   "rider/isaac-del-toro": {
     "name": "DEL TORO Isaac",
     "races": [
@@ -2878,6 +2861,15 @@
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/jan-christen": {
+    "name": "CHRISTEN Jan",
+    "races": [
+      "Strade Bianche",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/pello-bilbao": {
@@ -2926,6 +2918,12 @@
       "Strade Bianche",
       "Amstel Gold Race",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/filippo-zana": {
+    "name": "ZANA Filippo",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/roland-thalmann": {
