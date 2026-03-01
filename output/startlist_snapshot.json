@@ -187,9 +187,7 @@
   "rider/vlad-van-mechelen": {
     "name": "VAN MECHELEN Vlad",
     "races": [
-      "Omloop Nieuwsblad",
-      "Samyn Classic",
-      "In Flanders Fields"
+      "Omloop Nieuwsblad"
     ]
   },
   "rider/tobias-lund-andresen": {
@@ -1556,6 +1554,7 @@
     "name": "KUBIŠ Lukáš",
     "races": [
       "Omloop Nieuwsblad",
+      "Samyn Classic",
       "Bredene Koksijde Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -2704,8 +2703,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/louis-marx": {
-    "name": "MARX Louis",
+  "rider/leo-schyns": {
+    "name": "SCHYNS Léo",
     "races": [
       "Samyn Classic"
     ]
