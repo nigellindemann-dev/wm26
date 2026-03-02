@@ -88,7 +88,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Samyn Classic",
       "Milaan-Sanremo",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -117,6 +116,7 @@
     "name": "SÉNÉCHAL Florian",
     "races": [
       "Omloop Nieuwsblad",
+      "Samyn Classic",
       "Nokere Koerse",
       "Ronde van Brugge",
       "In Flanders Fields",
@@ -160,6 +160,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
@@ -705,7 +706,8 @@
     "name": "DRIZNERS Jarrad",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/laurence-pithie": {
@@ -1565,8 +1567,7 @@
     "name": "RASENBERG Martijn",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Kuurne-Brussel-Kuurne"
     ]
   },
   "rider/silvan-dillier": {
@@ -1622,7 +1623,6 @@
     "name": "BAUHAUS Phil",
     "races": [
       "Kuurne-Brussel-Kuurne",
-      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -1727,8 +1727,7 @@
   "rider/romet-pajur": {
     "name": "PAJUR Romet",
     "races": [
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Kuurne-Brussel-Kuurne"
     ]
   },
   "rider/ceriel-desal": {
@@ -1873,14 +1872,14 @@
   "rider/cole-kessler": {
     "name": "KESSLER Cole",
     "races": [
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Kuurne-Brussel-Kuurne"
     ]
   },
   "rider/ezra-caudell": {
     "name": "CAUDELL Ezra",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/ben-oliver": {
@@ -2005,6 +2004,7 @@
     "name": "DE VRIES Hartthijs",
     "races": [
       "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -2012,6 +2012,7 @@
     "name": "GROENEWEGEN Dylan",
     "races": [
       "Kuurne-Brussel-Kuurne",
+      "Samyn Classic",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "Scheldeprijs",
@@ -2103,8 +2104,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/rotem-tene": {
-    "name": "TENE Rotem",
+  "rider/miko-pirinen": {
+    "name": "PIRINEN Miko",
     "races": [
       "Samyn Classic"
     ]
@@ -2198,12 +2199,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/jelle-johannink": {
-    "name": "JOHANNINK Jelle",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/senne-thonnon": {
     "name": "THONNON Senne",
     "races": [
@@ -2228,14 +2223,14 @@
       "Samyn Classic"
     ]
   },
-  "rider/jelle-bouma": {
-    "name": "BOUMA Jelle",
+  "rider/rik-van-der-wal": {
+    "name": "VAN DER WAL Rik",
     "races": [
       "Samyn Classic"
     ]
   },
-  "rider/mike-bronswijk": {
-    "name": "BRONSWIJK Mike",
+  "rider/jelle-bouma": {
+    "name": "BOUMA Jelle",
     "races": [
       "Samyn Classic"
     ]
@@ -2252,8 +2247,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/jasper-huitema": {
-    "name": "HUITEMA Jasper",
+  "rider/mike-bronswijk": {
+    "name": "BRONSWIJK Mike",
     "races": [
       "Samyn Classic"
     ]
@@ -2264,8 +2259,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/rik-van-der-wal": {
-    "name": "VAN DER WAL Rik",
+  "rider/jasper-huitema": {
+    "name": "HUITEMA Jasper",
     "races": [
       "Samyn Classic"
     ]
@@ -2378,8 +2373,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/joppe-sterck": {
-    "name": "STERCK Joppe",
+  "rider/jelle-harteel": {
+    "name": "HARTEEL Jelle",
     "races": [
       "Samyn Classic"
     ]
@@ -2408,8 +2403,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/guillaume-bagou": {
-    "name": "BAGOU Guillaume",
+  "rider/elia-blum": {
+    "name": "BLUM Elia",
     "races": [
       "Samyn Classic"
     ]
@@ -2444,12 +2439,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/alexandre-kess": {
-    "name": "KESS Alexandre",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/jonathan-malte-rottmann": {
     "name": "ROTTMANN Jonathan Malte",
     "races": [
@@ -2470,12 +2459,6 @@
   },
   "rider/louis-grupp": {
     "name": "GRUPP Louis",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/jesko-wrobel": {
-    "name": "WROBEL Jesko",
     "races": [
       "Samyn Classic"
     ]
@@ -2540,12 +2523,6 @@
       "Samyn Classic"
     ]
   },
-  "rider/romain-cardis": {
-    "name": "CARDIS Romain",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
   "rider/theo-delacroix": {
     "name": "DELACROIX Théo",
     "races": [
@@ -2572,6 +2549,12 @@
   },
   "rider/zak-erzen": {
     "name": "ERŽEN Žak",
+    "races": [
+      "Samyn Classic"
+    ]
+  },
+  "rider/seth-dunwoody": {
+    "name": "DUNWOODY Seth",
     "races": [
       "Samyn Classic"
     ]
@@ -2684,8 +2667,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/leo-schyns": {
-    "name": "SCHYNS Léo",
+  "rider/louis-marx": {
+    "name": "MARX Louis",
     "races": [
       "Samyn Classic"
     ]
@@ -2724,12 +2707,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/gregor-muhlberger": {
-    "name": "MÜHLBERGER Gregor",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/jordan-labrosse": {
     "name": "LABROSSE Jordan",
     "races": [
@@ -2740,8 +2717,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/nicolas-prodhomme": {
-    "name": "PRODHOMME Nicolas",
+  "rider/gregor-muhlberger": {
+    "name": "MÜHLBERGER Gregor",
     "races": [
       "Strade Bianche"
     ]
@@ -2762,6 +2739,12 @@
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/nicolas-prodhomme": {
+    "name": "PRODHOMME Nicolas",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/alessandro-covi": {
@@ -2815,6 +2798,18 @@
     "races": [
       "Strade Bianche",
       "Amstel Gold Race"
+    ]
+  },
+  "rider/felix-grossschartner": {
+    "name": "GROßSCHARTNER Felix",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/kevin-vermaerke": {
+    "name": "VERMAERKE Kevin",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/isaac-del-toro": {
