@@ -942,6 +942,7 @@
     "name": "VAN DEN BERG Julius",
     "races": [
       "Omloop Nieuwsblad",
+      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -1135,7 +1136,6 @@
     "name": "LIVYNS Arjen",
     "races": [
       "Omloop Nieuwsblad",
-      "Strade Bianche",
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
@@ -1469,7 +1469,6 @@
     "name": "DUJARDIN Sandy",
     "races": [
       "Omloop Nieuwsblad",
-      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -1477,6 +1476,7 @@
     "name": "GACHIGNARD Thomas",
     "races": [
       "Omloop Nieuwsblad",
+      "Samyn Classic",
       "In Flanders Fields"
     ]
   },
@@ -1484,8 +1484,7 @@
     "name": "LEROUX Samuel",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Kuurne-Brussel-Kuurne"
     ]
   },
   "rider/thomas-bonnet": {
@@ -1531,7 +1530,8 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Parijs-Roubaix"
     ]
   },
   "rider/tomas-kopecky": {
@@ -1969,7 +1969,8 @@
   "rider/rayan-boulahoite": {
     "name": "BOULAHOITE Rayan",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/florian-dauphin": {
@@ -1990,7 +1991,8 @@
   "rider/pierre-thierry": {
     "name": "THIERRY Pierre",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Samyn Classic"
     ]
   },
   "rider/robin-froidevaux": {
@@ -2030,8 +2032,7 @@
   "rider/rory-townsend": {
     "name": "TOWNSEND Rory",
     "races": [
-      "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Kuurne-Brussel-Kuurne"
     ]
   },
   "rider/gerben-thijssen": {
@@ -2074,12 +2075,6 @@
   },
   "rider/stan-van-tricht": {
     "name": "VAN TRICHT Stan",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/lorrenzo-manzin": {
-    "name": "MANZIN Lorrenzo",
     "races": [
       "Samyn Classic"
     ]
@@ -2160,14 +2155,8 @@
       "Samyn Classic"
     ]
   },
-  "rider/dillon-corkery": {
-    "name": "CORKERY Dillon",
-    "races": [
-      "Samyn Classic"
-    ]
-  },
-  "rider/mees-vlot": {
-    "name": "VLOT Mees",
+  "rider/xander-scheldeman": {
+    "name": "SCHELDEMAN Xander",
     "races": [
       "Samyn Classic"
     ]
@@ -2726,14 +2715,6 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/jarno-widar": {
-    "name": "WIDAR Jarno",
-    "races": [
-      "Strade Bianche",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/lennert-van-eetvelt": {
     "name": "VAN EETVELT Lennert",
     "races": [
@@ -2741,12 +2722,6 @@
       "Milaan-Sanremo",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/nicolas-prodhomme": {
-    "name": "PRODHOMME Nicolas",
-    "races": [
-      "Strade Bianche"
     ]
   },
   "rider/gregor-muhlberger": {
@@ -2765,20 +2740,26 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/paul-lapeira": {
-    "name": "LAPEIRA Paul",
+  "rider/nicolas-prodhomme": {
+    "name": "PRODHOMME Nicolas",
     "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Strade Bianche"
     ]
   },
   "rider/paul-seixas": {
     "name": "SEIXAS Paul",
     "races": [
       "Strade Bianche",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/paul-lapeira": {
+    "name": "LAPEIRA Paul",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
@@ -2886,6 +2867,12 @@
     "races": [
       "Strade Bianche",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/richard-carapaz": {
+    "name": "CARAPAZ Richard",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/ben-healy": {
@@ -3583,6 +3570,13 @@
   },
   "rider/juan-ayuso-pesquera": {
     "name": "AYUSO Juan",
+    "races": [
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/jarno-widar": {
+    "name": "WIDAR Jarno",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
