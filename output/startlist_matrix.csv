@@ -196,12 +196,13 @@ INGEBRIGTSEN Storm,rider/storm-ingebrigtsen,,X,,,,,,,,,,,,,,,,,,1/19
 IZAGIRRE Ion,rider/ion-izagirre,,,,,,,,,,,,,,,,,X,X,X,3/19
 IZQUIERDO Clément,rider/clement-izquierdo,,,,,,,X,,,,,,,,,,,,,1/19
 JABLONSKI Ole,rider/ole-jablonski,,,X,,,,,,,,,,,,,,,,,1/19
-JACOBS Johan,rider/johan-jacobs,X,X,,,,,,,,,,,,,,,,,,2/19
+JACOBS Johan,rider/johan-jacobs,X,X,,,,,X,,,,,,,,,,,,,3/19
 JACQUES Lucas,rider/lucas-jacques,,,X,,,,,,,,,,,,,,,,,1/19
 JAKOBSEN Fabio,rider/fabio-jakobsen,,,X,,X,X,,X,,,,,X,,,,,,,5/19
 JEAN Victor,rider/victor-jean,,,X,,,,,,,,,,,,,,,,,1/19
 JEANNIÈRE Emilien,rider/emilien-jeanniere,,X,,,,,,,,X,,,,,,,,,,2/19
 JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,,,,X,,,,,,,,,,,,,X,X,X,4/19
+JOHANNINK Jelle,rider/jelle-johannink,,,,X,,,,,,,,,,,,,,,,1/19
 JOHANSEN Julius,rider/julius-johansen,X,X,,,,,,,X,X,X,X,,X,,,,,,7/19
 JORGENSON Matteo,rider/matteo-jorgenson,,,,X,,,X,,,,,,,,,,X,X,X,5/19
 KANTER Max,rider/max-kanter,,X,,,,,,,,X,,,,,,,,,,2/19
@@ -224,7 +225,7 @@ KUDUS Merhawi,rider/merhawi-kudus,,,,,,,,,,X,,,,,,,,,,1/19
 KWIATKOWSKI Michał,rider/michal-kwiatkowski,X,,,,,,,,,,,,,,,,,,,1/19
 KÜNG Stefan,rider/stefan-kung,X,,,,,,,,,,,,,,,,,,,1/19
 LABROSSE Jordan,rider/jordan-labrosse,,,,X,,,X,,,,,,,,,,X,X,X,5/19
-LAFAY Victor,rider/victor-lafay,,,,X,,,,,,,,,,,,,,X,,2/19
+LAFAY Victor,rider/victor-lafay,,,,,,,,,,,,,,,,,,X,,1/19
 LAMBRECHT Michiel,rider/michiel-lambrecht,X,,X,,,,,,,,,,,,,,,,,2/19
 LAMPAERT Yves,rider/yves-lampaert,X,X,,,,,,,,X,X,X,,X,,,,,,6/19
 LAMPERTI Luke,rider/luke-lamperti,X,X,,,,,X,X,X,X,X,X,,X,,,,,,9/19
@@ -239,6 +240,7 @@ LECROQ Jérémy,rider/jeremy-lecroq,,,X,,,,,,,,,,,,,,,,,1/19
 LEROUX Samuel,rider/samuel-leroux,X,X,,,,,,,,,,,,,,,,,,2/19
 LIEPIŅŠ Emīls,rider/emils-liepins,,,,,,,,,,X,,,,,,,,,,1/19
 LIVYNS Arjen,rider/arjen-livyns,X,,,,X,,,,X,X,X,,,,,,,,,5/19
+LOOCKX Lander,rider/lander-loockx,,,,X,,,,,,,,,,,,,,,,1/19
 LOUVEL Matis,rider/matis-louvel,X,X,,,,,,,,X,,,,X,,,,,,4/19
 LOWAGIE Arthur,rider/arthur-lowagie,,,X,,,,,,,,,,,,,,,,,1/19
 MAAS Jan,rider/jan-maas,,X,X,,,,,,,,,,,,,,,,,2/19
@@ -438,9 +440,9 @@ VAN TRICHT Stan,rider/stan-van-tricht,,,X,,,,,,,,,,,,,,,,,1/19
 VAN UDEN Casper,rider/casper-van-uden,,,,,X,,,,,,,,,,,,,,,1/19
 VAN WILDER Ilan,rider/ilan-van-wilder,,,,,,,,,,,,,,,,,X,X,X,3/19
 VANDENBRANDEN Noah,rider/noah-vandenbranden,,,X,,,,,,,,,,,,,,,,,1/19
-VANDENSTORME Dylan,rider/dylan-vandenstorme,X,,X,,,,,,,,,,,,,,,,,2/19
+VANDENSTORME Dylan,rider/dylan-vandenstorme,X,,,,,,,,,,,,,,,,,,,1/19
 VANGHELUWE Warre,rider/warre-vangheluwe,,,X,,,,,,,,,,,,,,,,,1/19
-VANHOOF Ward,rider/ward-vanhoof,X,,,,,,,,,,,,,,,,,,,1/19
+VANHOOF Ward,rider/ward-vanhoof,X,,X,,,,,,,,,,,,,,,,,2/19
 VENTURINI Clément,rider/clement-venturini,,,,X,X,,,,X,,,,,,,X,X,X,,6/19
 VERBRUGGHE Jens,rider/jens-verbrugghe,,,X,,,,,,,,,,,,,,,,,1/19
 VERCOUILLIE Victor,rider/victor-vercouillie,X,,,,,,,,,,,,,,,,,,,1/19

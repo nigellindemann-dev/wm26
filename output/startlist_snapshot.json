@@ -374,7 +374,8 @@
     "name": "JACOBS Johan",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo"
     ]
   },
   "rider/clement-russo": {
@@ -1450,14 +1451,14 @@
   "rider/dylan-vandenstorme": {
     "name": "VANDENSTORME Dylan",
     "races": [
-      "Omloop Nieuwsblad",
-      "Samyn Classic"
+      "Omloop Nieuwsblad"
     ]
   },
   "rider/ward-vanhoof": {
     "name": "VANHOOF Ward",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Samyn Classic"
     ]
   },
   "rider/alexys-brunel": {
@@ -3057,6 +3058,12 @@
       "Strade Bianche"
     ]
   },
+  "rider/samuele-zoccarato": {
+    "name": "ZOCCARATO Samuele",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
   "rider/lorenzo-nespoli": {
     "name": "NESPOLI Lorenzo",
     "races": [
@@ -3093,23 +3100,28 @@
       "Strade Bianche"
     ]
   },
-  "rider/samuele-zoccarato": {
-    "name": "ZOCCARATO Samuele",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/alexandre-balmer": {
     "name": "BALMER Alexandre",
     "races": [
       "Strade Bianche"
     ]
   },
-  "rider/victor-lafay": {
-    "name": "LAFAY Victor",
+  "rider/wout-poels": {
+    "name": "POELS Wout",
     "races": [
-      "Strade Bianche",
-      "Waalse Pijl"
+      "Strade Bianche"
+    ]
+  },
+  "rider/jelle-johannink": {
+    "name": "JOHANNINK Jelle",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/lander-loockx": {
+    "name": "LOOCKX Lander",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/clement-venturini": {
@@ -3121,12 +3133,6 @@
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl"
-    ]
-  },
-  "rider/wout-poels": {
-    "name": "POELS Wout",
-    "races": [
-      "Strade Bianche"
     ]
   },
   "rider/filippo-baroncini": {
@@ -3646,6 +3652,12 @@
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/victor-lafay": {
+    "name": "LAFAY Victor",
+    "races": [
+      "Waalse Pijl"
     ]
   },
   "rider/brieuc-rolland": {
