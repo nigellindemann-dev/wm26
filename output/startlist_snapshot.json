@@ -1534,6 +1534,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "In Flanders Fields",
+      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -1867,7 +1868,8 @@
     "name": "CHRISTIAN Sean",
     "races": [
       "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Samyn Classic",
+      "Parijs-Roubaix"
     ]
   },
   "rider/cole-kessler": {
@@ -2686,17 +2688,17 @@
       "Samyn Classic"
     ]
   },
-  "rider/simone-gualdi": {
-    "name": "GUALDI Simone",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/georg-zimmermann": {
     "name": "ZIMMERMANN Georg",
     "races": [
       "Strade Bianche",
       "Milaan-Sanremo"
+    ]
+  },
+  "rider/simone-gualdi": {
+    "name": "GUALDI Simone",
+    "races": [
+      "Strade Bianche"
     ]
   },
   "rider/lennert-van-eetvelt": {
@@ -2724,12 +2726,10 @@
       "Strade Bianche"
     ]
   },
-  "rider/paul-seixas": {
-    "name": "SEIXAS Paul",
+  "rider/nicolas-prodhomme": {
+    "name": "PRODHOMME Nicolas",
     "races": [
-      "Strade Bianche",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Strade Bianche"
     ]
   },
   "rider/paul-lapeira": {
@@ -2742,10 +2742,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/nicolas-prodhomme": {
-    "name": "PRODHOMME Nicolas",
+  "rider/paul-seixas": {
+    "name": "SEIXAS Paul",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/alessandro-covi": {
@@ -2763,26 +2765,26 @@
       "Strade Bianche"
     ]
   },
-  "rider/alan-hatherly": {
-    "name": "HATHERLY Alan",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/filippo-conca": {
     "name": "CONCA Filippo",
     "races": [
       "Strade Bianche"
     ]
   },
-  "rider/adrien-boichis": {
-    "name": "BOICHIS Adrien",
+  "rider/alan-hatherly": {
+    "name": "HATHERLY Alan",
     "races": [
       "Strade Bianche"
     ]
   },
   "rider/giulio-pellizzari": {
     "name": "PELLIZZARI Giulio",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/adrien-boichis": {
+    "name": "BOICHIS Adrien",
     "races": [
       "Strade Bianche"
     ]
@@ -2801,33 +2803,25 @@
       "Amstel Gold Race"
     ]
   },
-  "rider/felix-grossschartner": {
-    "name": "GROßSCHARTNER Felix",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/kevin-vermaerke": {
     "name": "VERMAERKE Kevin",
     "races": [
       "Strade Bianche"
     ]
   },
-  "rider/isaac-del-toro": {
-    "name": "DEL TORO Isaac",
+  "rider/felix-grossschartner": {
+    "name": "GROßSCHARTNER Felix",
     "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo"
+      "Strade Bianche"
     ]
   },
-  "rider/tadej-pogacar": {
-    "name": "POGAČAR Tadej",
+  "rider/jan-christen": {
+    "name": "CHRISTEN Jan",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
-      "Luik-Bastenaken-Luik"
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/domen-novak": {
@@ -2840,13 +2834,21 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/jan-christen": {
-    "name": "CHRISTEN Jan",
+  "rider/tadej-pogacar": {
+    "name": "POGAČAR Tadej",
     "races": [
       "Strade Bianche",
-      "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
+      "Milaan-Sanremo",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/isaac-del-toro": {
+    "name": "DEL TORO Isaac",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/pello-bilbao": {
@@ -2925,13 +2927,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/lorenzo-germani": {
-    "name": "GERMANI Lorenzo",
-    "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo"
-    ]
-  },
   "rider/romain-gregoire1": {
     "name": "GRÉGOIRE Romain",
     "races": [
@@ -2946,17 +2941,23 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/lorenzo-germani": {
+    "name": "GERMANI Lorenzo",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo"
+    ]
+  },
   "rider/mattia-gaffuri": {
     "name": "GAFFURI Mattia",
     "races": [
       "Strade Bianche"
     ]
   },
-  "rider/matteo-jorgenson": {
-    "name": "JORGENSON Matteo",
+  "rider/ben-tulett": {
+    "name": "TULETT Ben",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
@@ -2971,10 +2972,11 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/ben-tulett": {
-    "name": "TULETT Ben",
+  "rider/matteo-jorgenson": {
+    "name": "JORGENSON Matteo",
     "races": [
       "Strade Bianche",
+      "Milaan-Sanremo",
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
@@ -3003,16 +3005,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/axel-laurance": {
-    "name": "LAURANCE Axel",
-    "races": [
-      "Strade Bianche",
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/egan-bernal": {
     "name": "BERNAL Egan",
     "races": [
@@ -3023,6 +3015,16 @@
     "name": "ARENSMAN Thymen",
     "races": [
       "Strade Bianche"
+    ]
+  },
+  "rider/axel-laurance": {
+    "name": "LAURANCE Axel",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/tobias-halland-johannessen": {
@@ -3043,8 +3045,56 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/tibor-del-grosso": {
+    "name": "DEL GROSSO Tibor",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
   "rider/martin-marcellusi": {
     "name": "MARCELLUSI Martin",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/lorenzo-nespoli": {
+    "name": "NESPOLI Lorenzo",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/marcin-budzinski": {
+    "name": "BUDZIŃSKI Marcin",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/alessandro-fancellu": {
+    "name": "FANCELLU Alessandro",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/luca-cretti": {
+    "name": "CRETTI Luca",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/marton-dina": {
+    "name": "DINA Márton",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/alessandro-verre": {
+    "name": "VERRE Alessandro",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/samuele-zoccarato": {
+    "name": "ZOCCARATO Samuele",
     "races": [
       "Strade Bianche"
     ]
@@ -3059,6 +3109,17 @@
     "name": "LAFAY Victor",
     "races": [
       "Strade Bianche",
+      "Waalse Pijl"
+    ]
+  },
+  "rider/clement-venturini": {
+    "name": "VENTURINI Clément",
+    "races": [
+      "Strade Bianche",
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
       "Waalse Pijl"
     ]
   },
@@ -3093,16 +3154,6 @@
       "Nokere Koerse",
       "Ronde van Limburg",
       "Brabantse Pijl"
-    ]
-  },
-  "rider/clement-venturini": {
-    "name": "VENTURINI Clément",
-    "races": [
-      "Nokere Koerse",
-      "E3 Saxo Classic",
-      "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
     ]
   },
   "rider/erlend-blikra": {
@@ -3502,24 +3553,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/warren-barguil": {
-    "name": "BARGUIL Warren",
-    "races": [
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/pavel-sivakov": {
     "name": "SIVAKOV Pavel",
-    "races": [
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/diego-ulissi": {
-    "name": "ULISSI Diego",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
@@ -3534,6 +3569,14 @@
   },
   "rider/christian-scaroni": {
     "name": "SCARONI Christian",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/diego-ulissi": {
+    "name": "ULISSI Diego",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
