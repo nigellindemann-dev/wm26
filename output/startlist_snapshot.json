@@ -188,7 +188,8 @@
   "rider/vlad-van-mechelen": {
     "name": "VAN MECHELEN Vlad",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "In Flanders Fields"
     ]
   },
   "rider/tobias-lund-andresen": {
@@ -3298,27 +3299,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/camille-charret": {
-    "name": "CHARRET Camille",
-    "races": [
-      "In Flanders Fields"
-    ]
-  },
   "rider/maurice-ballerstedt": {
     "name": "BALLERSTEDT Maurice",
-    "races": [
-      "In Flanders Fields"
-    ]
-  },
-  "rider/lorenzo-milesi": {
-    "name": "MILESI Lorenzo",
-    "races": [
-      "In Flanders Fields",
-      "Dwars door Vlaanderen"
-    ]
-  },
-  "rider/yevgeniy-fedorov": {
-    "name": "FEDOROV Yevgeniy",
     "races": [
       "In Flanders Fields"
     ]
@@ -3335,14 +3317,15 @@
       "In Flanders Fields"
     ]
   },
-  "rider/emils-liepins": {
-    "name": "LIEPIŅŠ Emīls",
+  "rider/lorenzo-milesi": {
+    "name": "MILESI Lorenzo",
     "races": [
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
     ]
   },
-  "rider/nickolas-zukowsky": {
-    "name": "ZUKOWSKY Nickolas",
+  "rider/yevgeniy-fedorov": {
+    "name": "FEDOROV Yevgeniy",
     "races": [
       "In Flanders Fields"
     ]
@@ -3367,6 +3350,30 @@
   },
   "rider/lorenzo-quartucci": {
     "name": "QUARTUCCI Lorenzo",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/camille-charret": {
+    "name": "CHARRET Camille",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/emils-liepins": {
+    "name": "LIEPIŅŠ Emīls",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/nickolas-zukowsky": {
+    "name": "ZUKOWSKY Nickolas",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/marius-mayrhofer": {
+    "name": "MAYRHOFER Marius",
     "races": [
       "In Flanders Fields"
     ]
