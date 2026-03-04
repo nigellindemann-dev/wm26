@@ -89,6 +89,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
@@ -390,7 +391,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Strade Bianche",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -2713,6 +2713,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/pierre-gautherat": {
+    "name": "GAUTHERAT Pierre",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
   "rider/antoine-l-hote": {
     "name": "L'HOTE Antoine",
     "races": [
@@ -2721,12 +2727,6 @@
   },
   "rider/noa-isidore": {
     "name": "ISIDORE Noa",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
-  "rider/pierre-gautherat": {
-    "name": "GAUTHERAT Pierre",
     "races": [
       "Strade Bianche"
     ]
@@ -2804,15 +2804,15 @@
       "Strade Bianche"
     ]
   },
-  "rider/bauke-mollema": {
-    "name": "MOLLEMA Bauke",
+  "rider/quinn-simmons": {
+    "name": "SIMMONS Quinn",
     "races": [
       "Strade Bianche",
       "Amstel Gold Race"
     ]
   },
-  "rider/quinn-simmons": {
-    "name": "SIMMONS Quinn",
+  "rider/bauke-mollema": {
+    "name": "MOLLEMA Bauke",
     "races": [
       "Strade Bianche",
       "Amstel Gold Race"
@@ -3070,7 +3070,21 @@
   "rider/tibor-del-grosso": {
     "name": "DEL GROSSO Tibor",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Limburg",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/emiel-verstrynge": {
+    "name": "VERSTRYNGE Emiel",
+    "races": [
+      "Strade Bianche",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/francesco-busatto": {
@@ -3084,6 +3098,12 @@
   },
   "rider/martin-marcellusi": {
     "name": "MARCELLUSI Martin",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
+  "rider/samuele-zoccarato": {
+    "name": "ZOCCARATO Samuele",
     "races": [
       "Strade Bianche"
     ]
@@ -3120,12 +3140,6 @@
   },
   "rider/alessandro-verre": {
     "name": "VERRE Alessandro",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
-  "rider/samuele-zoccarato": {
-    "name": "ZOCCARATO Samuele",
     "races": [
       "Strade Bianche"
     ]
@@ -3320,12 +3334,16 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/bryan-coquard": {
-    "name": "COQUARD Bryan",
+  "rider/clement-izquierdo": {
+    "name": "IZQUIERDO Clément",
     "races": [
-      "Milaan-Sanremo",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/benjamin-thomas-2": {
+    "name": "THOMAS Benjamin",
+    "races": [
+      "Milaan-Sanremo"
     ]
   },
   "rider/alex-aranburu": {
@@ -3337,16 +3355,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/benjamin-thomas-2": {
-    "name": "THOMAS Benjamin",
+  "rider/bryan-coquard": {
+    "name": "COQUARD Bryan",
     "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/clement-izquierdo": {
-    "name": "IZQUIERDO Clément",
-    "races": [
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/dario-igor-belletta": {

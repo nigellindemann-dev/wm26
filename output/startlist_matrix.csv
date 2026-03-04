@@ -114,7 +114,7 @@ DE VRIES Hartthijs,rider/hartthijs-de-vries,,X,X,,,,,,,X,,,,,,,,,,3/19
 DEGENKOLB John,rider/john-degenkolb,X,X,,,,,X,,,X,X,,,X,,,,,,6/19
 DEHAIRS Simon,rider/simon-dehairs,,,X,,,,,,,,,,,,,,,,,1/19
 DEKKER David,rider/david-dekker,,,X,,,,,,,,,,,,,,,,,1/19
-DEL GROSSO Tibor,rider/tibor-del-grosso,,,,X,,,,,,,,,,,,,,,,1/19
+DEL GROSSO Tibor,rider/tibor-del-grosso,,,,X,,,,,X,,X,,,,X,X,X,,,6/19
 DEL TORO Isaac,rider/isaac-del-toro,,,,X,,,X,,,,,,,,,,,,,2/19
 DELACROIX Théo,rider/theo-delacroix,,,X,,,,,,,,,,,,,,,,,1/19
 DELETTRE Alexandre,rider/alexandre-delettre,,,,,,,,,,,,,,,,,,X,X,2/19
@@ -166,7 +166,7 @@ GRADEK Kamil,rider/kamil-gradek,X,X,,,,,,,,X,,,,,,,,,,3/19
 GRIGNARD Sébastien,rider/sebastien-grignard,X,,X,,,,,,,,,,,,,,,,,2/19
 GRISEL Matys,rider/matys-grisel,,,X,,,,,,,,,,,,,,,,,1/19
 GROENEWEGEN Dylan,rider/dylan-groenewegen,,X,X,,,X,,X,,,,,X,,X,,,,,6/19
-GROVES Kaden,rider/kaden-groves,X,X,,,,,X,,,,X,X,,X,,,,,,6/19
+GROVES Kaden,rider/kaden-groves,X,X,,,,,X,,,X,X,X,,X,,,,,,7/19
 GROßSCHARTNER Felix,rider/felix-grossschartner,,,,X,,,,,,,,,,,,,,,,1/19
 GRUEL Thibaud,rider/thibaud-gruel,X,,X,,,,,,X,X,X,X,,,,,,,,6/19
 GRUPP Louis,rider/louis-grupp,,,X,,,,,,,,,,,,,,,,,1/19
@@ -400,7 +400,7 @@ TORNEY Artuur,rider/artuur-torney,,X,X,,,,,,,,,,,,,,,,,2/19
 TOWNSEND Rory,rider/rory-townsend,,X,,,,,,,,,,,,,,,,,,1/19
 TRATNIK Jan,rider/jan-tratnik,,,,,,,,,X,,X,X,,,,,X,,X,5/19
 TRENTIN Matteo,rider/matteo-trentin,X,X,,,,,,,,X,,,,,,,,,,3/19
-TRONCHON Bastien,rider/bastien-tronchon,X,X,,X,,,,,X,X,X,X,,X,,,,,,8/19
+TRONCHON Bastien,rider/bastien-tronchon,X,X,,,,,,,X,X,X,X,,X,,,,,,7/19
 TULETT Ben,rider/ben-tulett,,,,X,,,,,,,,,,,,,X,X,X,4/19
 TURGIS Anthony,rider/anthony-turgis,X,,,,,,,,,X,X,,,,,,,,,3/19
 TURNER Ben,rider/ben-turner,X,,,,,,,,,,,,,,,,,,,1/19
@@ -458,6 +458,7 @@ VERMEERSCH Florian,rider/florian-vermeersch,X,X,,X,,,X,X,X,X,X,X,,X,,,,,,10/19
 VERMEERSCH Gianni,rider/gianni-vermeersch,X,,X,X,X,,,,X,X,X,X,,X,,,,,,9/19
 VERMOOTE Jelle,rider/jelle-vermoote,,,X,,,,,,,,,,,,,,,,,1/19
 VERRE Alessandro,rider/alessandro-verre,,,,X,,,,,,,,,,,,,,,,1/19
+VERSTRYNGE Emiel,rider/emiel-verstrynge,,,,X,,,X,,,,,,,,,,X,,X,4/19
 VERVAEKE Louis,rider/louis-vervaeke,,,,X,,,,,,,,,,,,,,,,1/19
 VERVENNE Jonathan,rider/jonathan-vervenne,X,,,,,,,,,,,,,,,,,,,1/19
 VINOKUROV Nicolas,rider/nicolas-vinokurov,,,,,,,X,,,,,,,,,,,,,1/19
