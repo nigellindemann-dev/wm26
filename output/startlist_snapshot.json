@@ -1307,6 +1307,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Strade Bianche",
       "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
@@ -3226,14 +3227,8 @@
       "Strade Bianche"
     ]
   },
-  "rider/sjoerd-bax": {
-    "name": "BAX Sjoerd",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
-  "rider/david-gonzalez-lopez": {
-    "name": "GONZÁLEZ David",
+  "rider/mark-donovan": {
+    "name": "DONOVAN Mark",
     "races": [
       "Strade Bianche"
     ]
@@ -3745,12 +3740,6 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/georg-zimmermann": {
-    "name": "ZIMMERMANN Georg",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
   "rider/huub-artz": {
     "name": "ARTZ Huub",
     "races": [
@@ -3759,6 +3748,12 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
+    ]
+  },
+  "rider/georg-zimmermann": {
+    "name": "ZIMMERMANN Georg",
+    "races": [
+      "Milaan-Sanremo"
     ]
   },
   "rider/ivan-romeo": {
@@ -3787,17 +3782,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/michael-matthews": {
-    "name": "MATTHEWS Michael",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Ronde van Vlaanderen",
-      "Amstel Gold Race",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/magnus-cort-nielsen": {
     "name": "CORT Magnus",
     "races": [
@@ -3822,10 +3806,13 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/clement-izquierdo": {
-    "name": "IZQUIERDO Clément",
+  "rider/alex-aranburu": {
+    "name": "ARANBURU Alex",
     "races": [
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/benjamin-thomas-2": {
@@ -3834,13 +3821,10 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/alex-aranburu": {
-    "name": "ARANBURU Alex",
+  "rider/clement-izquierdo": {
+    "name": "IZQUIERDO Clément",
     "races": [
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Milaan-Sanremo"
     ]
   },
   "rider/bryan-coquard": {
@@ -4023,14 +4007,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/giulio-ciccone": {
-    "name": "CICCONE Giulio",
-    "races": [
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/thibau-nys": {
     "name": "NYS Thibau",
     "races": [
@@ -4041,6 +4017,14 @@
   },
   "rider/mattias-skjelmose-jensen": {
     "name": "SKJELMOSE Mattias",
+    "races": [
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/giulio-ciccone": {
+    "name": "CICCONE Giulio",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
