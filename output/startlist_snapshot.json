@@ -1159,7 +1159,6 @@
     "name": "LIVYNS Arjen",
     "races": [
       "Omloop Nieuwsblad",
-      "Strade Bianche",
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
@@ -3303,8 +3302,8 @@
       "Strade Bianche"
     ]
   },
-  "rider/kamiel-bonneu": {
-    "name": "BONNEU Kamiel",
+  "rider/luca-verrando": {
+    "name": "VERRANDO Luca",
     "races": [
       "Strade Bianche"
     ]
@@ -3333,8 +3332,8 @@
       "Strade Bianche"
     ]
   },
-  "rider/mauri-vansevenant": {
-    "name": "VANSEVENANT Mauri",
+  "rider/filippo-zana": {
+    "name": "ZANA Filippo",
     "races": [
       "Strade Bianche"
     ]
@@ -3357,8 +3356,8 @@
       "Strade Bianche"
     ]
   },
-  "rider/filippo-zana": {
-    "name": "ZANA Filippo",
+  "rider/mauri-vansevenant": {
+    "name": "VANSEVENANT Mauri",
     "races": [
       "Strade Bianche"
     ]
@@ -3643,6 +3642,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/anton-kuzmin": {
+    "name": "KUZMIN Anton",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
   "rider/marco-schrettl": {
     "name": "SCHRETTL Marco",
     "races": [
@@ -3842,6 +3847,12 @@
   },
   "rider/dario-igor-belletta": {
     "name": "BELLETTA Dario Igor",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/mirco-maestri": {
+    "name": "MAESTRI Mirco",
     "races": [
       "Milaan-Sanremo"
     ]

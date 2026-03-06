@@ -1752,3 +1752,8 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-06T14:05:56.764524Z,Amstel Gold Race,ADDED,KWIATKOWSKI Michał,rider/michal-kwiatkowski
 2026-03-06T14:05:56.764524Z,Luik-Bastenaken-Luik,ADDED,KWIATKOWSKI Michał,rider/michal-kwiatkowski
 2026-03-06T14:05:56.764524Z,Milaan-Sanremo,ADDED,SLOCK Liam,rider/liam-slock
+2026-03-06T19:49:33.957491Z,Strade Bianche,REMOVED,LIVYNS Arjen,rider/arjen-livyns
+2026-03-06T19:49:33.957491Z,Strade Bianche,ADDED,KUZMIN Anton,rider/anton-kuzmin
+2026-03-06T19:49:33.957491Z,Strade Bianche,ADDED,VERRANDO Luca,rider/luca-verrando
+2026-03-06T19:49:33.957491Z,Milaan-Sanremo,ADDED,MAESTRI Mirco,rider/mirco-maestri
+2026-03-06T19:49:33.957491Z,Strade Bianche,REMOVED,BONNEU Kamiel,rider/kamiel-bonneu
