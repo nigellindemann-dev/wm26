@@ -405,7 +405,11 @@
   "rider/michal-kwiatkowski": {
     "name": "KWIATKOWSKI Michał",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/kim-heiduk": {
@@ -1730,7 +1734,8 @@
     "name": "SLOCK Liam",
     "races": [
       "Kuurne-Brussel-Kuurne",
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/hugo-hofstetter": {
@@ -3397,6 +3402,12 @@
       "Strade Bianche"
     ]
   },
+  "rider/james-knox": {
+    "name": "KNOX James",
+    "races": [
+      "Strade Bianche"
+    ]
+  },
   "rider/robbe-dhondt": {
     "name": "DHONDT Robbe",
     "races": [
@@ -3537,12 +3548,6 @@
       "Strade Bianche"
     ]
   },
-  "rider/sergio-meris": {
-    "name": "MERIS Sergio",
-    "races": [
-      "Strade Bianche"
-    ]
-  },
   "rider/wout-poels": {
     "name": "POELS Wout",
     "races": [
@@ -3555,8 +3560,8 @@
       "Strade Bianche"
     ]
   },
-  "rider/odd-christian-eiking": {
-    "name": "EIKING Odd Christian",
+  "rider/sergio-meris": {
+    "name": "MERIS Sergio",
     "races": [
       "Strade Bianche"
     ]
@@ -3740,6 +3745,12 @@
       "Parijs-Roubaix"
     ]
   },
+  "rider/georg-zimmermann": {
+    "name": "ZIMMERMANN Georg",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
   "rider/huub-artz": {
     "name": "ARTZ Huub",
     "races": [
@@ -3748,12 +3759,6 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
-    ]
-  },
-  "rider/georg-zimmermann": {
-    "name": "ZIMMERMANN Georg",
-    "races": [
-      "Milaan-Sanremo"
     ]
   },
   "rider/ivan-romeo": {
@@ -3806,13 +3811,10 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/alex-aranburu": {
-    "name": "ARANBURU Alex",
+  "rider/clement-izquierdo": {
+    "name": "IZQUIERDO Clément",
     "races": [
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Milaan-Sanremo"
     ]
   },
   "rider/benjamin-thomas-2": {
@@ -3821,10 +3823,13 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/clement-izquierdo": {
-    "name": "IZQUIERDO Clément",
+  "rider/alex-aranburu": {
+    "name": "ARANBURU Alex",
     "races": [
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/bryan-coquard": {
