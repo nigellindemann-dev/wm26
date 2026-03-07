@@ -266,6 +266,7 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -298,6 +299,7 @@
       "Kuurne-Brussel-Kuurne",
       "Strade Bianche",
       "Milaan-Sanremo",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Luik-Bastenaken-Luik"
     ]
@@ -441,7 +443,8 @@
   "rider/ben-turner": {
     "name": "TURNER Ben",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/samuel-watson": {
@@ -3046,7 +3049,8 @@
   "rider/connor-swift": {
     "name": "SWIFT Connor",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/andrea-bagioli": {
@@ -3736,6 +3740,7 @@
     "name": "GANNA Filippo",
     "races": [
       "Milaan-Sanremo",
+      "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
