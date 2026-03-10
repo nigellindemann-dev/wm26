@@ -3745,17 +3745,6 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/mads-pedersen": {
-    "name": "PEDERSEN Mads",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
-    ]
-  },
   "rider/georg-zimmermann": {
     "name": "ZIMMERMANN Georg",
     "races": [
@@ -3878,6 +3867,16 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/mads-pedersen": {
+    "name": "PEDERSEN Mads",
+    "races": [
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/jan-tratnik": {
