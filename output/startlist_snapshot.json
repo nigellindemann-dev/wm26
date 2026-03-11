@@ -36,28 +36,32 @@
   "rider/sven-erik-bystrom": {
     "name": "BYSTRØM Sven Erik",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "In Flanders Fields"
     ]
   },
   "rider/markus-hoelgaard": {
     "name": "HOELGAARD Markus",
     "races": [
       "Omloop Nieuwsblad",
-      "Strade Bianche"
+      "Strade Bianche",
+      "In Flanders Fields"
     ]
   },
   "rider/erik-nordsaeter-resell": {
     "name": "RESELL Erik Nordsæter",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/rasmus-tiller": {
     "name": "TILLER Rasmus",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/jasper-philipsen": {
@@ -195,8 +199,7 @@
   "rider/vlad-van-mechelen": {
     "name": "VAN MECHELEN Vlad",
     "races": [
-      "Omloop Nieuwsblad",
-      "In Flanders Fields"
+      "Omloop Nieuwsblad"
     ]
   },
   "rider/tobias-lund-andresen": {
@@ -224,7 +227,8 @@
     "name": "BOL Cees",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/sander-de-pestel": {
@@ -259,7 +263,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/kasper-asgreen": {
@@ -269,6 +274,7 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -325,7 +331,8 @@
     "name": "SIMMONS Colby",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/marijn-van-den-berg": {
@@ -360,7 +367,8 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/thibaud-gruel": {
@@ -382,7 +390,8 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/johan-jacobs": {
@@ -390,14 +399,16 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "In Flanders Fields"
     ]
   },
   "rider/clement-russo": {
     "name": "RUSSO Clément",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/bastien-tronchon": {
@@ -427,20 +438,23 @@
     "name": "HEIDUK Kim",
     "races": [
       "Omloop Nieuwsblad",
-      "Strade Bianche"
+      "Strade Bianche",
+      "In Flanders Fields"
     ]
   },
   "rider/magnus-sheffield": {
     "name": "SHEFFIELD Magnus",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "In Flanders Fields"
     ]
   },
   "rider/artem-shmidt": {
     "name": "SHMIDT Artem",
     "races": [
       "Omloop Nieuwsblad",
-      "Strade Bianche"
+      "Strade Bianche",
+      "In Flanders Fields"
     ]
   },
   "rider/ben-swift": {
@@ -453,13 +467,15 @@
     "name": "TURNER Ben",
     "races": [
       "Omloop Nieuwsblad",
+      "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
   },
   "rider/samuel-watson": {
     "name": "WATSON Samuel",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "In Flanders Fields"
     ]
   },
   "rider/soren-kragh-andersen": {
@@ -468,6 +484,7 @@
       "Omloop Nieuwsblad",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -505,7 +522,8 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/mathias-vacek": {
@@ -578,7 +596,8 @@
     "name": "GRIGNARD Sébastien",
     "races": [
       "Omloop Nieuwsblad",
-      "Samyn Classic"
+      "Samyn Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/luca-van-boven": {
@@ -745,7 +764,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "In Flanders Fields"
     ]
   },
   "rider/laurence-pithie": {
@@ -766,6 +786,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
@@ -777,6 +798,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -825,6 +847,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
@@ -904,14 +927,16 @@
     "name": "DE POOTER Dries",
     "races": [
       "Omloop Nieuwsblad",
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "In Flanders Fields"
     ]
   },
   "rider/robert-donaldson": {
     "name": "DONALDSON Robert",
     "races": [
       "Omloop Nieuwsblad",
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/anders-foldager": {
@@ -1020,7 +1045,8 @@
   "rider/edoardo-affini": {
     "name": "AFFINI Edoardo",
     "races": [
-      "Omloop Nieuwsblad"
+      "Omloop Nieuwsblad",
+      "In Flanders Fields"
     ]
   },
   "rider/matthew-brennan": {
@@ -1130,7 +1156,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/nils-politt": {
@@ -1138,7 +1165,8 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/florian-vermeersch": {
@@ -1296,6 +1324,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Samyn Classic",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
@@ -1506,7 +1535,8 @@
     "races": [
       "Omloop Nieuwsblad",
       "Samyn Classic",
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "In Flanders Fields"
     ]
   },
   "rider/milan-lanhove": {
@@ -1520,7 +1550,8 @@
     "name": "VERCOUILLIE Victor",
     "races": [
       "Omloop Nieuwsblad",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/vincent-van-hemelen": {
@@ -1541,7 +1572,8 @@
     "name": "VANHOOF Ward",
     "races": [
       "Omloop Nieuwsblad",
-      "Samyn Classic"
+      "Samyn Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/alexys-brunel": {
@@ -1574,7 +1606,8 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/thomas-bonnet": {
@@ -1749,7 +1782,8 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/jonathan-milan": {
@@ -1768,6 +1802,7 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "E3 Saxo Classic",
+      "In Flanders Fields",
       "Parijs-Roubaix"
     ]
   },
@@ -1783,6 +1818,7 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "In Flanders Fields",
       "Parijs-Roubaix"
     ]
   },
@@ -1853,7 +1889,8 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/laurenz-rex": {
@@ -1863,6 +1900,7 @@
       "Samyn Classic",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "In Flanders Fields",
       "Parijs-Roubaix"
     ]
   },
@@ -1871,7 +1909,8 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/luka-mezgec": {
@@ -1905,7 +1944,8 @@
   "rider/tim-naberman": {
     "name": "NABERMAN Tim",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/niklas-markl": {
@@ -2071,7 +2111,8 @@
   "rider/brem-deman": {
     "name": "DEMAN Brem",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/ferre-geeraerts": {
@@ -2084,7 +2125,8 @@
   "rider/jules-hesters": {
     "name": "HESTERS Jules",
     "races": [
-      "Kuurne-Brussel-Kuurne"
+      "Kuurne-Brussel-Kuurne",
+      "In Flanders Fields"
     ]
   },
   "rider/leander-van-hautegem": {
@@ -2207,7 +2249,8 @@
     "races": [
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
     ]
   },
   "rider/martin-svrcek": {
@@ -2305,6 +2348,7 @@
       "Samyn Classic",
       "Strade Bianche",
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -3059,7 +3103,8 @@
   "rider/noa-isidore": {
     "name": "ISIDORE Noa",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "In Flanders Fields"
     ]
   },
   "rider/antoine-l-hote": {
@@ -3210,6 +3255,7 @@
     "name": "SWIFT Connor",
     "races": [
       "Strade Bianche",
+      "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
   },
@@ -3507,7 +3553,9 @@
   "rider/gianmarco-garofoli": {
     "name": "GAROFOLI Gianmarco",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/junior-lecerf": {
@@ -3664,7 +3712,8 @@
   "rider/tim-rex": {
     "name": "REX Tim",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "In Flanders Fields"
     ]
   },
   "rider/julian-alaphilippe": {
@@ -3866,6 +3915,7 @@
     "name": "MORGADO António",
     "races": [
       "Nokere Koerse",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
@@ -4324,6 +4374,7 @@
     "name": "GANNA Filippo",
     "races": [
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -4464,6 +4515,18 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/alastair-mackellar": {
+    "name": "MACKELLAR Alastair",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/matthias-schwarzbacher": {
+    "name": "SCHWARZBACHER Matthias",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
   "rider/jonas-rutsch": {
     "name": "RUTSCH Jonas",
     "races": [
@@ -4477,8 +4540,50 @@
       "Dwars door Vlaanderen"
     ]
   },
+  "rider/callum-thornley": {
+    "name": "THORNLEY Callum",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/luke-durbridge": {
+    "name": "DURBRIDGE Luke",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/owain-doull": {
+    "name": "DOULL Owain",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/mikkel-bjerg": {
+    "name": "BJERG Mikkel",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/stian-fredheim": {
+    "name": "FREDHEIM Stian",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
   "rider/yevgeniy-fedorov": {
     "name": "FEDOROV Yevgeniy",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/nickolas-zukowsky": {
+    "name": "ZUKOWSKY Nickolas",
+    "races": [
+      "In Flanders Fields"
+    ]
+  },
+  "rider/marius-mayrhofer": {
+    "name": "MAYRHOFER Marius",
     "races": [
       "In Flanders Fields"
     ]
@@ -4503,18 +4608,6 @@
   },
   "rider/lorenzo-quartucci": {
     "name": "QUARTUCCI Lorenzo",
-    "races": [
-      "In Flanders Fields"
-    ]
-  },
-  "rider/nickolas-zukowsky": {
-    "name": "ZUKOWSKY Nickolas",
-    "races": [
-      "In Flanders Fields"
-    ]
-  },
-  "rider/marius-mayrhofer": {
-    "name": "MAYRHOFER Marius",
     "races": [
       "In Flanders Fields"
     ]
