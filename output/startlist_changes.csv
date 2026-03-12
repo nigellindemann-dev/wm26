@@ -2088,3 +2088,6 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-11T14:37:46.709342Z,In Flanders Fields,ADDED,ISIDORE Noa,rider/noa-isidore
 2026-03-11T18:55:14.489832Z,Bredene Koksijde Classic,ADDED,RENARD Alexis,rider/alexis-renard
 2026-03-11T18:55:14.489832Z,Parijs-Roubaix,ADDED,RENARD Alexis,rider/alexis-renard
+2026-03-12T13:03:01.305316Z,Dwars door Vlaanderen,REMOVED,HOOLE Daan,rider/daan-hoole
+2026-03-12T13:03:01.305316Z,In Flanders Fields,REMOVED,HOOLE Daan,rider/daan-hoole
+2026-03-12T13:03:01.305316Z,Ronde van Brugge,REMOVED,HOOLE Daan,rider/daan-hoole
