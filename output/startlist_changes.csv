@@ -2096,3 +2096,50 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-13T02:09:05.647633Z,In Flanders Fields,ADDED,HOOLE Daan,rider/daan-hoole
 2026-03-13T02:09:05.647633Z,E3 Saxo Classic,ADDED,HOOLE Daan,rider/daan-hoole
 2026-03-13T13:01:23.790582Z,Milaan-Sanremo,ADDED,PELLIZZARI Giulio,rider/giulio-pellizzari
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,WRIGHT Paul,rider/paul-wright
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,DE POOTER Dries,rider/dries-de-pooter
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,LIVYNS Arjen,rider/arjen-livyns
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,JEANNIÈRE Emilien,rider/emilien-jeanniere
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,VAN DER WERFF Thom,rider/thom-van-der-werff
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,MCGILL Scott,rider/scott-mcgill
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,SÖDERQVIST Jakob,rider/jakob-soderqvist
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,DONALDSON Robert,rider/robert-donaldson
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,CORRES Gorka,rider/gorka-corres-ibanez-de-opakua
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,CORRES Gorka,rider/gorka-corres-ibanez-de-opakua
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,OTRUBA Jakub,rider/jakub-otruba
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,OTRUBA Jakub,rider/jakub-otruba
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,RENARD Alexis,rider/alexis-renard
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,SENTJENS Sente,rider/sente-sentjens
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,BARONCINI Filippo,rider/filippo-baroncini
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,ÁLVAREZ Héctor,rider/hector-alvarez-martinez
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,SAMBINELLO Mattia,rider/mattia-sambinello
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,WIGGINS Ben,rider/ben-wiggins
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,REX Laurenz,rider/laurenz-rex
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,REX Laurenz,rider/laurenz-rex
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,LE BERRE Mathis,rider/mathis-le-berre
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,OLIVER Ben,rider/ben-oliver
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,DE BONDT Dries,rider/dries-de-bondt
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,SÜTTERLIN Jasha,rider/jasha-sutterlin
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,TONEATTI Davide,rider/davide-toneatti
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,TONEATTI Davide,rider/davide-toneatti
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,CORKERY Dillon,rider/dillon-corkery
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,PICKRELL Riley,rider/riley-pickrell
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,BOARDMAN Samuel,rider/samuel-boardman
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,STEWART Mark,rider/mark-stewart
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,KESSLER Cole,rider/cole-kessler
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,CAUDELL Ezra,rider/ezra-caudell
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,MERLIER Tim,rider/tim-merlier
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,ADDED,MERLIER Tim,rider/tim-merlier
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,VAN LERBERGHE Bert,rider/bert-van-lerberghe
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,VAN LERBERGHE Bert,rider/bert-van-lerberghe
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,DE JONG Timo,rider/timo-de-jong
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,KUBIŠ Lukáš,rider/lukas-kubis
+2026-03-13T18:44:29.295511Z,Amstel Gold Race,REMOVED,NYS Thibau,rider/thibau-nys
+2026-03-13T18:44:29.295511Z,Waalse Pijl,REMOVED,NYS Thibau,rider/thibau-nys
+2026-03-13T18:44:29.295511Z,Luik-Bastenaken-Luik,REMOVED,NYS Thibau,rider/thibau-nys
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,SU Haoyu,rider/haoyu-su
+2026-03-13T18:44:29.295511Z,Nokere Koerse,REMOVED,DAINESE Alberto,rider/alberto-dainese
+2026-03-13T18:44:29.295511Z,Bredene Koksijde Classic,REMOVED,DAINESE Alberto,rider/alberto-dainese
+2026-03-13T18:44:29.295511Z,Nokere Koerse,ADDED,DE CEUSTER Milan,rider/milan-de-ceuster
