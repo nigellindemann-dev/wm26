@@ -4499,6 +4499,15 @@
       "Milaan-Sanremo"
     ]
   },
+  "rider/joshua-tarling": {
+    "name": "TARLING Joshua",
+    "races": [
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
   "rider/mads-pedersen": {
     "name": "PEDERSEN Mads",
     "races": [
