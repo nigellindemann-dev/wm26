@@ -3786,7 +3786,8 @@
     "races": [
       "Strade Bianche",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "Milaan-Sanremo"
     ]
   },
   "rider/lander-loockx": {
@@ -4230,12 +4231,6 @@
   },
   "rider/simone-consonni": {
     "name": "CONSONNI Simone",
-    "races": [
-      "Bredene Koksijde Classic"
-    ]
-  },
-  "rider/lindsay-de-vylder": {
-    "name": "DE VYLDER Lindsay",
     "races": [
       "Bredene Koksijde Classic"
     ]
