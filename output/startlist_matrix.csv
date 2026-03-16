@@ -30,7 +30,7 @@ BALMER Alexandre,rider/alexandre-balmer,,,,X,,,,,,,,,,,,,,,,1/19
 BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,X,X,,,,,,,,X,X,,,,,,,,,4/19
 BARRÉ Louis,rider/louis-barre,,,,,,,,,,,,,,,,,X,X,X,3/19
 BARTHE Cyril,rider/cyril-barthe,X,X,X,,X,X,,,,X,,,,,,,,,,6/19
-BASTIAENS Ayco,rider/ayco-bastiaens,,,X,,X,X,,,,X,,,,,,,,,,4/19
+BASTIAENS Ayco,rider/ayco-bastiaens,,,X,,,X,,,,X,,,,,,,,,,3/19
 BAUDIN Alex,rider/alex-baudin,,,,,,,,,,,,,,,,,X,X,X,3/19
 BAUHAUS Phil,rider/phil-bauhaus,,X,,,,,,,,X,,,,,,,,,,2/19
 BAYER Tobias,rider/tobias-bayer,X,,,,,,,,,,,,,,,,,,,1/19
@@ -110,6 +110,7 @@ CRABBE Tom,rider/tom-crabbe,,X,,,X,X,,X,,X,X,,X,,,,,,,7/19
 CRETTI Luca,rider/luca-cretti,,,,X,,,,,,,,,,,,,,,,1/19
 CROCKETT Finn,rider/finn-crockett,,,X,,,X,,,,,,,,,,,,,,2/19
 CÔTÉ Pier-André,rider/pier-andre-cote,,,,X,,,,,,,,,,,,,,,,1/19
+DAINESE Alberto,rider/alberto-dainese,,,,,X,,,,,,,,,,,,,,,1/19
 DARBELLAY Valentin,rider/valentin-darbellay,,,X,,,,,,,,,,,,,,,,,1/19
 DARDER Sergi,rider/sergi-darder,,,,,X,X,,,,,,,,,,,,,,2/19
 DAUPHIN Florian,rider/florian-dauphin,,X,X,,,,,,,X,,,,,,,,,,3/19
@@ -125,7 +126,7 @@ DE PESTEL Sander,rider/sander-de-pestel,X,X,,,,,,,,,,,,,,,,,,2/19
 DE POOTER Dries,rider/dries-de-pooter,X,,,,X,X,,,,X,,,,,,,,,,4/19
 DE PRETTO Davide,rider/davide-de-pretto,,,,X,,,,,,,,,,,,,,,,1/19
 DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer,,X,X,,X,X,,,,,,,X,,,,,,,5/19
-DE VRIES Hartthijs,rider/hartthijs-de-vries,,X,X,,,,,,,X,,,,,,,,,,3/19
+DE VRIES Hartthijs,rider/hartthijs-de-vries,,X,X,,X,,,,,X,,,,,,,,,,4/19
 DEBEAUMARCHÉ Nicolas,rider/nicolas-debeaumarche,,,,,,X,,,,,,,,,,,,,,1/19
 DEGENKOLB John,rider/john-degenkolb,X,X,,,,,X,,,X,X,,,X,,,,,,6/19
 DEHAIRS Simon,rider/simon-dehairs,,,X,,,X,,,,,,,,,,,,,,2/19
@@ -294,7 +295,7 @@ L'HOTE Antoine,rider/antoine-l-hote,,,,X,,,,,,,,,,,,,,,,1/19
 LABROSSE Jordan,rider/jordan-labrosse,,,,X,,,X,,,,,,,,,,X,X,X,5/19
 LAFAY Victor,rider/victor-lafay,,,,,,,,,,,,,,,,,,X,,1/19
 LAMBRECHT Michiel,rider/michiel-lambrecht,X,,X,,X,,,,,X,,,,,,,,,,4/19
-LAMPAERT Yves,rider/yves-lampaert,X,X,,,,,,,,X,X,X,,X,,,,,,6/19
+LAMPAERT Yves,rider/yves-lampaert,X,X,,,X,,,,,X,X,X,,X,,,,,,7/19
 LAMPERTI Luke,rider/luke-lamperti,X,X,,,,,X,X,X,X,X,X,,X,,,,,,9/19
 LANGELLOTTI Victor,rider/victor-langellotti,,,,,,,,,,,,,,,,,X,X,X,3/19
 LANHOVE Milan,rider/milan-lanhove,X,,,,X,,,,,,,,,,,,,,,2/19
@@ -540,7 +541,7 @@ VAN BELLE Loe,rider/loe-van-belle,,,X,,,,,,,,,,,,,,,,,1/19
 VAN BOVEN Luca,rider/luca-van-boven,X,X,,,,,,,,X,,,,,,,X,,,4/19
 VAN DEN BERG Julius,rider/julius-van-den-berg,X,,X,,,,,,,X,,,,,,,,,,3/19
 VAN DEN BERG Marijn,rider/marijn-van-den-berg,X,X,,,,,X,,X,X,X,X,,X,,,X,,,9/19
-VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche,,,,,X,X,,,,,,,,,,,,,,2/19
+VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche,,,,,,X,,,,,,,,,,,,,,1/19
 VAN DEN BROEK Axel,rider/axel-van-den-broek1,,,X,,,,,,,,,,,,,,,,,1/19
 VAN DEN BROEK Frank,rider/frank-van-den-broek,X,,,,,,,,X,,X,X,,,,,X,X,,6/19
 VAN DEN HAUTE Milan,rider/milan-van-den-haute,,,X,,,X,,,,,,,,,,,,,,2/19
@@ -569,7 +570,7 @@ VAN UDEN Casper,rider/casper-van-uden,,,,,X,,,,,,,,,,,,,,,1/19
 VAN WILDER Ilan,rider/ilan-van-wilder,,,,,,,,,,,,,,,,,X,X,X,3/19
 VANDENBRANDEN Noah,rider/noah-vandenbranden,,,X,,,X,,,,,,,,,,,,,,2/19
 VANDENSTORME Dylan,rider/dylan-vandenstorme,X,,,,X,,,,,,,,,,,,,,,2/19
-VANGHELUWE Warre,rider/warre-vangheluwe,,,X,,,X,,,,,,,,,,,,,,2/19
+VANGHELUWE Warre,rider/warre-vangheluwe,,,X,,X,X,,,,,,,,,,,,,,3/19
 VANHOOF Ward,rider/ward-vanhoof,X,,X,,,,,,,X,,,,,,,,,,3/19
 VANSEVENANT Mauri,rider/mauri-vansevenant,,,,X,,,,,,,,,,,,,,,,1/19
 VEISTROFFER Baptiste,rider/baptiste-veistroffer,,,,,X,,,,,,,,,,,,,,,1/19

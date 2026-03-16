@@ -836,6 +836,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Nokere Koerse",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -2185,6 +2186,7 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
+      "Nokere Koerse",
       "In Flanders Fields"
     ]
   },
@@ -2241,7 +2243,6 @@
     "name": "BASTIAENS Ayco",
     "races": [
       "Samyn Classic",
-      "Nokere Koerse",
       "Bredene Koksijde Classic",
       "In Flanders Fields"
     ]
@@ -2257,6 +2258,7 @@
     "name": "VANGHELUWE Warre",
     "races": [
       "Samyn Classic",
+      "Nokere Koerse",
       "Bredene Koksijde Classic"
     ]
   },
@@ -3953,17 +3955,16 @@
       "Bredene Koksijde Classic"
     ]
   },
-  "rider/gil-gelders": {
-    "name": "GELDERS Gil",
+  "rider/alberto-dainese": {
+    "name": "DAINESE Alberto",
     "races": [
       "Nokere Koerse"
     ]
   },
-  "rider/fabio-van-den-bossche": {
-    "name": "VAN DEN BOSSCHE Fabio",
+  "rider/gil-gelders": {
+    "name": "GELDERS Gil",
     "races": [
-      "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Nokere Koerse"
     ]
   },
   "rider/haimar-etxeberria": {
@@ -4234,6 +4235,12 @@
       "In Flanders Fields",
       "Scheldeprijs",
       "Parijs-Roubaix"
+    ]
+  },
+  "rider/fabio-van-den-bossche": {
+    "name": "VAN DEN BOSSCHE Fabio",
+    "races": [
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/tim-marsman": {
