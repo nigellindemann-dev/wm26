@@ -1313,7 +1313,6 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
-      "Nokere Koerse",
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -4137,6 +4136,14 @@
       "Nokere Koerse"
     ]
   },
+  "rider/camille-charret": {
+    "name": "CHARRET Camille",
+    "races": [
+      "Nokere Koerse",
+      "Bredene Koksijde Classic",
+      "In Flanders Fields"
+    ]
+  },
   "rider/lorrenzo-manzin": {
     "name": "MANZIN Lorrenzo",
     "races": [
@@ -4282,13 +4289,6 @@
       "In Flanders Fields",
       "Scheldeprijs",
       "Ronde van Limburg"
-    ]
-  },
-  "rider/camille-charret": {
-    "name": "CHARRET Camille",
-    "races": [
-      "Bredene Koksijde Classic",
-      "In Flanders Fields"
     ]
   },
   "rider/nicolas-debeaumarche": {
