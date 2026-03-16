@@ -2152,3 +2152,7 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-15T18:40:49.138542Z,E3 Saxo Classic,ADDED,VAN DIJKE Mick,rider/mick-van-dijke
 2026-03-16T02:33:18.728946Z,Nokere Koerse,ADDED,CHARRET Camille,rider/camille-charret
 2026-03-16T02:33:18.728946Z,Nokere Koerse,REMOVED,RENARD Alexis,rider/alexis-renard
+2026-03-16T13:15:59.105786Z,Nokere Koerse,REMOVED,MERLIER Tim,rider/tim-merlier
+2026-03-16T13:15:59.105786Z,Milaan-Sanremo,ADDED,POELS Wout,rider/wout-poels
+2026-03-16T13:15:59.105786Z,Nokere Koerse,REMOVED,STELLA Davide,rider/davide-stella
+2026-03-16T13:15:59.105786Z,Bredene Koksijde Classic,REMOVED,STELLA Davide,rider/davide-stella

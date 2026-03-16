@@ -3760,7 +3760,8 @@
   "rider/wout-poels": {
     "name": "POELS Wout",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/cedrik-bakke-christophersen": {
@@ -3919,13 +3920,6 @@
       "Nokere Koerse"
     ]
   },
-  "rider/davide-stella": {
-    "name": "STELLA Davide",
-    "races": [
-      "Nokere Koerse",
-      "Bredene Koksijde Classic"
-    ]
-  },
   "rider/kristian-egholm1": {
     "name": "EGHOLM Kristian",
     "races": [
@@ -3957,17 +3951,6 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic"
-    ]
-  },
-  "rider/tim-merlier": {
-    "name": "MERLIER Tim",
-    "races": [
-      "Nokere Koerse",
-      "Bredene Koksijde Classic",
-      "Ronde van Brugge",
-      "In Flanders Fields",
-      "Scheldeprijs",
-      "Parijs-Roubaix"
     ]
   },
   "rider/gil-gelders": {
@@ -4241,6 +4224,16 @@
     "name": "CONSONNI Simone",
     "races": [
       "Bredene Koksijde Classic"
+    ]
+  },
+  "rider/tim-merlier": {
+    "name": "MERLIER Tim",
+    "races": [
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/tim-marsman": {
