@@ -4065,7 +4065,11 @@
   "rider/oscar-riesebeek": {
     "name": "RIESEBEEK Oscar",
     "races": [
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
+      "Brabantse Pijl"
     ]
   },
   "rider/erlend-blikra": {
