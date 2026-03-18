@@ -2473,3 +2473,9 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-18T13:15:59.378230Z,Ronde van Vlaanderen,ADDED,DONALDSON Robert,rider/robert-donaldson
 2026-03-18T13:15:59.378230Z,Ronde van Vlaanderen,ADDED,MOZZATO Luca,rider/luca-mozzato
 2026-03-18T13:15:59.378230Z,Ronde van Vlaanderen,ADDED,DE LA CALLE Hugo,rider/hugo-de-la-calle-arango
+2026-03-18T19:01:38.173956Z,Milaan-Sanremo,ADDED,SWEENY Harry,rider/harry-sweeny
+2026-03-18T19:01:38.173956Z,Ronde van Vlaanderen,ADDED,WATSON Samuel,rider/samuel-watson
+2026-03-18T19:01:38.173956Z,Dwars door Vlaanderen,ADDED,WATSON Samuel,rider/samuel-watson
+2026-03-18T19:01:38.173956Z,Ronde van Vlaanderen,REMOVED,WATSON Sam,rider/sam-watson
+2026-03-18T19:01:38.173956Z,Dwars door Vlaanderen,REMOVED,WATSON Sam,rider/sam-watson
+2026-03-18T19:01:38.173956Z,Milaan-Sanremo,REMOVED,MILAN Jonathan,rider/jonathan-milan

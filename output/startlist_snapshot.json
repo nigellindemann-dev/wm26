@@ -509,7 +509,9 @@
     "name": "WATSON Samuel",
     "races": [
       "Omloop Nieuwsblad",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/soren-kragh-andersen": {
@@ -1912,7 +1914,6 @@
     "name": "MILAN Jonathan",
     "races": [
       "Kuurne-Brussel-Kuurne",
-      "Milaan-Sanremo",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Parijs-Roubaix"
@@ -4644,6 +4645,20 @@
       "Parijs-Roubaix"
     ]
   },
+  "rider/harry-sweeny": {
+    "name": "SWEENY Harry",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/bryan-coquard": {
+    "name": "COQUARD Bryan",
+    "races": [
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
   "rider/clement-izquierdo": {
     "name": "IZQUIERDO Clément",
     "races": [
@@ -4663,14 +4678,6 @@
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/bryan-coquard": {
-    "name": "COQUARD Bryan",
-    "races": [
-      "Milaan-Sanremo",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
     ]
   },
   "rider/dario-igor-belletta": {
@@ -4848,13 +4855,6 @@
     "races": [
       "In Flanders Fields",
       "Dwars door Vlaanderen"
-    ]
-  },
-  "rider/sam-watson": {
-    "name": "WATSON Sam",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
     ]
   },
   "rider/sam-welsford": {
