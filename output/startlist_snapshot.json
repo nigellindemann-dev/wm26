@@ -206,8 +206,7 @@
     "name": "STANNARD Robert",
     "races": [
       "Omloop Nieuwsblad",
-      "Samyn Classic",
-      "Ronde van Vlaanderen"
+      "Samyn Classic"
     ]
   },
   "rider/attila-valter": {
@@ -910,7 +909,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -1653,8 +1651,7 @@
   "rider/stefan-kung": {
     "name": "KÜNG Stefan",
     "races": [
-      "Omloop Nieuwsblad",
-      "Ronde van Vlaanderen"
+      "Omloop Nieuwsblad"
     ]
   },
   "rider/marco-haller": {
@@ -1662,6 +1659,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen"
@@ -1715,6 +1713,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen"
@@ -1896,6 +1895,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Samyn Classic",
+      "Milaan-Sanremo",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -2087,7 +2087,8 @@
     "name": "ØRN-KRISTOFF Felix",
     "races": [
       "Kuurne-Brussel-Kuurne",
-      "Samyn Classic"
+      "Samyn Classic",
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/liam-slock": {
@@ -3764,7 +3765,8 @@
   "rider/mattia-cattaneo": {
     "name": "CATTANEO Mattia",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/emil-herzog": {
@@ -3776,7 +3778,8 @@
   "rider/gianni-moscon": {
     "name": "MOSCON Gianni",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/giulio-pellizzari": {
@@ -3984,13 +3987,15 @@
   "rider/francisco-munoz-llana": {
     "name": "MUÑOZ Francisco",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/andrea-pietrobon": {
     "name": "PIETROBON Andrea",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Milaan-Sanremo"
     ]
   },
   "rider/diego-pablo-sevilla": {
@@ -4085,6 +4090,7 @@
     "name": "MERIS Sergio",
     "races": [
       "Strade Bianche",
+      "Milaan-Sanremo",
       "E3 Saxo Classic"
     ]
   },
@@ -4114,6 +4120,7 @@
     "name": "VENTURINI Clément",
     "races": [
       "Strade Bianche",
+      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "Brabantse Pijl",
       "Amstel Gold Race",
@@ -4400,7 +4407,6 @@
     "name": "MENTEN Milan",
     "races": [
       "Nokere Koerse",
-      "Bredene Koksijde Classic",
       "Ronde van Limburg",
       "Brabantse Pijl"
     ]
@@ -4691,12 +4697,6 @@
       "Bredene Koksijde Classic"
     ]
   },
-  "rider/tord-gudmestad": {
-    "name": "GUDMESTAD Tord",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
   "rider/tim-marsman": {
     "name": "MARSMAN Tim",
     "races": [
@@ -4711,6 +4711,116 @@
   },
   "rider/roman-ermakov": {
     "name": "ERMAKOV Roman",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/luca-colnaghi": {
+    "name": "COLNAGHI Luca",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/lorenzo-conforti": {
+    "name": "CONFORTI Lorenzo",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/marco-manenti1": {
+    "name": "MANENTI Marco",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/manuele-tarozzi": {
+    "name": "TAROZZI Manuele",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/alex-aranburu": {
+    "name": "ARANBURU Alex",
+    "races": [
+      "Milaan-Sanremo",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/bryan-coquard": {
+    "name": "COQUARD Bryan",
+    "races": [
+      "Milaan-Sanremo",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/valentin-ferron": {
+    "name": "FERRON Valentin",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/clement-izquierdo": {
+    "name": "IZQUIERDO Clément",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/paul-ourselin": {
+    "name": "OURSELIN Paul",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/benjamin-thomas-2": {
+    "name": "THOMAS Benjamin",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/edoardo-zamperini": {
+    "name": "ZAMPERINI Edoardo",
+    "races": [
+      "Milaan-Sanremo",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/tord-gudmestad": {
+    "name": "GUDMESTAD Tord",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/alastair-mackellar": {
+    "name": "MACKELLAR Alastair",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
+  "rider/madis-mihkels": {
+    "name": "MIHKELS Madis",
+    "races": [
+      "Milaan-Sanremo",
+      "Ronde van Brugge",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
+    ]
+  },
+  "rider/harry-sweeny": {
+    "name": "SWEENY Harry",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/quentin-pacher": {
+    "name": "PACHER Quentin",
     "races": [
       "Milaan-Sanremo"
     ]
@@ -4764,12 +4874,6 @@
       "Parijs-Roubaix"
     ]
   },
-  "rider/georg-zimmermann": {
-    "name": "ZIMMERMANN Georg",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
   "rider/lorenzo-rota": {
     "name": "ROTA Lorenzo",
     "races": [
@@ -4783,6 +4887,12 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/georg-zimmermann": {
+    "name": "ZIMMERMANN Georg",
+    "races": [
+      "Milaan-Sanremo"
     ]
   },
   "rider/lorenzo-milesi": {
@@ -4813,8 +4923,20 @@
       "Milaan-Sanremo"
     ]
   },
+  "rider/marcel-camprubi": {
+    "name": "CAMPRUBÍ Marcel",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
   "rider/primoz-roglic": {
     "name": "ROGLIČ Primož",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/finn-fisher-black": {
+    "name": "FISHER-BLACK Finn",
     "races": [
       "Milaan-Sanremo"
     ]
@@ -4864,175 +4986,14 @@
       "E3 Saxo Classic"
     ]
   },
-  "rider/victor-campenaerts": {
-    "name": "CAMPENAERTS Victor",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/owain-doull": {
-    "name": "DOULL Owain",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields"
-    ]
-  },
-  "rider/brandon-mcnulty": {
-    "name": "MCNULTY Brandon",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/magnus-cort-nielsen": {
-    "name": "CORT Magnus",
-    "races": [
-      "Milaan-Sanremo",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/william-blume-levy": {
-    "name": "BLUME LEVY William",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/yevgeniy-fedorov": {
-    "name": "FEDOROV Yevgeniy",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/nicolas-vinokurov": {
-    "name": "VINOKUROV Nicolas",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/quentin-pacher": {
-    "name": "PACHER Quentin",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/madis-mihkels": {
-    "name": "MIHKELS Madis",
-    "races": [
-      "Milaan-Sanremo",
-      "Ronde van Brugge",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
-    ]
-  },
-  "rider/harry-sweeny": {
-    "name": "SWEENY Harry",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/alastair-mackellar": {
-    "name": "MACKELLAR Alastair",
-    "races": [
-      "Milaan-Sanremo",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen"
-    ]
-  },
-  "rider/bryan-coquard": {
-    "name": "COQUARD Bryan",
-    "races": [
-      "Milaan-Sanremo",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
-    ]
-  },
-  "rider/alex-aranburu": {
-    "name": "ARANBURU Alex",
-    "races": [
-      "Milaan-Sanremo",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/benjamin-thomas-2": {
-    "name": "THOMAS Benjamin",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/clement-izquierdo": {
-    "name": "IZQUIERDO Clément",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/valentin-ferron": {
-    "name": "FERRON Valentin",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/paul-ourselin": {
-    "name": "OURSELIN Paul",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/edoardo-zamperini": {
-    "name": "ZAMPERINI Edoardo",
-    "races": [
-      "Milaan-Sanremo",
-      "Dwars door Vlaanderen"
-    ]
-  },
-  "rider/marcel-camprubi": {
-    "name": "CAMPRUBÍ Marcel",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/lorenzo-conforti": {
-    "name": "CONFORTI Lorenzo",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/luca-colnaghi": {
-    "name": "COLNAGHI Luca",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/manuele-tarozzi": {
-    "name": "TAROZZI Manuele",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
-  "rider/marco-manenti1": {
-    "name": "MANENTI Marco",
-    "races": [
-      "Milaan-Sanremo"
-    ]
-  },
   "rider/andrea-peron": {
     "name": "PERON Andrea",
     "races": [
       "Milaan-Sanremo"
     ]
   },
-  "rider/umberto-poli": {
-    "name": "POLI Umberto",
+  "rider/hamish-armitt": {
+    "name": "ARMITT Hamish",
     "races": [
       "Milaan-Sanremo"
     ]
@@ -5055,14 +5016,26 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/hamish-armitt": {
-    "name": "ARMITT Hamish",
+  "rider/umberto-poli": {
+    "name": "POLI Umberto",
     "races": [
       "Milaan-Sanremo"
     ]
   },
   "rider/filippo-ridolfo": {
     "name": "RIDOLFO Filippo",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/giovanni-lonardi": {
+    "name": "LONARDI Giovanni",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/mattia-bais": {
+    "name": "BAIS Mattia",
     "races": [
       "Milaan-Sanremo"
     ]
@@ -5075,6 +5048,83 @@
   },
   "rider/mirco-maestri": {
     "name": "MAESTRI Mirco",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/gabriele-raccagni": {
+    "name": "RACCAGNI Gabriele",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/victor-campenaerts": {
+    "name": "CAMPENAERTS Victor",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/owain-doull": {
+    "name": "DOULL Owain",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields"
+    ]
+  },
+  "rider/jacob-eriksson": {
+    "name": "ERIKSSON Jacob",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/arthur-kluckers": {
+    "name": "KLUCKERS Arthur",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/florian-stork": {
+    "name": "STORK Florian",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/brandon-mcnulty": {
+    "name": "MCNULTY Brandon",
+    "races": [
+      "Milaan-Sanremo"
+    ]
+  },
+  "rider/william-blume-levy": {
+    "name": "BLUME LEVY William",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/magnus-cort-nielsen": {
+    "name": "CORT Magnus",
+    "races": [
+      "Milaan-Sanremo",
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/yevgeniy-fedorov": {
+    "name": "FEDOROV Yevgeniy",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/nicolas-vinokurov": {
+    "name": "VINOKUROV Nicolas",
     "races": [
       "Milaan-Sanremo"
     ]
@@ -5173,13 +5223,6 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/arthur-kluckers": {
-    "name": "KLUCKERS Arthur",
-    "races": [
-      "E3 Saxo Classic",
       "Ronde van Vlaanderen"
     ]
   },
