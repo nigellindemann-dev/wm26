@@ -2725,3 +2725,45 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-20T02:10:34.471505Z,Milaan-Sanremo,ADDED,MACKELLAR Alastair,rider/alastair-mackellar
 2026-03-20T02:10:34.471505Z,Milaan-Sanremo,ADDED,VALGREN Michael,rider/michael-valgren-andersen
 2026-03-20T02:10:34.471505Z,Milaan-Sanremo,REMOVED,VAN DEN BERG Marijn,rider/marijn-van-den-berg
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,REMOVED,FLYNN Sean,rider/sean-flynn
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,ERMAKOV Roman,rider/roman-ermakov
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,SKAARSETH Anders,rider/anders-skaarseth
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,HOLTER Ådne,rider/adne-holter
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,VAN DEN HAUTE Milan,rider/milan-van-den-haute
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,TORNEY Artuur,rider/artuur-torney
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,RESELL Erik Nordsæter,rider/erik-nordsaeter-resell
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,REMOVED,HERMANS Quinten,rider/quinten-hermans
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,NEILANDS Krists,rider/krists-neilands
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,FEDOROV Yevgeniy,rider/yevgeniy-fedorov
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,SMITH Dion,rider/dion-smith
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,MIQUEL Pau,rider/pau-miquel-delgado
+2026-03-20T13:02:32.910522Z,E3 Saxo Classic,ADDED,WATSON Samuel,rider/samuel-watson
+2026-03-20T13:02:32.910522Z,Dwars door Vlaanderen,ADDED,WATSON Samuel,rider/samuel-watson
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,BORGO Alessandro,rider/alessandro-borgo
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,REMOVED,BRENNAN Matthew,rider/matthew-brennan
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,SCHULTZ Nick,rider/nick-schultz
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,DONOVAN Mark,rider/mark-donovan
+2026-03-20T13:02:32.910522Z,Parijs-Roubaix,REMOVED,MERLIER Tim,rider/tim-merlier
+2026-03-20T13:02:32.910522Z,In Flanders Fields,REMOVED,MERLIER Tim,rider/tim-merlier
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,ZAMBANINI Edoardo,rider/edoardo-zambanini
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,GEERAERTS Ferre,rider/ferre-geeraerts
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,MEURISSE Xandro,rider/xandro-meurisse
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,GIRMAY Biniam,rider/biniam-girmay
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,VANDENBRANDEN Noah,rider/noah-vandenbranden
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,HESTERS Jules,rider/jules-hesters
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,AFFINI Edoardo,rider/edoardo-affini
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,CÔTÉ Pier-André,rider/pier-andre-cote
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,BLUME LEVY William,rider/william-blume-levy
+2026-03-20T13:02:32.910522Z,Ronde van Brugge,ADDED,HUYSMANS Nolan,rider/nolan-huysmans
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,CAMPENAERTS Victor,rider/victor-campenaerts
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,SILVA Guillermo Thomas,rider/guillermo-thomas-silva-coussan
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,DOULL Owain,rider/owain-doull
+2026-03-20T13:02:32.910522Z,E3 Saxo Classic,REMOVED,WATSON Sam,rider/sam-watson
+2026-03-20T13:02:32.910522Z,Dwars door Vlaanderen,REMOVED,WATSON Sam,rider/sam-watson
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,CAMPRUBÍ Marcel,rider/marcel-camprubi
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,ASKEY Lewis,rider/lewis-askey
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,MIHOLJEVIĆ Fran,rider/fran-miholjevic
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,VAN MOER Brent,rider/brent-van-moer
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,DHONDT Robbe,rider/robbe-dhondt
+2026-03-20T13:02:32.910522Z,Milaan-Sanremo,ADDED,SYRITSA Gleb,rider/gleb-syritsa
