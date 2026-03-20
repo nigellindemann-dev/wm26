@@ -320,7 +320,6 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Strade Bianche",
-      "Milaan-Sanremo",
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
@@ -378,7 +377,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
@@ -3437,6 +3435,7 @@
     "name": "VALGREN Michael",
     "races": [
       "Strade Bianche",
+      "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
@@ -4870,6 +4869,15 @@
       "Milaan-Sanremo"
     ]
   },
+  "rider/alastair-mackellar": {
+    "name": "MACKELLAR Alastair",
+    "races": [
+      "Milaan-Sanremo",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
+    ]
+  },
   "rider/bryan-coquard": {
     "name": "COQUARD Bryan",
     "races": [
@@ -5032,14 +5040,6 @@
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/alastair-mackellar": {
-    "name": "MACKELLAR Alastair",
-    "races": [
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen"
     ]
   },
   "rider/matthias-schwarzbacher": {

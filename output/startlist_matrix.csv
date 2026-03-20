@@ -7,7 +7,7 @@ AERTS Toon,rider/toon-aerts,,,,,,,,,,,,X,,X,,,,,,2/19
 AFFINI Edoardo,rider/edoardo-affini,X,,,,,,,,X,X,,X,,,,,,,,4/19
 AGNOLETTO Blake,rider/blake-agnoletto,,,X,,,X,,,,,,,,,,,,,,2/19
 ALAPHILIPPE Julian,rider/julian-alaphilippe,,,,X,,,X,,,,,,,,,,X,X,X,5/19
-ALBANESE Vincenzo,rider/vincenzo-albanese,X,X,,X,,,X,X,X,X,,X,,X,,,,,,9/19
+ALBANESE Vincenzo,rider/vincenzo-albanese,X,X,,X,,,,X,X,X,,X,,X,,,,,,8/19
 ALLEGAERT Piet,rider/piet-allegaert,X,X,,,X,,,,,X,X,X,,,,,,,,6/19
 ALLENO Clément,rider/clement-alleno,X,X,,,,,,,X,X,X,X,,,,,,,,6/19
 ANDRESEN Tobias Lund,rider/tobias-lund-andresen,X,X,,,,,X,X,,X,X,,,,,,,,,6/19
@@ -331,7 +331,7 @@ LØLAND Sakarias Koller,rider/sakarias-koller-loland,,,,,,,,,X,,X,,,,,,,,,2/19
 MAAS Jan,rider/jan-maas,,X,X,,X,X,,,,,,,,,,,,,,4/19
 MAAS Marijn,rider/marijn-maas,,,X,,,,,,,,,,,,,,,,,1/19
 MACIEJUK Filip,rider/filip-maciejuk,X,X,,X,,,X,,,,,,,,,,,,,4/19
-MACKELLAR Alastair,rider/alastair-mackellar,,,,,,,,,X,X,X,,,,,,,,,3/19
+MACKELLAR Alastair,rider/alastair-mackellar,,,,,,,X,,X,X,X,,,,,,,,,4/19
 MACÍAS César,rider/cesar-macias-estrada,X,X,,,,,,,,X,,,,,,,,,,3/19
 MADOUAS Valentin,rider/valentin-madouas,X,,,X,,,,,X,X,X,X,,,,,,,,6/19
 MAESTRI Mirco,rider/mirco-maestri,,,,,,,X,,,,,,,,,,,,,1/19
@@ -568,7 +568,7 @@ URIANSTAD BUGGE Martin,rider/martin-urianstad,,,,,X,X,,,,,,,,,,,,,,2/19
 VACEK Mathias,rider/mathias-vacek,X,,,,,,X,,X,X,,X,,X,,,,,,6/19
 VADER Milan,rider/milan-vader,,,,X,,,,,,,,,,,,,,,,1/19
 VADIC Baptiste,rider/baptiste-vadic,X,X,X,,X,X,,,X,,,,,,,,,,,6/19
-VALGREN Michael,rider/michael-valgren-andersen,,,,X,,,,,X,X,,X,,X,,,,,,5/19
+VALGREN Michael,rider/michael-valgren-andersen,,,,X,,,X,,X,X,,X,,X,,,,,,6/19
 VALTER Attila,rider/attila-valter,X,,,X,,,,,X,,,X,,,,,,,,4/19
 VAN AERT Wout,rider/wout-van-aert,,,X,X,,,X,,,X,X,X,,X,,,,,,7/19
 VAN ASBROECK Tom,rider/tom-van-asbroeck,X,,X,,,X,,,X,X,X,X,,,,,,,,7/19
@@ -577,7 +577,7 @@ VAN BEKKUM Darren,rider/darren-van-bekkum,,,,,,,,,,,,,,,,,X,,,1/19
 VAN BELLE Loe,rider/loe-van-belle,,,X,,,,,,,,,,,,,,,,,1/19
 VAN BOVEN Luca,rider/luca-van-boven,X,X,,,,,X,,X,X,,,,,,,X,,,6/19
 VAN DEN BERG Julius,rider/julius-van-den-berg,X,,X,,,,,,,X,,X,,,,,,,,4/19
-VAN DEN BERG Marijn,rider/marijn-van-den-berg,X,X,,,,,X,,X,X,,X,,X,,,X,,,8/19
+VAN DEN BERG Marijn,rider/marijn-van-den-berg,X,X,,,,,,,X,X,,X,,X,,,X,,,7/19
 VAN DEN BOER Seppe,rider/seppe-van-den-boer,,,,,X,,,,,,,,,,,,,,,1/19
 VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche,,,,,,,X,,,,,,,,,,,,,1/19
 VAN DEN BROEK Axel,rider/axel-van-den-broek1,,,X,,,,,,,,,,,,,,,,,1/19
