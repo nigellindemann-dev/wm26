@@ -3217,7 +3217,9 @@
     "name": "DEL TORO Isaac",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/felix-grossschartner": {
@@ -3386,8 +3388,7 @@
     "name": "ISIDORE Noa",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
-      "In Flanders Fields"
+      "Milaan-Sanremo"
     ]
   },
   "rider/antoine-l-hote": {
@@ -5302,13 +5303,6 @@
       "Ronde van Vlaanderen"
     ]
   },
-  "rider/merhawi-kudus": {
-    "name": "KUDUS Merhawi",
-    "races": [
-      "In Flanders Fields",
-      "Ronde van Vlaanderen"
-    ]
-  },
   "rider/sam-welsford": {
     "name": "WELSFORD Sam",
     "races": [
@@ -5337,6 +5331,12 @@
   },
   "rider/fabio-christen": {
     "name": "CHRISTEN Fabio",
+    "races": [
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/merhawi-kudus": {
+    "name": "KUDUS Merhawi",
     "races": [
       "Ronde van Vlaanderen"
     ]
