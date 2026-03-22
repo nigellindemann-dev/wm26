@@ -48,7 +48,7 @@ BERGER Antoine,rider/antoine-berger,,,X,,,,,,,,,,,,,,,,,1/19
 BESSEGA Gabriele,rider/gabriele-bessega,,,,X,,,,,,,,,,,,,,,,1/19
 BETTIOL Alberto,rider/alberto-bettiol,X,,,X,,,X,,X,,X,X,,,,,,,,6/19
 BEULLENS Cedric,rider/cedric-beullens,X,,X,,,X,,,,X,X,X,,,,,,,,6/19
-BIERMANS Jenthe,rider/jenthe-biermans,X,,X,,X,,,,,,,X,,,,,,,,4/19
+BIERMANS Jenthe,rider/jenthe-biermans,X,,X,,X,,,X,,,,X,,,,,,,,5/19
 BIESTERBOS Frits,rider/frits-biesterbos,,X,X,,X,X,,,X,X,,,,,,,X,,,7/19
 BILBAO Pello,rider/pello-bilbao,,,,X,,,,,,,,,,,,,X,X,X,4/19
 BISSEGGER Stefan,rider/stefan-bissegger,X,,,,,,,,X,X,,X,,X,,,,,,5/19
@@ -99,7 +99,7 @@ CAUDELL Ezra,rider/ezra-caudell,,X,X,,,X,,,,,,,,,,,,,,3/19
 CAVIA Daniel,rider/daniel-cavia-sanz,X,X,,,,,,,X,X,X,X,,,,,,,,6/19
 CHAMBERLAIN Oscar,rider/oscar-chamberlain,,,,,,,,,X,,X,X,,,,,,,,3/19
 CHAMPOUSSIN Clément,rider/clement-champoussin,,,,X,,,,,,,,,,,,,X,X,X,4/19
-CHARRET Camille,rider/camille-charret,,,,,X,X,,,,X,X,X,,,,,,,,5/19
+CHARRET Camille,rider/camille-charret,,,,,X,X,,X,,X,X,X,,,,,,,,6/19
 CHRISTEN Fabio,rider/fabio-christen,,,,,,,,,,,,X,,,,,,,,1/19
 CHRISTEN Jan,rider/jan-christen,,,,X,,,X,,,,,,,,,,,,,2/19
 CHRISTIAN Sean,rider/sean-christian,,X,X,,X,,,,,,,,,X,,,,,,4/19
@@ -139,7 +139,7 @@ DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer,,X,X,,X,X,,,,,X,,X,,,,,,,6/1
 DE VRIES Hartthijs,rider/hartthijs-de-vries,,X,X,,X,,X,,X,X,X,X,,,,,,,,8/19
 DEBEAUMARCHÉ Nicolas,rider/nicolas-debeaumarche,,,,,,X,,,,,X,,,,,,,,,2/19
 DEGENKOLB John,rider/john-degenkolb,X,X,,,,,X,,,X,X,,,X,,,,,,6/19
-DEHAIRS Simon,rider/simon-dehairs,,,X,,,,,,,,,,,,,,,,,1/19
+DEHAIRS Simon,rider/simon-dehairs,,,X,,,,,X,,,,,,,,,,,,2/19
 DEKKER David,rider/david-dekker,,,X,,,X,,,,,,,,,,,,,,2/19
 DEL GROSSO Tibor,rider/tibor-del-grosso,,,,X,,,,,X,,X,,,,X,X,X,,,6/19
 DEL TORO Isaac,rider/isaac-del-toro,,,,X,,,X,,,,,,,,,,,X,X,4/19
@@ -335,7 +335,7 @@ LOUVEL Matis,rider/matis-louvel,X,X,,,,,,,X,X,X,X,,X,,,,,,7/19
 LOWAGIE Arthur,rider/arthur-lowagie,,,X,,,,,,,,,,,,,,,,,1/19
 LOZANO David,rider/david-lozano,,,,,,,X,,,,,,,,,,,,,1/19
 LØLAND Sakarias Koller,rider/sakarias-koller-loland,,,,,,,,,X,,X,,,,,,,,,2/19
-MAAS Jan,rider/jan-maas,,X,X,,X,X,,,,,,,,,,,,,,4/19
+MAAS Jan,rider/jan-maas,,X,X,,X,X,,X,,,,,,,,,,,,5/19
 MAAS Marijn,rider/marijn-maas,,,X,,,,,,,,,,,,,,,,,1/19
 MACIEJUK Filip,rider/filip-maciejuk,X,X,,X,,,X,,,,,,,,,,,,,4/19
 MACKELLAR Alastair,rider/alastair-mackellar,,,,,,,X,,X,X,X,,,,,,,,,4/19

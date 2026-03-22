@@ -1450,6 +1450,7 @@
       "Omloop Nieuwsblad",
       "Samyn Classic",
       "Nokere Koerse",
+      "Ronde van Brugge",
       "Ronde van Vlaanderen"
     ]
   },
@@ -2268,7 +2269,8 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge"
     ]
   },
   "rider/samuel-boardman": {
@@ -2508,7 +2510,8 @@
   "rider/simon-dehairs": {
     "name": "DEHAIRS Simon",
     "races": [
-      "Samyn Classic"
+      "Samyn Classic",
+      "Ronde van Brugge"
     ]
   },
   "rider/ayco-bastiaens": {
@@ -4475,6 +4478,7 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
