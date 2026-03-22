@@ -3207,10 +3207,7 @@
     "name": "CHRISTEN Jan",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
-      "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
+      "Milaan-Sanremo"
     ]
   },
   "rider/isaac-del-toro": {
@@ -3908,7 +3905,8 @@
     "name": "VENDRAME Andrea",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Amstel Gold Race"
     ]
   },
   "rider/mattia-gaffuri": {
@@ -4122,7 +4120,6 @@
     "races": [
       "Strade Bianche",
       "Milaan-Sanremo",
-      "E3 Saxo Classic",
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl"
@@ -5459,18 +5456,18 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/darren-van-bekkum": {
-    "name": "VAN BEKKUM Darren",
-    "races": [
-      "Amstel Gold Race"
-    ]
-  },
   "rider/christian-scaroni": {
     "name": "SCARONI Christian",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/darren-van-bekkum": {
+    "name": "VAN BEKKUM Darren",
+    "races": [
+      "Amstel Gold Race"
     ]
   },
   "rider/diego-ulissi": {
