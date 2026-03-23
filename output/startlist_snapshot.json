@@ -2650,7 +2650,6 @@
     "races": [
       "Samyn Classic",
       "Milaan-Sanremo",
-      "In Flanders Fields",
       "Amstel Gold Race"
     ]
   },
@@ -5545,6 +5544,12 @@
     "name": "LAFAY Victor",
     "races": [
       "Waalse Pijl"
+    ]
+  },
+  "rider/koen-bouwman": {
+    "name": "BOUWMAN Koen",
+    "races": [
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/alex-molenaar": {
