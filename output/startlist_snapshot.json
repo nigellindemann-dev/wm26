@@ -233,7 +233,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
-      "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
@@ -253,6 +253,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -264,6 +265,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -274,6 +276,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "Ronde van Vlaanderen"
     ]
@@ -296,7 +299,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen"
@@ -707,6 +709,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields"
     ]
@@ -728,6 +731,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -740,6 +744,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -753,7 +758,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Ronde van Brugge"
     ]
   },
   "rider/manlio-moro": {
@@ -944,6 +950,7 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -988,6 +995,7 @@
       "Omloop Nieuwsblad",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "Ronde van Brugge",
       "E3 Saxo Classic"
     ]
   },
@@ -1007,6 +1015,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -1953,6 +1962,7 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Nokere Koerse",
+      "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -1998,6 +2008,8 @@
     "name": "HOOLE Daan",
     "races": [
       "Kuurne-Brussel-Kuurne",
+      "E3 Saxo Classic",
+      "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -2128,6 +2140,7 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
+      "Ronde van Brugge",
       "In Flanders Fields"
     ]
   },
@@ -2137,6 +2150,7 @@
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
       "Milaan-Sanremo",
+      "Ronde van Brugge",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
@@ -2528,7 +2542,8 @@
     "races": [
       "Samyn Classic",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "Ronde van Brugge"
     ]
   },
   "rider/stan-van-tricht": {
@@ -3375,7 +3390,8 @@
     "name": "GAUTHERAT Pierre",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Ronde van Brugge"
     ]
   },
   "rider/noa-isidore": {
@@ -3667,6 +3683,7 @@
     "name": "TORRES Albert",
     "races": [
       "Strade Bianche",
+      "Ronde van Brugge",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
@@ -3681,6 +3698,7 @@
     "name": "SERRANO Gonzalo",
     "races": [
       "Strade Bianche",
+      "Ronde van Brugge",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
@@ -4785,7 +4803,8 @@
   "rider/tord-gudmestad": {
     "name": "GUDMESTAD Tord",
     "races": [
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Ronde van Brugge"
     ]
   },
   "rider/alastair-mackellar": {
@@ -4894,6 +4913,7 @@
     "name": "MILESI Lorenzo",
     "races": [
       "Milaan-Sanremo",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
@@ -4955,7 +4975,8 @@
   "rider/fabio-van-den-bossche": {
     "name": "VAN DEN BOSSCHE Fabio",
     "races": [
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Ronde van Brugge"
     ]
   },
   "rider/mauro-schmid": {
@@ -5124,6 +5145,21 @@
       "Milaan-Sanremo"
     ]
   },
+  "rider/oscar-chamberlain": {
+    "name": "CHAMBERLAIN Oscar",
+    "races": [
+      "Ronde van Brugge",
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/gianluca-pollefliet": {
+    "name": "POLLEFLIET Gianluca",
+    "races": [
+      "Ronde van Brugge"
+    ]
+  },
   "rider/milan-fretin": {
     "name": "FRETIN Milan",
     "races": [
@@ -5131,13 +5167,6 @@
       "In Flanders Fields",
       "Scheldeprijs",
       "Ronde van Limburg"
-    ]
-  },
-  "rider/tim-merlier": {
-    "name": "MERLIER Tim",
-    "races": [
-      "Ronde van Brugge",
-      "Scheldeprijs"
     ]
   },
   "rider/daniel-skerl": {
@@ -5150,14 +5179,6 @@
     "name": "STOCKWELL Oliver",
     "races": [
       "E3 Saxo Classic"
-    ]
-  },
-  "rider/oscar-chamberlain": {
-    "name": "CHAMBERLAIN Oscar",
-    "races": [
-      "E3 Saxo Classic",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
     ]
   },
   "rider/matthias-schwarzbacher": {
@@ -5333,6 +5354,12 @@
     "name": "KUDUS Merhawi",
     "races": [
       "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/tim-merlier": {
+    "name": "MERLIER Tim",
+    "races": [
+      "Scheldeprijs"
     ]
   },
   "rider/benoit-cosnefroy": {
