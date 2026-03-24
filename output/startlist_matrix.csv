@@ -35,7 +35,7 @@ BARRÉ Louis,rider/louis-barre,,,,,,,,,,,,,,,,,X,X,X,3/19
 BARTHE Cyril,rider/cyril-barthe,X,X,X,,X,X,,,,X,,,,,,,,,,6/19
 BASTIAENS Ayco,rider/ayco-bastiaens,,,X,,,,,,,X,,,,,,,,,,2/19
 BAUDIN Alex,rider/alex-baudin,,,,,,,,,,,,,,,,,X,X,X,3/19
-BAUHAUS Phil,rider/phil-bauhaus,,X,,,,,,,,X,,,,,,,,,,2/19
+BAUHAUS Phil,rider/phil-bauhaus,,X,,,,,,X,,X,,,,,,,,,,3/19
 BAYER Tobias,rider/tobias-bayer,X,,,,,X,,,X,,,,,,,,,,,3/19
 BEHRENS Eike,rider/eike-behrens,,,X,,,,,,,,,,,,,,,,,1/19
 BELLETTA Dario Igor,rider/dario-igor-belletta,,,,,,,X,,,,,,,,,,,,,1/19
@@ -65,7 +65,7 @@ BOIVIN Guillaume,rider/guillaume-boivin,X,X,,,,,,,X,X,X,X,,,,,,,,6/19
 BOL Cees,rider/cees-bol,X,X,,,,,,X,X,X,X,X,,,,,,,,7/19
 BOLLE Bert,rider/bert-bolle,,,X,,,X,,,,,,,,,,,,,,2/19
 BONNET Thomas,rider/thomas-bonnet,X,,,,,,,,X,X,,X,,,,,,,,4/19
-BORGO Alessandro,rider/alessandro-borgo,,X,X,,X,,X,,,X,X,,,,,,,,,6/19
+BORGO Alessandro,rider/alessandro-borgo,,X,X,,X,,X,X,,X,X,,,,,,,,,7/19
 BOUGLAS Georgios,rider/georgios-bouglas,X,X,,,,,,,,,,,,,,,,,,2/19
 BOULAHOITE Rayan,rider/rayan-boulahoite,,X,X,,,X,,,X,,X,,,,,,,,,5/19
 BOUMA Jelle,rider/jelle-bouma,,,X,,,,,,,,,,,,,,,,,1/19
@@ -79,7 +79,7 @@ BRENNAN Matthew,rider/matthew-brennan,X,X,,,,,,,,X,X,X,,X,,,,,,6/19
 BRINKMAN Joost,rider/joost-brinkman,,,,,,X,,,,,,,,,,,,,,1/19
 BRONSWIJK Mike,rider/mike-bronswijk,,,X,,,,,,,,,,,,,,,,,1/19
 BRUNEL Alexys,rider/alexys-brunel,X,X,,,X,,,,X,X,X,X,,,,,,,,7/19
-BRUTTOMESSO Alberto,rider/alberto-bruttomesso,,,X,,X,,,,,,,,,,,,,,,2/19
+BRUTTOMESSO Alberto,rider/alberto-bruttomesso,,,X,,X,,,X,,,,,,,,,,,,3/19
 BUDZIŃSKI Marcin,rider/marcin-budzinski,,,,X,,,,,,,,,,,,,,,,1/19
 BURNETT Josh,rider/josh-burnett,X,X,,,,,,,,,,X,,,,,,,,3/19
 BUSATTO Francesco,rider/francesco-busatto,,,,X,,,,,,,,,,,,,X,X,X,4/19
@@ -176,7 +176,7 @@ EINHORN Itamar,rider/itamar-einhorn,,,,,X,X,,,,,,,,,,,,,,2/19
 EISING Tijmen,rider/tijmen-eising,,,,,,X,,,,,,,,,,,,,,1/19
 ERIKSSON Jacob,rider/jacob-eriksson,,,,,,,X,,,,,,,,,,,,,1/19
 ERMAKOV Roman,rider/roman-ermakov,,,,,,,X,,,,,,,,,,,,,1/19
-ERŽEN Žak,rider/zak-erzen,,,X,,X,,,,X,,,,,,,,,,,3/19
+ERŽEN Žak,rider/zak-erzen,,,X,,X,,,X,X,,,,,,,,,,,4/19
 ETXEBERRIA Haimar,rider/haimar-etxeberria,,,,,X,,,,,,,,,,,,,,,1/19
 EULÁLIO Afonso,rider/afonso-eulalio,,,,X,,,,,,,,,,,,,,,X,2/19
 EVENEPOEL Remco,rider/remco-evenepoel,,,,,,,,,,,,,,,,,X,X,X,3/19
@@ -511,7 +511,7 @@ SIMMONS Colby,rider/colby-simmons,X,X,,,,,,,X,X,X,X,,,,,,,,6/19
 SIMMONS Quinn,rider/quinn-simmons,,,,X,,,,,,,,,,,,,X,,,2/19
 SIVAKOV Pavel,rider/pavel-sivakov,,,,,,,,,,,,,,,,,X,X,X,3/19
 SKAARSETH Anders,rider/anders-skaarseth,,,,X,,,X,,,,,,,,,,,,,2/19
-SKERL Daniel,rider/daniel-skerl,,,,,,,,,X,,,,,,,,,,,1/19
+SKERL Daniel,rider/daniel-skerl,,,,,,,,X,X,,,,,,,,,,,2/19
 SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,,,,,,,,,,,,,,,,,X,X,X,3/19
 SKUJIŅŠ Toms,rider/toms-skujins,X,X,,,,,,,,,,,,,,,,,,2/19
 SLOCK Liam,rider/liam-slock,,X,,X,,,X,,,,,,,,,,,,,3/19
@@ -524,7 +524,7 @@ STANNARD Robert,rider/robert-stannard,X,,X,,,,,,,,,,,,,,,,,2/19
 STENICO Mattia,rider/mattia-stenico,,,,X,,,,,,,,,,,,,,,,1/19
 STEWART Mark,rider/mark-stewart,,X,X,,,,,,,,,,,,,,,,,2/19
 STOCKMAN Abram,rider/abram-stockman,,,,,,X,,,,X,,,,,,,,,,2/19
-STOCKWELL Oliver,rider/oliver-stockwell,,,,,,,,,X,,,,,,,,,,,1/19
+STOCKWELL Oliver,rider/oliver-stockwell,,,,,,,,X,X,,,,,,,,,,,2/19
 STORK Florian,rider/florian-stork,,,,,,,X,,,,,,,,,,,,,1/19
 STRONG Corbin,rider/corbin-strong,,,,,,,X,,,,,,,,,,,,,1/19
 STUYVEN Jasper,rider/jasper-stuyven,,,,,,,X,,X,X,,X,,X,,,,,,5/19
@@ -581,7 +581,7 @@ VACEK Mathias,rider/mathias-vacek,X,,,,,,X,,X,X,,X,,X,,,,,,6/19
 VADER Milan,rider/milan-vader,,,,X,,,,,,,,,,,,,,,,1/19
 VADIC Baptiste,rider/baptiste-vadic,X,X,X,,X,X,,,X,,,,,,,,,,,6/19
 VALGREN Michael,rider/michael-valgren-andersen,,,,X,,,X,,X,X,,X,,X,,,,,,6/19
-VALTER Attila,rider/attila-valter,X,,,X,,,,,X,,,X,,,,,,,,4/19
+VALTER Attila,rider/attila-valter,X,,,X,,,,X,X,,,X,,,,,,,,5/19
 VAN AERT Wout,rider/wout-van-aert,,,X,X,,,X,,,X,X,X,,X,,,,,,7/19
 VAN ASBROECK Tom,rider/tom-van-asbroeck,X,,X,,,X,,,X,X,X,X,,,,,,,,7/19
 VAN BAARLE Dylan,rider/dylan-van-baarle,X,X,,,,,,,X,,X,X,,X,,,,,,6/19

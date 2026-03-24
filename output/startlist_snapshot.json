@@ -214,6 +214,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Strade Bianche",
+      "Ronde van Brugge",
       "E3 Saxo Classic",
       "Ronde van Vlaanderen"
     ]
@@ -1985,6 +1986,7 @@
       "Samyn Classic",
       "Nokere Koerse",
       "Milaan-Sanremo",
+      "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
@@ -2001,6 +2003,7 @@
     "name": "BAUHAUS Phil",
     "races": [
       "Kuurne-Brussel-Kuurne",
+      "Ronde van Brugge",
       "In Flanders Fields"
     ]
   },
@@ -3061,7 +3064,8 @@
     "name": "BRUTTOMESSO Alberto",
     "races": [
       "Samyn Classic",
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "Ronde van Brugge"
     ]
   },
   "rider/zak-erzen": {
@@ -3069,6 +3073,7 @@
     "races": [
       "Samyn Classic",
       "Nokere Koerse",
+      "Ronde van Brugge",
       "E3 Saxo Classic"
     ]
   },
@@ -5172,12 +5177,14 @@
   "rider/daniel-skerl": {
     "name": "SKERL Daniel",
     "races": [
+      "Ronde van Brugge",
       "E3 Saxo Classic"
     ]
   },
   "rider/oliver-stockwell": {
     "name": "STOCKWELL Oliver",
     "races": [
+      "Ronde van Brugge",
       "E3 Saxo Classic"
     ]
   },
