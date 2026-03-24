@@ -2948,3 +2948,24 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-24T13:15:05.995617Z,Ronde van Brugge,ADDED,MULLEN Ryan,rider/ryan-mullen
 2026-03-24T13:15:05.995617Z,Ronde van Brugge,ADDED,FLYNN Sean,rider/sean-flynn
 2026-03-24T13:15:05.995617Z,Ronde van Brugge,ADDED,MARCEROU Nicola,rider/nicola-marcerou
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,DE KLEIJN Arvid,rider/arvid-de-kleijn
+2026-03-24T19:05:03.732046Z,Dwars door Vlaanderen,ADDED,ROMELE Alessandro,rider/alessandro-romele
+2026-03-24T19:05:03.732046Z,E3 Saxo Classic,REMOVED,CORKERY Dillon,rider/dillon-corkery
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,CHAMBERLAIN Oscar,rider/oscar-chamberlain
+2026-03-24T19:05:03.732046Z,Dwars door Vlaanderen,REMOVED,GONOV Lev,rider/lev-gonov
+2026-03-24T19:05:03.732046Z,Dwars door Vlaanderen,ADDED,ERŽEN Žak,rider/zak-erzen
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,WITHEN PHILIPSEN Albert,rider/albert-withen-philipsen
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,LIENHARD Fabian,rider/fabian-lienhard
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,HONORÉ Mikkel Frølich,rider/mikkel-honore
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,MIHKELS Madis,rider/madis-mihkels
+2026-03-24T19:05:03.732046Z,Dwars door Vlaanderen,REMOVED,VAN MECHELEN Vlad,rider/vlad-van-mechelen
+2026-03-24T19:05:03.732046Z,E3 Saxo Classic,ADDED,JAKOBSEN Fabio,rider/fabio-jakobsen
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,GRADEK Kamil,rider/kamil-gradek
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,VALGREN Michael,rider/michael-valgren-andersen
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,BORGO Alessandro,rider/alessandro-borgo
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,REMOVED,MACKELLAR Alastair,rider/alastair-mackellar
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,GHYS Robbe,rider/robbe-ghys
+2026-03-24T19:05:03.732046Z,Ronde van Brugge,ADDED,SUNEKÆR NORSGAARD Mathias,rider/mathias-norsgaard
+2026-03-24T19:05:03.732046Z,Amstel Gold Race,REMOVED,VAN GILS Maxim,rider/maxim-van-gils
+2026-03-24T19:05:03.732046Z,Luik-Bastenaken-Luik,REMOVED,VAN GILS Maxim,rider/maxim-van-gils
+2026-03-24T19:05:03.732046Z,Waalse Pijl,REMOVED,VAN GILS Maxim,rider/maxim-van-gils
