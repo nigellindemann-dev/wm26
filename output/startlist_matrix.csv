@@ -91,7 +91,7 @@ BÖGLI Noah,rider/noah-bogli,,,X,,,,,,,,,,,,,,,,,1/19
 CAMPENAERTS Victor,rider/victor-campenaerts,,,,,,,X,,,,,,,,,,,,,1/19
 CAMPRUBÍ Marcel,rider/marcel-camprubi,,,,,,,X,,,,,,,,,,,,,1/19
 CANAL Carlos,rider/carlos-canal,X,X,,,,,,X,X,X,X,X,,,,,,,,7/19
-CAPIOT Amaury,rider/amaury-capiot,X,X,,,X,,,X,X,X,X,X,,X,X,,,,,10/19
+CAPIOT Amaury,rider/amaury-capiot,X,X,,,X,,,X,,,,,,,,,,,,4/19
 CARAPAZ Richard,rider/richard-carapaz,,,,X,,,,,,,,,,,,,,,,1/19
 CARDINAL Nathan,rider/nathan-cardinal,,,X,,,,,,,,,,,,,,,,,1/19
 CARUSO Damiano,rider/damiano-caruso,,,,,,,X,,,,,,,,,,,,,1/19
@@ -303,7 +303,7 @@ KOPECKÝ Matyáš,rider/matyas-kopecky,X,X,,,X,,,,,X,X,X,,X,,,,,,7/19
 KOPECKÝ Tomáš,rider/tomas-kopecky,X,,X,,,,X,,,X,X,X,,,,,,,,6/19
 KOYAMA Tomoya,rider/tomoya-koyama,,,,,,,,X,,,,,,,,,,,,1/19
 KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,X,,,,,,X,,X,X,X,X,,X,,,,,,7/19
-KRIJNSEN Jelte,rider/jelte-krijnsen,X,X,,,,X,,X,,X,X,,,X,,,,,,7/19
+KRIJNSEN Jelte,rider/jelte-krijnsen,X,X,,,,X,,X,X,X,X,,,X,,,,,,8/19
 KRON Andreas,rider/andreas-kron,,,,X,,,,,,,,,,,,,,,,1/19
 KROONEN Max,rider/max-kroonen,,,X,,,X,,,,,,,,,,,,,,2/19
 KUBIŠ Lukáš,rider/lukas-kubis,X,,X,,X,,X,,,X,X,X,,X,,,,,,8/19
@@ -334,7 +334,7 @@ LIENHARD Fabian,rider/fabian-lienhard,,,,,X,X,,X,X,,,,,,,,,,,4/19
 LIEPIŅŠ Emīls,rider/emils-liepins,,,,,X,X,,,,X,X,X,,,,,,,,5/19
 LIVYNS Arjen,rider/arjen-livyns,X,,,,X,X,,X,X,X,X,X,,,,,,,,8/19
 LONARDI Giovanni,rider/giovanni-lonardi,,,,,,,X,,,,,,,,,,,,,1/19
-LOOCKX Lander,rider/lander-loockx,,,,X,,,,,X,,,,,,,,,,,2/19
+LOOCKX Lander,rider/lander-loockx,,,,X,,,,,X,,,,,,,X,X,,,4/19
 LOUVEL Matis,rider/matis-louvel,X,X,,,,,,,X,X,X,X,,X,,,,,,7/19
 LOWAGIE Arthur,rider/arthur-lowagie,,,X,,,,,,,,,,,,,,,,,1/19
 LOZANO David,rider/david-lozano,,,,,,,X,,,,,,,,,,,,,1/19
@@ -467,7 +467,7 @@ RAISBERG Nadav,rider/nadav-raisberg,,,,,X,X,,X,X,,X,,,,,,,,,5/19
 RASENBERG Martijn,rider/martijn-rasenberg,X,X,,,X,X,,,,,,X,,,,,,,,5/19
 RAUGEL Antoine,rider/antoine-raugel,,,X,,,,,,,,,,,,,,,,,1/19
 REINDERINK Pepijn,rider/pepijn-reinderink,X,,,X,,,X,,X,,X,X,,,,,,,,6/19
-REINDERS Elmar,rider/elmar-reinders,,X,X,,,X,,X,,X,,,X,,,,,,,6/19
+REINDERS Elmar,rider/elmar-reinders,,X,X,,,X,,X,,,,,X,,,,,,,5/19
 RENARD Alexis,rider/alexis-renard,X,X,X,,,X,,X,,X,X,,,X,,,,,,8/19
 RENARD-HAQUIN Henri-François,rider/henri-francois-renard-haquin,X,,X,,X,X,,X,X,,X,X,,,,,,,,8/19
 RESELL Erik Nordsæter,rider/erik-nordsaeter-resell,X,X,,,,,X,X,,X,X,X,,,,,,,,7/19

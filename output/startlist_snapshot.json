@@ -1039,13 +1039,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
-      "Ronde van Brugge",
-      "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
-      "Ronde van Limburg"
+      "Ronde van Brugge"
     ]
   },
   "rider/dries-de-bondt": {
@@ -1104,6 +1098,7 @@
       "Kuurne-Brussel-Kuurne",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Parijs-Roubaix"
@@ -2545,7 +2540,6 @@
       "Samyn Classic",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "In Flanders Fields",
       "Scheldeprijs"
     ]
   },
@@ -4196,7 +4190,9 @@
     "name": "LOOCKX Lander",
     "races": [
       "Strade Bianche",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/clement-venturini": {
@@ -5593,18 +5589,18 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/darren-van-bekkum": {
+    "name": "VAN BEKKUM Darren",
+    "races": [
+      "Amstel Gold Race"
+    ]
+  },
   "rider/christian-scaroni": {
     "name": "SCARONI Christian",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/darren-van-bekkum": {
-    "name": "VAN BEKKUM Darren",
-    "races": [
-      "Amstel Gold Race"
     ]
   },
   "rider/diego-ulissi": {

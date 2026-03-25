@@ -3025,3 +3025,13 @@ timestamp,race,change_type,rider_name,rider_url
 2026-03-25T13:13:50.160475Z,E3 Saxo Classic,ADDED,MARCEROU Nicola,rider/nicola-marcerou
 2026-03-25T13:13:50.160475Z,E3 Saxo Classic,REMOVED,LAMPERTI Luke,rider/luke-lamperti
 2026-03-25T13:13:50.160475Z,E3 Saxo Classic,REMOVED,GONOV Lev,rider/lev-gonov
+2026-03-25T18:57:17.473900Z,Amstel Gold Race,ADDED,LOOCKX Lander,rider/lander-loockx
+2026-03-25T18:57:17.473900Z,Brabantse Pijl,ADDED,LOOCKX Lander,rider/lander-loockx
+2026-03-25T18:57:17.473900Z,E3 Saxo Classic,ADDED,KRIJNSEN Jelte,rider/jelte-krijnsen
+2026-03-25T18:57:17.473900Z,In Flanders Fields,REMOVED,REINDERS Elmar,rider/elmar-reinders
+2026-03-25T18:57:17.473900Z,Ronde van Vlaanderen,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-25T18:57:17.473900Z,E3 Saxo Classic,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-25T18:57:17.473900Z,Parijs-Roubaix,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-25T18:57:17.473900Z,Ronde van Limburg,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-25T18:57:17.473900Z,Dwars door Vlaanderen,REMOVED,CAPIOT Amaury,rider/amaury-capiot
+2026-03-25T18:57:17.473900Z,In Flanders Fields,REMOVED,CAPIOT Amaury,rider/amaury-capiot
