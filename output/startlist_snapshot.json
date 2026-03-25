@@ -218,16 +218,14 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Ronde van Brugge",
-      "E3 Saxo Classic",
-      "Ronde van Vlaanderen"
+      "E3 Saxo Classic"
     ]
   },
   "rider/vlad-van-mechelen": {
     "name": "VAN MECHELEN Vlad",
     "races": [
       "Omloop Nieuwsblad",
-      "In Flanders Fields",
-      "Ronde van Vlaanderen"
+      "In Flanders Fields"
     ]
   },
   "rider/tobias-lund-andresen": {
@@ -1114,7 +1112,6 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -1867,7 +1864,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/thomas-bonnet": {
@@ -1917,8 +1915,7 @@
       "Omloop Nieuwsblad",
       "Samyn Classic",
       "Bredene Koksijde Classic",
-      "Ronde van Brugge",
-      "Ronde van Vlaanderen"
+      "Ronde van Brugge"
     ]
   },
   "rider/matyas-kopecky": {
@@ -1963,8 +1960,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/martijn-rasenberg": {
@@ -1973,7 +1969,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/silvan-dillier": {
@@ -2034,7 +2031,8 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Samyn Classic",
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/phil-bauhaus": {
@@ -2042,7 +2040,8 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/daan-hoole": {
@@ -2219,7 +2218,8 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Ronde van Brugge"
+      "Ronde van Brugge",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/pavel-bittner": {
@@ -4734,8 +4734,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/tobias-muller1": {
@@ -4750,7 +4749,8 @@
     "races": [
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/scott-mcgill": {
@@ -5085,7 +5085,8 @@
     "name": "SÜTTERLIN Jasha",
     "races": [
       "Milaan-Sanremo",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/andrea-peron": {
@@ -5458,12 +5459,6 @@
     "races": [
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
-    ]
-  },
-  "rider/michael-matthews": {
-    "name": "MATTHEWS Michael",
-    "races": [
-      "Ronde van Vlaanderen"
     ]
   },
   "rider/fabio-christen": {
