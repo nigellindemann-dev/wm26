@@ -243,7 +243,6 @@
     "name": "BISSEGGER Stefan",
     "races": [
       "Omloop Nieuwsblad",
-      "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
@@ -267,6 +266,7 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -310,7 +310,6 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
-      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -354,6 +353,7 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -549,7 +549,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Milaan-Sanremo",
-      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -591,6 +590,7 @@
       "Kuurne-Brussel-Kuurne",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -802,7 +802,6 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
-      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -1108,6 +1107,7 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "Dwars door Vlaanderen"
     ]
   },
@@ -1127,7 +1127,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
@@ -1138,6 +1137,7 @@
       "Omloop Nieuwsblad",
       "Samyn Classic",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -1298,6 +1298,7 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
@@ -1470,11 +1471,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Ronde van Brugge",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
+      "Ronde van Brugge"
     ]
   },
   "rider/hugo-page": {
@@ -2144,6 +2141,7 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
       "Scheldeprijs",
@@ -4318,8 +4316,7 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "Ronde van Brugge"
     ]
   },
   "rider/vegard-stake-laengen": {
@@ -4876,6 +4873,7 @@
     "name": "ZAMPERINI Edoardo",
     "races": [
       "Milaan-Sanremo",
+      "In Flanders Fields",
       "Dwars door Vlaanderen"
     ]
   },
@@ -4898,6 +4896,7 @@
     "races": [
       "Milaan-Sanremo",
       "Ronde van Brugge",
+      "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
