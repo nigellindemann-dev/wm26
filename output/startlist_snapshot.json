@@ -610,7 +610,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
@@ -622,6 +621,7 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -747,7 +747,8 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "Ronde van Brugge",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/jon-barrenetxea-golzarri": {
@@ -797,7 +798,8 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/manlio-moro": {
@@ -807,7 +809,6 @@
       "Kuurne-Brussel-Kuurne",
       "Strade Bianche",
       "Milaan-Sanremo",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -1117,6 +1118,7 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Brabantse Pijl",
       "Amstel Gold Race"
     ]
@@ -1129,7 +1131,6 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -1272,10 +1273,7 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
+      "In Flanders Fields"
     ]
   },
   "rider/christophe-laporte": {
@@ -1778,6 +1776,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -1888,6 +1887,7 @@
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -1911,6 +1911,7 @@
       "Bredene Koksijde Classic",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Amstel Gold Race"
     ]
@@ -1933,7 +1934,6 @@
     "name": "BONNET Thomas",
     "races": [
       "Omloop Nieuwsblad",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
       "Amstel Gold Race"
@@ -1945,6 +1945,7 @@
       "Omloop Nieuwsblad",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -1957,7 +1958,6 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen",
       "Scheldeprijs",
       "Brabantse Pijl"
     ]
@@ -2082,7 +2082,6 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Dwars door Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg"
     ]
@@ -2201,6 +2200,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg"
     ]
@@ -2591,6 +2591,7 @@
       "Samyn Classic",
       "Bredene Koksijde Classic",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2601,6 +2602,7 @@
       "Samyn Classic",
       "Ronde van Brugge",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
@@ -3941,7 +3943,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -4245,6 +4246,7 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Amstel Gold Race"
     ]
   },
@@ -4953,7 +4955,8 @@
   "rider/jensen-plowright": {
     "name": "PLOWRIGHT Jensen",
     "races": [
-      "Bredene Koksijde Classic"
+      "Bredene Koksijde Classic",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/henri-uhlig": {
@@ -5172,8 +5175,7 @@
   "rider/alastair-mackellar": {
     "name": "MACKELLAR Alastair",
     "races": [
-      "Milaan-Sanremo",
-      "Dwars door Vlaanderen"
+      "Milaan-Sanremo"
     ]
   },
   "rider/madis-mihkels": {
@@ -5650,7 +5652,8 @@
     "name": "WALKER Max",
     "races": [
       "E3 Saxo Classic",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/jan-tratnik": {
@@ -5751,35 +5754,6 @@
     "races": [
       "Dwars door Vlaanderen",
       "Scheldeprijs"
-    ]
-  },
-  "rider/mathieu-burgaudeau": {
-    "name": "BURGAUDEAU Mathieu",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Brabantse Pijl"
-    ]
-  },
-  "rider/joris-delbove": {
-    "name": "DELBOVE Joris",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Amstel Gold Race"
-    ]
-  },
-  "rider/alan-jousseaume": {
-    "name": "JOUSSEAUME Alan",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Brabantse Pijl"
-    ]
-  },
-  "rider/valentin-retailleau": {
-    "name": "RETAILLEAU Valentin",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
     ]
   },
   "rider/toon-aerts": {
@@ -6278,6 +6252,25 @@
       "Amstel Gold Race"
     ]
   },
+  "rider/mathieu-burgaudeau": {
+    "name": "BURGAUDEAU Mathieu",
+    "races": [
+      "Brabantse Pijl"
+    ]
+  },
+  "rider/alan-jousseaume": {
+    "name": "JOUSSEAUME Alan",
+    "races": [
+      "Brabantse Pijl"
+    ]
+  },
+  "rider/valentin-retailleau": {
+    "name": "RETAILLEAU Valentin",
+    "races": [
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
   "rider/matheo-vercher": {
     "name": "VERCHER Mattéo",
     "races": [
@@ -6421,6 +6414,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/joris-delbove": {
+    "name": "DELBOVE Joris",
+    "races": [
+      "Amstel Gold Race"
+    ]
+  },
   "rider/alexandre-delettre": {
     "name": "DELETTRE Alexandre",
     "races": [
@@ -6446,7 +6445,8 @@
   "rider/lenny-martinez": {
     "name": "MARTINEZ Lenny",
     "races": [
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/aurelien-paret-peintre": {
