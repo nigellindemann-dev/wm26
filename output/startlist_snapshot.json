@@ -254,6 +254,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -266,7 +267,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -289,6 +289,7 @@
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Amstel Gold Race"
     ]
@@ -417,7 +418,8 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/thibaud-gruel": {
@@ -481,7 +483,6 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -524,7 +525,8 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/ben-swift": {
@@ -541,7 +543,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Amstel Gold Race"
     ]
@@ -976,6 +977,7 @@
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -1241,6 +1243,7 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -1535,6 +1538,7 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -1601,6 +1605,7 @@
       "Nokere Koerse",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg"
     ]
@@ -1639,7 +1644,6 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Parijs-Roubaix"
@@ -1687,7 +1691,6 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -1710,6 +1713,7 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg",
       "Brabantse Pijl"
@@ -1723,6 +1727,7 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Ronde van Limburg",
       "Brabantse Pijl"
     ]
@@ -2284,6 +2289,7 @@
       "Milaan-Sanremo",
       "Ronde van Brugge",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -2633,7 +2639,8 @@
     "races": [
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/hartthijs-de-vries": {
@@ -2789,6 +2796,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -3716,6 +3724,7 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -4028,6 +4037,7 @@
     "name": "HERMANS Quinten",
     "races": [
       "Strade Bianche",
+      "Dwars door Vlaanderen",
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl",
@@ -4672,8 +4682,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
-      "In Flanders Fields",
-      "Dwars door Vlaanderen"
+      "In Flanders Fields"
     ]
   },
   "rider/rotem-tene": {
@@ -4754,7 +4763,8 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/sebastian-kolze-changizi": {
@@ -4807,6 +4817,7 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "Dwars door Vlaanderen",
       "Ronde van Limburg"
     ]
   },
@@ -4818,7 +4829,6 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg"
     ]
@@ -5162,6 +5172,7 @@
       "Milaan-Sanremo",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -5185,8 +5196,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -5653,7 +5662,8 @@
     "races": [
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/jan-tratnik": {
@@ -5661,7 +5671,6 @@
     "races": [
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Amstel Gold Race",
       "Luik-Bastenaken-Luik"
@@ -5688,7 +5697,6 @@
     "races": [
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
     ]
   },
@@ -5717,18 +5725,22 @@
   "rider/jambaljamts-sainbayar": {
     "name": "SAINBAYAR Jambaljamts",
     "races": [
-      "In Flanders Fields"
+      "In Flanders Fields",
+      "Ronde van Vlaanderen"
+    ]
+  },
+  "rider/benoit-cosnefroy": {
+    "name": "COSNEFROY Benoît",
+    "races": [
+      "Dwars door Vlaanderen",
+      "Brabantse Pijl",
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/callum-thornley": {
     "name": "THORNLEY Callum",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/oscar-chamberlain": {
-    "name": "CHAMBERLAIN Oscar",
     "races": [
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
@@ -5742,18 +5754,10 @@
       "Scheldeprijs"
     ]
   },
-  "rider/marius-mayrhofer": {
-    "name": "MAYRHOFER Marius",
+  "rider/oscar-chamberlain": {
+    "name": "CHAMBERLAIN Oscar",
     "races": [
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/maikel-zijlaard": {
-    "name": "ZIJLAARD Maikel",
-    "races": [
-      "Dwars door Vlaanderen",
-      "Scheldeprijs"
     ]
   },
   "rider/toon-aerts": {
@@ -5765,22 +5769,8 @@
       "Amstel Gold Race"
     ]
   },
-  "rider/fabio-christen": {
-    "name": "CHRISTEN Fabio",
-    "races": [
-      "Ronde van Vlaanderen",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
-    ]
-  },
-  "rider/merhawi-kudus": {
-    "name": "KUDUS Merhawi",
-    "races": [
-      "Ronde van Vlaanderen"
-    ]
-  },
-  "rider/lorenzo-quartucci": {
-    "name": "QUARTUCCI Lorenzo",
+  "rider/marius-mayrhofer": {
+    "name": "MAYRHOFER Marius",
     "races": [
       "Ronde van Vlaanderen"
     ]
@@ -5848,6 +5838,12 @@
   },
   "rider/juan-david-sierra": {
     "name": "SIERRA Juan David",
+    "races": [
+      "Scheldeprijs"
+    ]
+  },
+  "rider/maikel-zijlaard": {
+    "name": "ZIJLAARD Maikel",
     "races": [
       "Scheldeprijs"
     ]
@@ -6202,15 +6198,6 @@
       "Brabantse Pijl"
     ]
   },
-  "rider/benoit-cosnefroy": {
-    "name": "COSNEFROY Benoît",
-    "races": [
-      "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
   "rider/jhonatan-narvaez": {
     "name": "NARVÁEZ Jhonatan",
     "races": [
@@ -6247,6 +6234,13 @@
   },
   "rider/sam-maisonobe": {
     "name": "MAISONOBE Sam",
+    "races": [
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/fabio-christen": {
+    "name": "CHRISTEN Fabio",
     "races": [
       "Brabantse Pijl",
       "Amstel Gold Race"
