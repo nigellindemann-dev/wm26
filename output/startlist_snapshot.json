@@ -725,6 +725,7 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "E3 Saxo Classic",
+      "Dwars door Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2219,7 +2220,6 @@
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2289,7 +2289,6 @@
       "Milaan-Sanremo",
       "Ronde van Brugge",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
@@ -2720,6 +2719,7 @@
     "races": [
       "Samyn Classic",
       "Strade Bianche",
+      "Dwars door Vlaanderen",
       "Ronde van Limburg"
     ]
   },
