@@ -2288,8 +2288,7 @@
       "Samyn Classic",
       "Milaan-Sanremo",
       "Ronde van Brugge",
-      "In Flanders Fields",
-      "Parijs-Roubaix"
+      "In Flanders Fields"
     ]
   },
   "rider/pascal-ackermann": {
@@ -5877,18 +5876,6 @@
   },
   "rider/mikita-babovich": {
     "name": "BABOVICH Mikita",
-    "races": [
-      "Ronde van Limburg"
-    ]
-  },
-  "rider/thomas-capra": {
-    "name": "CAPRA Thomas",
-    "races": [
-      "Ronde van Limburg"
-    ]
-  },
-  "rider/mihajlo-stolic": {
-    "name": "STOLIĆ Mihajlo",
     "races": [
       "Ronde van Limburg"
     ]
