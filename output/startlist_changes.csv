@@ -9168,3 +9168,16 @@ timestamp,race,change_type,rider_name,rider_url
 2026-04-01T13:25:10.274879Z,Ronde van Vlaanderen,ADDED,LAMBRECHT Michiel,rider/michiel-lambrecht
 2026-04-01T13:25:10.274879Z,Ronde van Vlaanderen,ADDED,BARTHE Cyril,rider/cyril-barthe
 2026-04-01T13:25:10.274879Z,Ronde van Vlaanderen,ADDED,NABERMAN Tim,rider/tim-naberman
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,THORNLEY Callum,rider/callum-thornley
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,PEDERSEN Casper,rider/casper-pedersen
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,SMITH Dion,rider/dion-smith
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,ERŽEN Žak,rider/zak-erzen
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,EVENEPOEL Remco,rider/remco-evenepoel
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,PEDERSEN Rasmus Søjberg,rider/rasmus-sojbergpedersen
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,VAN TRICHT Floris,rider/floris-van-tricht
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,ADDED,VERVENNE Jonathan,rider/jonathan-vervenne
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,BOIVIN Guillaume,rider/guillaume-boivin
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,LAMPAERT Yves,rider/yves-lampaert
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,MULLEN Ryan,rider/ryan-mullen
+2026-04-01T19:03:57.774074Z,Ronde van Vlaanderen,REMOVED,CHAMBERLAIN Oscar,rider/oscar-chamberlain
