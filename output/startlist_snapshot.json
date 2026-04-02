@@ -2208,7 +2208,9 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs",
+      "Parijs-Roubaix",
       "Ronde van Limburg"
     ]
   },
@@ -5372,7 +5374,6 @@
     "name": "SCHMID Mauro",
     "races": [
       "Milaan-Sanremo",
-      "Ronde van Vlaanderen",
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl",
