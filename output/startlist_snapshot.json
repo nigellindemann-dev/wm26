@@ -393,10 +393,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
-      "Ronde van Brugge",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
-      "Amstel Gold Race"
+      "Ronde van Brugge"
     ]
   },
   "rider/valentin-madouas": {
@@ -584,8 +581,7 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Nokere Koerse",
-      "Bredene Koksijde Classic",
-      "Ronde van Vlaanderen"
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/tim-torn-teutenberg": {
@@ -2044,7 +2040,6 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2640,7 +2635,8 @@
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/hartthijs-de-vries": {
@@ -4765,7 +4761,8 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/sebastian-kolze-changizi": {
@@ -5774,12 +5771,6 @@
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/marius-mayrhofer": {
-    "name": "MAYRHOFER Marius",
-    "races": [
-      "Ronde van Vlaanderen"
     ]
   },
   "rider/tim-merlier": {
