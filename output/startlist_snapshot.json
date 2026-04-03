@@ -643,7 +643,6 @@
       "Kuurne-Brussel-Kuurne",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -6489,6 +6488,12 @@
   },
   "rider/victor-lafay": {
     "name": "LAFAY Victor",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
+  "rider/killian-verschuren": {
+    "name": "VERSCHUREN Killian",
     "races": [
       "Waalse Pijl"
     ]
