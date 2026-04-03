@@ -523,7 +523,8 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Ronde van Brugge",
-      "E3 Saxo Classic"
+      "E3 Saxo Classic",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/ben-swift": {
@@ -1334,7 +1335,6 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -1346,7 +1346,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Brabantse Pijl"
     ]
   },
@@ -2030,6 +2029,7 @@
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2040,6 +2040,7 @@
       "Kuurne-Brussel-Kuurne",
       "Nokere Koerse",
       "Bredene Koksijde Classic",
+      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2074,7 +2075,6 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -2190,7 +2190,6 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
@@ -2247,7 +2246,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Parijs-Roubaix"
     ]
@@ -3536,7 +3534,8 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/emiel-verstrynge": {
@@ -5018,7 +5017,6 @@
     "races": [
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg",
       "Amstel Gold Race"
@@ -5592,8 +5590,7 @@
     "races": [
       "Ronde van Brugge",
       "In Flanders Fields",
-      "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Dwars door Vlaanderen"
     ]
   },
   "rider/simone-consonni": {
@@ -5735,6 +5732,7 @@
     "name": "COSNEFROY Benoît",
     "races": [
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl",
