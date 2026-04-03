@@ -697,6 +697,7 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
+      "Ronde van Vlaanderen",
       "Scheldeprijs"
     ]
   },
@@ -707,6 +708,7 @@
       "Kuurne-Brussel-Kuurne",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
+      "Ronde van Vlaanderen",
       "Ronde van Limburg",
       "Brabantse Pijl",
       "Amstel Gold Race"
@@ -1664,6 +1666,7 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Ronde van Vlaanderen",
       "Ronde van Limburg",
       "Brabantse Pijl"
     ]
@@ -1707,7 +1710,6 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg",
       "Brabantse Pijl"
@@ -5255,7 +5257,6 @@
       "Milaan-Sanremo",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
       "Parijs-Roubaix"
     ]
   },
