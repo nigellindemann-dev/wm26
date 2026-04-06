@@ -1452,7 +1452,8 @@
       "Bredene Koksijde Classic",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/mike-teunissen": {
@@ -3724,7 +3725,9 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/clement-braz-afonso": {
@@ -5587,7 +5590,8 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/sam-welsford": {
