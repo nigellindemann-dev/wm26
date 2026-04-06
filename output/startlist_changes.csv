@@ -9266,3 +9266,8 @@ timestamp,race,change_type,rider_name,rider_url
 2026-04-04T18:43:37.580539Z,Amstel Gold Race,ADDED,DEL GROSSO Tibor,rider/tibor-del-grosso
 2026-04-05T13:00:14.563654Z,Ronde van Limburg,REMOVED,DE VRIES Hartthijs,rider/hartthijs-de-vries
 2026-04-05T18:46:25.365905Z,Scheldeprijs,REMOVED,BELMANS Lennert,rider/lennert-belmans
+2026-04-06T13:14:05.089570Z,Parijs-Roubaix,ADDED,RASENBERG Martijn,rider/martijn-rasenberg
+2026-04-06T13:14:05.089570Z,Parijs-Roubaix,ADDED,HUENS Axel,rider/axel-huens
+2026-04-06T13:14:05.089570Z,Parijs-Roubaix,ADDED,KOPECKÝ Tomáš,rider/tomas-kopecky
+2026-04-06T13:14:05.089570Z,Scheldeprijs,REMOVED,TEUNS Dylan,rider/dylan-teuns
+2026-04-06T13:14:05.089570Z,Scheldeprijs,ADDED,IZQUIERDO Clément,rider/clement-izquierdo

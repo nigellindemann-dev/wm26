@@ -443,7 +443,8 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/johan-jacobs": {
@@ -1545,7 +1546,6 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs",
       "Brabantse Pijl",
       "Amstel Gold Race",
       "Waalse Pijl",
@@ -2006,7 +2006,8 @@
       "Milaan-Sanremo",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/lukas-kubis": {
@@ -2041,7 +2042,8 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/silvan-dillier": {
@@ -5149,6 +5151,7 @@
     "name": "IZQUIERDO Clément",
     "races": [
       "Milaan-Sanremo",
+      "Scheldeprijs",
       "Ronde van Limburg",
       "Brabantse Pijl"
     ]
