@@ -988,6 +988,7 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
+      "Scheldeprijs",
       "Parijs-Roubaix"
     ]
   },
@@ -1008,7 +1009,8 @@
       "Omloop Nieuwsblad",
       "Milaan-Sanremo",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Scheldeprijs"
     ]
   },
   "rider/pepijn-reinderink": {
@@ -1031,8 +1033,7 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/dylan-van-baarle": {
@@ -1077,7 +1078,6 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs",
       "Parijs-Roubaix",
       "Ronde van Limburg"
     ]
@@ -1106,7 +1106,8 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Scheldeprijs"
     ]
   },
   "rider/anders-foldager": {
@@ -1187,7 +1188,8 @@
       "Ronde van Brugge",
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/timo-roosen": {
@@ -1208,7 +1210,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/frank-van-den-broek": {
@@ -2333,6 +2336,7 @@
       "Bredene Koksijde Classic",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Parijs-Roubaix",
       "Amstel Gold Race"
     ]
   },
@@ -2352,7 +2356,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/matisse-van-kerckhove": {
@@ -2856,8 +2861,7 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "E3 Saxo Classic",
-      "Scheldeprijs"
+      "E3 Saxo Classic"
     ]
   },
   "rider/danny-van-poppel": {
@@ -4220,7 +4224,8 @@
     "name": "DHONDT Robbe",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Scheldeprijs"
     ]
   },
   "rider/matthew-dinham": {
@@ -5760,7 +5765,8 @@
     "races": [
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/toon-aerts": {
