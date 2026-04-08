@@ -270,7 +270,7 @@ GUILLEMETTE Mathias,rider/mathias-guillemette,,,,,X,X,,,,,,,,,,,,,,2/19
 GULLHAV Kristoffer,rider/kristoffer-gullhav,,,X,,,,,,,,,,,,,,,,,1/19
 HAGENES Per Strand,rider/per-strand-hagenes,X,,X,,,,,,X,,X,X,,,,,,,,5/19
 HAIG Jack,rider/jack-haig,,,,X,,,X,,,,,,,,,,,,,2/19
-HALLER Marco,rider/marco-haller,X,X,,,,,X,,X,X,,X,,,,,,,,6/19
+HALLER Marco,rider/marco-haller,X,X,,,,,X,,X,X,,X,,X,,,,,,7/19
 HAMILTON Lucas,rider/lucas-hamilton,,,,X,,,,X,,,,,,,,,,,,2/19
 HANNES Victor,rider/victor-hannes,,,X,,,,,,,,,,,,,,,,,1/19
 HARTEEL Jelle,rider/jelle-harteel,,,X,,X,,,,,,,,X,,,X,,,,4/19
@@ -321,14 +321,14 @@ JOUSSEAUME Alan,rider/alan-jousseaume,,,,,,,,,,,,,,,,X,,,,1/19
 JUUL-JENSEN Christopher,rider/christopher-juul-jensen,,,,,,,X,,,,,,,,X,,,,,2/19
 KAMP Alexander,rider/alexander-kamp,,,,,,,,,,,,,,,,,X,,,1/19
 KANTER Max,rider/max-kanter,,X,,,X,X,,X,,X,,,,,,,,,,5/19
-KELEMEN Petr,rider/petr-kelemen,X,X,,,,,,X,,X,X,,X,,,,,,,6/19
+KELEMEN Petr,rider/petr-kelemen,X,X,,,,,,X,,X,X,,X,X,,,,,,7/19
 KERCKHAERT Jochem,rider/jochem-kerckhaert,,,X,,,X,,,,,,,,,,X,,,,3/19
 KESSLER Cole,rider/cole-kessler,,X,,,X,,,,,,,,,,,,,,,2/19
 KIELICH Timo,rider/timo-kielich,X,X,,X,,,X,,X,X,,,,,,,,,,6/19
 KILLY Jonah,rider/jonah-killy,,,,,X,X,,,,,,,X,,X,X,,,,5/19
 KING Matthew,rider/matthew-king1,,,X,,,,,,,,,,,,,,,,,1/19
 KIRSCH Alex,rider/alex-kirsch,X,X,,,,,,X,,,,,,,,,,,,3/19
-KLUCKERS Arthur,rider/arthur-kluckers,,,,,,,X,,X,X,,X,,,,,,,,4/19
+KLUCKERS Arthur,rider/arthur-kluckers,,,,,,,X,,X,X,,X,,X,,,,,,5/19
 KMÍNEK Vojtěch,rider/vojtech-kminek,X,X,,,,,,X,X,,X,,X,,X,X,,,,8/19
 KNIGHT Oliver,rider/oliver-knight,,,,,,,,,,,,,,,X,X,,,,2/19
 KNOX James,rider/james-knox,,,,X,,,,,,,,,,,,,,,,1/19
@@ -369,7 +369,7 @@ LEFEVRE Fabrice,rider/fabrice-lefevre,,,,,,,,,,,,,,,X,,,,,1/19
 LEITÃO Iúri,rider/iuri-leitao,,,,,X,X,,,,,,,,,,,,,,2/19
 LEKNESSUND Andreas,rider/andreas-leknessund,,,,,,,,,,,,,,,,X,X,,,2/19
 LEROUX Samuel,rider/samuel-leroux,X,X,,,,X,,X,,X,X,X,X,X,,,,,,9/19
-LIENHARD Fabian,rider/fabian-lienhard,,,,,X,X,,X,X,X,X,X,X,,,,,,,8/19
+LIENHARD Fabian,rider/fabian-lienhard,,,,,X,X,,X,X,X,X,X,X,X,,,,,,9/19
 LIEPIŅŠ Emīls,rider/emils-liepins,,,,,X,X,,,,X,X,X,X,,,,,,,6/19
 LIVYNS Arjen,rider/arjen-livyns,X,,,,X,X,,X,X,X,X,X,,,,,,,,8/19
 LONARDI Giovanni,rider/giovanni-lonardi,,,,,,,X,,,,,,,,,,,,,1/19
@@ -409,7 +409,7 @@ MARX Louis,rider/louis-marx,,,X,,,,,,,,,,,,,,,,,1/19
 MATTHEWS Michael,rider/michael-matthews,,,,,,,,,,,,,,,,X,X,,,2/19
 MATTIO Pietro,rider/pietro-mattio,X,X,X,X,,,,,,,X,,,,,,,,,5/19
 MAYER Alexandre,rider/alexandre-mayer,X,X,,,,,,X,X,,,,,,X,X,,,,6/19
-MAYRHOFER Marius,rider/marius-mayrhofer,,,,,,,,,,,,,X,,,,,,,1/19
+MAYRHOFER Marius,rider/marius-mayrhofer,,,,,,,,,,,,,X,X,,,,,,2/19
 MAŁECKI Kamil,rider/kamil-malecki,X,X,,,X,,,,X,,X,X,X,,X,,,,,8/19
 MCDONALD Brody,rider/brody-mcdonald,,,X,,X,X,,,,,,,X,,X,,,,,5/19
 MCGILL Scott,rider/scott-mcgill,,,,,,X,,,,,,,X,,X,,,,,3/19
@@ -426,7 +426,7 @@ MEZGEC Luka,rider/luka-mezgec,,X,,,X,X,,X,,X,,X,X,,X,,,,,8/19
 MICHIELSEN Thor,rider/thor-michielsen,,,,,X,,,,,,,,X,,,,,,,2/19
 MIHKELS Madis,rider/madis-mihkels,,,,,,,X,X,X,X,,,,X,,,,,,5/19
 MIHOLJEVIĆ Fran,rider/fran-miholjevic,,,,X,,,X,,,,,,,,,,X,,,3/19
-MIKUTIS Aivaras,rider/aivaras-mikutis,X,X,,,X,X,,X,X,,X,,X,,,,,,,8/19
+MIKUTIS Aivaras,rider/aivaras-mikutis,X,X,,,X,X,,X,X,,X,,X,X,,,,,,9/19
 MILAN Jonathan,rider/jonathan-milan,,X,,,,,,,,X,X,,,X,,,,,,4/19
 MILAN Matteo,rider/matteo-milan,,,X,,,X,,X,,,,,,,,,,,,3/19
 MILESI Lorenzo,rider/lorenzo-milesi,,,,,,,X,X,,X,X,X,,,,,X,,,6/19
@@ -444,7 +444,7 @@ MOSCHETTI Matteo,rider/matteo-moschetti,,X,,,X,X,,,,,,,X,,,,,,,4/19
 MOSCON Gianni,rider/gianni-moscon,,,,X,,,X,,,,,,,,,,,,,2/19
 MOURIS Michiel,rider/michiel-mouris,,,X,,,,,,,,,,,,,,,,,1/19
 MOURIS Wessel,rider/wessel-mouris,,,,,,X,,X,,X,X,,X,,X,,,,,6/19
-MOZZATO Luca,rider/luca-mozzato,X,X,,,,X,,X,,X,X,X,,,,,,,,7/19
+MOZZATO Luca,rider/luca-mozzato,X,X,,,,X,,X,,X,X,X,,X,,,,,,8/19
 MULLEN Ryan,rider/ryan-mullen,X,X,,,,,,X,,,,,,,,,,,,3/19
 MUÑOZ Francisco,rider/francisco-munoz-llana,,,,X,,,X,,,,,,,,,,,,,2/19
 MÄRKL Niklas,rider/niklas-markl,,X,,,,,,X,,X,,X,X,X,,,,,,6/19
