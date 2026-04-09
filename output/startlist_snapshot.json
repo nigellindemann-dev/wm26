@@ -1894,7 +1894,8 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/sandy-dujardin": {
@@ -1905,6 +1906,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
       "Brabantse Pijl",
       "Amstel Gold Race"
     ]
@@ -1919,6 +1921,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
       "Amstel Gold Race"
     ]
   },
@@ -1951,7 +1954,8 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/baptiste-vadic": {
@@ -2597,7 +2601,8 @@
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/florian-dauphin": {
@@ -2609,7 +2614,8 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/emilien-jeanniere": {
