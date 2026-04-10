@@ -181,7 +181,8 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen"
+      "Ronde van Vlaanderen",
+      "Parijs-Roubaix"
     ]
   },
   "rider/pau-miquel-delgado": {
@@ -1893,7 +1894,8 @@
       "E3 Saxo Classic",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/dylan-vandenstorme": {
@@ -2139,6 +2141,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
+      "Parijs-Roubaix",
       "Ronde van Limburg",
       "Brabantse Pijl"
     ]
@@ -2150,7 +2153,8 @@
       "Samyn Classic",
       "Nokere Koerse",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/phil-bauhaus": {
@@ -2159,6 +2163,7 @@
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
       "Scheldeprijs",
+      "Parijs-Roubaix",
       "Ronde van Limburg"
     ]
   },
@@ -3363,7 +3368,8 @@
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/seth-dunwoody": {
@@ -6534,17 +6540,17 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/dorian-godon": {
-    "name": "GODON Dorian",
-    "races": [
-      "Waalse Pijl"
-    ]
-  },
   "rider/victor-langellotti": {
     "name": "LANGELLOTTI Victor",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/dorian-godon": {
+    "name": "GODON Dorian",
+    "races": [
+      "Waalse Pijl"
     ]
   },
   "rider/juan-ayuso-pesquera": {
