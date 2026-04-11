@@ -4891,7 +4891,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Parijs-Roubaix"
     ]
   },
   "rider/mathias-guillemette": {
@@ -5015,6 +5016,7 @@
       "Nokere Koerse",
       "E3 Saxo Classic",
       "In Flanders Fields",
+      "Parijs-Roubaix",
       "Brabantse Pijl"
     ]
   },
@@ -5124,7 +5126,6 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Scheldeprijs",
-      "Parijs-Roubaix",
       "Ronde van Limburg"
     ]
   },
@@ -5629,8 +5630,7 @@
       "Milaan-Sanremo",
       "E3 Saxo Classic",
       "In Flanders Fields",
-      "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/florian-stork": {
