@@ -1012,7 +1012,8 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Scheldeprijs",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Ronde van Limburg"
     ]
   },
   "rider/paul-magnier": {
@@ -1530,7 +1531,8 @@
       "Ronde van Brugge",
       "Ronde van Vlaanderen",
       "Scheldeprijs",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Ronde van Limburg"
     ]
   },
   "rider/jenthe-biermans": {
@@ -1540,8 +1542,7 @@
       "Samyn Classic",
       "Nokere Koerse",
       "Ronde van Brugge",
-      "Ronde van Vlaanderen",
-      "Ronde van Limburg"
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/alex-kirsch": {
@@ -2343,7 +2344,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Scheldeprijs",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Ronde van Limburg"
     ]
   },
   "rider/laurenz-rex": {
@@ -2801,7 +2803,6 @@
       "Samyn Classic",
       "Strade Bianche",
       "Dwars door Vlaanderen",
-      "Ronde van Limburg",
       "Brabantse Pijl"
     ]
   },
@@ -5544,7 +5545,7 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/david-lozano": {
+  "rider/david-lozano-riba": {
     "name": "LOZANO David",
     "races": [
       "Milaan-Sanremo"
@@ -5917,7 +5918,8 @@
     "name": "MERLIER Tim",
     "races": [
       "Scheldeprijs",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Ronde van Limburg"
     ]
   },
   "rider/pascal-eenkhoorn": {
@@ -6044,12 +6046,6 @@
   },
   "rider/joeri-schaper": {
     "name": "SCHAPER Joeri",
-    "races": [
-      "Ronde van Limburg"
-    ]
-  },
-  "rider/matijs-van-strijthem": {
-    "name": "VAN STRIJTHEM Matijs",
     "races": [
       "Ronde van Limburg"
     ]
