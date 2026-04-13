@@ -2879,7 +2879,8 @@
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Ronde van Limburg"
     ]
   },
   "rider/jens-verbrugghe": {
@@ -4799,7 +4800,8 @@
       "Nokere Koerse",
       "Bredene Koksijde Classic",
       "Ronde van Brugge",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Ronde van Limburg"
     ]
   },
   "rider/mattia-sambinello": {
@@ -6057,13 +6059,6 @@
       "Brabantse Pijl"
     ]
   },
-  "rider/sinuhe-fernandez-rodriguez": {
-    "name": "FERNÁNDEZ Sinuhé",
-    "races": [
-      "Ronde van Limburg",
-      "Brabantse Pijl"
-    ]
-  },
   "rider/fernando-gaviria": {
     "name": "GAVIRIA Fernando",
     "races": [
@@ -6140,12 +6135,6 @@
   },
   "rider/zsombor-tamas-takacs": {
     "name": "TAKÁCS Zsombor Tamás",
-    "races": [
-      "Ronde van Limburg"
-    ]
-  },
-  "rider/dylan-bibic": {
-    "name": "BIBIC Dylan",
     "races": [
       "Ronde van Limburg"
     ]
