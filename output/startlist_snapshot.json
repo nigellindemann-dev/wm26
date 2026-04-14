@@ -6091,14 +6091,6 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/joel-nicolau": {
-    "name": "NICOLAU Joel",
-    "races": [
-      "Ronde van Limburg",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
-    ]
-  },
   "rider/stefano-oldani": {
     "name": "OLDANI Stefano",
     "races": [
@@ -6343,6 +6335,13 @@
   },
   "rider/henri-vandenabeele": {
     "name": "VANDENABEELE Henri",
+    "races": [
+      "Brabantse Pijl",
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/joel-nicolau": {
+    "name": "NICOLAU Joel",
     "races": [
       "Brabantse Pijl",
       "Amstel Gold Race"
@@ -6609,13 +6608,6 @@
   },
   "rider/juan-ayuso-pesquera": {
     "name": "AYUSO Juan",
-    "races": [
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/jarno-widar": {
-    "name": "WIDAR Jarno",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
