@@ -2634,8 +2634,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Scheldeprijs",
-      "Parijs-Roubaix",
-      "Ronde van Limburg"
+      "Parijs-Roubaix"
     ]
   },
   "rider/leander-van-hautegem": {
@@ -2644,6 +2643,7 @@
       "Kuurne-Brussel-Kuurne",
       "Scheldeprijs",
       "Parijs-Roubaix",
+      "Ronde van Limburg",
       "Amstel Gold Race"
     ]
   },
@@ -6387,12 +6387,6 @@
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/jhonatan-narvaez": {
-    "name": "NARVÁEZ Jhonatan",
-    "races": [
-      "Amstel Gold Race"
     ]
   },
   "rider/pavel-sivakov": {
