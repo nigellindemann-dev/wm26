@@ -3984,8 +3984,7 @@
   "rider/matthew-fox2": {
     "name": "FOX Matthew",
     "races": [
-      "Strade Bianche",
-      "Ronde van Limburg"
+      "Strade Bianche"
     ]
   },
   "rider/marcin-budzinski": {
@@ -4710,8 +4709,7 @@
     "name": "DAINESE Alberto",
     "races": [
       "Nokere Koerse",
-      "Bredene Koksijde Classic",
-      "Ronde van Limburg"
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/gil-gelders": {
@@ -5135,8 +5133,7 @@
     "name": "MÜLLER Tobias",
     "races": [
       "Bredene Koksijde Classic",
-      "Ronde van Brugge",
-      "Ronde van Limburg"
+      "Ronde van Brugge"
     ]
   },
   "rider/abram-stockman": {
@@ -5161,7 +5158,6 @@
     "name": "MARCHAND Gianni",
     "races": [
       "Bredene Koksijde Classic",
-      "Ronde van Limburg",
       "Brabantse Pijl"
     ]
   },
@@ -5175,8 +5171,7 @@
   "rider/sam-gademan": {
     "name": "GADEMAN Sam",
     "races": [
-      "Bredene Koksijde Classic",
-      "Ronde van Limburg"
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/senne-hulsmans": {
@@ -6061,6 +6056,12 @@
       "Ronde van Limburg"
     ]
   },
+  "rider/matijs-van-strijthem": {
+    "name": "VAN STRIJTHEM Matijs",
+    "races": [
+      "Ronde van Limburg"
+    ]
+  },
   "rider/adrian-fajardo": {
     "name": "FAJARDO Adrián",
     "races": [
@@ -6170,6 +6171,12 @@
     "races": [
       "Ronde van Limburg",
       "Brabantse Pijl"
+    ]
+  },
+  "rider/joppe-sterck": {
+    "name": "STERCK Joppe",
+    "races": [
+      "Ronde van Limburg"
     ]
   },
   "rider/delano-swenne": {
@@ -6611,13 +6618,6 @@
     "name": "PARET-PEINTRE Valentin",
     "races": [
       "Waalse Pijl"
-    ]
-  },
-  "rider/louis-barre": {
-    "name": "BARRÉ Louis",
-    "races": [
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/diego-ulissi": {
