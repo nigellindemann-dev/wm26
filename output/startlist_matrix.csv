@@ -24,7 +24,6 @@ ASKEY Lewis,rider/lewis-askey,X,X,,,,,X,,,X,X,X,,X,,,,,,7/19
 AUGÉ Ronan,rider/ronan-auge,,,,,X,,,,X,X,,,,X,X,X,,,,6/19
 AULAR Orluis,rider/orluis-aular,X,X,,,,,X,X,,X,X,X,,,,,,,,7/19
 AVOINE Kévin,rider/kevin-avoine,,,X,,,,,,,,,,,,,,,,,1/19
-AYUSO Juan,rider/juan-ayuso-pesquera,,,,,,,,,,,,,,,,,,X,X,2/19
 AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun,,,,X,,,X,,,,,,,,,X,X,,,4/19
 BABOVICH Mikita,rider/mikita-babovich,,,,,,,,,,,,,,,X,,,,,1/19
 BAGIOLI Andrea,rider/andrea-bagioli,,,,X,,,X,,,,,,,,,,,,,2/19
@@ -33,7 +32,7 @@ BAIS Mattia,rider/mattia-bais,,,,,,,X,,,,,,,,,,,,,1/19
 BALLERINI Davide,rider/davide-ballerini,X,X,,,,,X,X,,X,X,X,,X,,,,,,8/19
 BALMER Alexandre,rider/alexandre-balmer,,,,X,,,,,,,,,,,,,,,,1/19
 BARCELÓ Fernando,rider/fernando-barcelo,,,,,,,,,,,,,,,X,X,X,,,3/19
-BARONCINI Filippo,rider/filippo-baroncini,,,,,,,,,,,,,,,,X,,,,1/19
+BARONCINI Filippo,rider/filippo-baroncini,,,,,,,,,,,,,,,,X,X,,,2/19
 BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,X,X,,,,,X,,X,X,X,X,,X,,,,,,8/19
 BARTHE Cyril,rider/cyril-barthe,X,X,X,,X,X,,X,,X,X,X,,X,,,,,,10/19
 BASTIAENS Ayco,rider/ayco-bastiaens,,,X,,,,,,,,,,,,,,,,,1/19
@@ -70,9 +69,9 @@ BOIVIN Guillaume,rider/guillaume-boivin,X,X,,,,,,,X,X,X,,,X,,,,,,6/19
 BOL Cees,rider/cees-bol,X,X,,,,,,X,X,X,,X,,X,,,,,,7/19
 BOLLE Bert,rider/bert-bolle,,,X,,,X,,,,,,,,,,,,,,2/19
 BONNET Thomas,rider/thomas-bonnet,X,,,,,,,,,,,,,,,X,X,,,3/19
-BORGO Alessandro,rider/alessandro-borgo,,X,X,,X,,X,,,X,X,X,,X,X,X,,,,10/19
+BORGO Alessandro,rider/alessandro-borgo,,X,X,,X,,X,,,X,X,X,,X,X,,,,,9/19
 BORREMANS Kasper,rider/kasper-borremans,,,,,,,,,,,,,,,X,X,,,,2/19
-BOU Joan,rider/joan-bou,,,,,,,,,,,,,,,,X,X,,,2/19
+BOU Joan,rider/joan-bou,,,,,,,,,,,,,,,,X,X,X,X,4/19
 BOUGLAS Georgios,rider/georgios-bouglas,X,X,,,,,,X,X,X,,X,X,,X,X,,,,9/19
 BOULAHOITE Rayan,rider/rayan-boulahoite,,X,X,,,X,,,X,,X,X,X,X,,,,,,8/19
 BOUMA Jelle,rider/jelle-bouma,,,X,,,,,,,,,,,,,,,,,1/19
@@ -416,7 +415,7 @@ MCDONALD Brody,rider/brody-mcdonald,,,X,,X,X,,,,,,,X,,X,,,,,5/19
 MCGILL Scott,rider/scott-mcgill,,,,,,X,,,,,,,X,,X,,,,,3/19
 MCKAY James,rider/james-mckay,,,X,,,,,,,,,,,,,,,,,1/19
 MCKENZIE Hamish,rider/hamish-mckenzie,,,,,X,X,,,,,,,X,X,X,,,,,5/19
-MCNULTY Brandon,rider/brandon-mcnulty,,,,,,,X,,,,,,,,,,X,,,2/19
+MCNULTY Brandon,rider/brandon-mcnulty,,,,,,,X,,,,,,,,,,,,,1/19
 MEEUS Jordi,rider/jordi-meeus,X,X,X,,X,,,,,X,,,X,X,,,,,,7/19
 MELOTTE Matteo,rider/matteo-melotte,,,X,,,,,,,,,,,,,,,,,1/19
 MENTEN Milan,rider/milan-menten,,,,,X,,,,,,,,X,,X,X,,,,4/19

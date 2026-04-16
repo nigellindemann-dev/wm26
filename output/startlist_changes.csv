@@ -15193,3 +15193,10 @@ timestamp,race,change_type,rider_name,rider_url
 2026-04-16T07:48:37.237507Z,Amstel Gold Race,ADDED,GIAIMI Luca,rider/luca-giaimi
 2026-04-16T07:48:37.237507Z,Amstel Gold Race,ADDED,BJERG Mikkel,rider/mikkel-bjerg
 2026-04-16T07:48:37.237507Z,Amstel Gold Race,ADDED,GROßSCHARTNER Felix,rider/felix-grossschartner
+2026-04-16T13:47:40.257786Z,Amstel Gold Race,REMOVED,MCNULTY Brandon,rider/brandon-mcnulty
+2026-04-16T13:47:40.257786Z,Brabantse Pijl,REMOVED,BORGO Alessandro,rider/alessandro-borgo
+2026-04-16T13:47:40.257786Z,Amstel Gold Race,ADDED,BARONCINI Filippo,rider/filippo-baroncini
+2026-04-16T13:47:40.257786Z,Waalse Pijl,REMOVED,AYUSO Juan,rider/juan-ayuso-pesquera
+2026-04-16T13:47:40.257786Z,Luik-Bastenaken-Luik,REMOVED,AYUSO Juan,rider/juan-ayuso-pesquera
+2026-04-16T13:47:40.257786Z,Waalse Pijl,ADDED,BOU Joan,rider/joan-bou
+2026-04-16T13:47:40.257786Z,Luik-Bastenaken-Luik,ADDED,BOU Joan,rider/joan-bou

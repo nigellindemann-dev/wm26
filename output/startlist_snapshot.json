@@ -2165,8 +2165,7 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix",
-      "Ronde van Limburg",
-      "Brabantse Pijl"
+      "Ronde van Limburg"
     ]
   },
   "rider/matevz-govekar": {
@@ -5640,8 +5639,7 @@
   "rider/brandon-mcnulty": {
     "name": "MCNULTY Brandon",
     "races": [
-      "Milaan-Sanremo",
-      "Amstel Gold Race"
+      "Milaan-Sanremo"
     ]
   },
   "rider/william-blume-levy": {
@@ -6318,7 +6316,8 @@
   "rider/filippo-baroncini": {
     "name": "BARONCINI Filippo",
     "races": [
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/matteo-vanden-wijngaert": {
@@ -6351,7 +6350,9 @@
     "name": "BOU Joan",
     "races": [
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/sam-maisonobe": {
@@ -6593,13 +6594,6 @@
   },
   "rider/victor-langellotti": {
     "name": "LANGELLOTTI Victor",
-    "races": [
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/juan-ayuso-pesquera": {
-    "name": "AYUSO Juan",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
