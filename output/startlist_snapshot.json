@@ -4143,7 +4143,6 @@
     "name": "VADER Milan",
     "races": [
       "Strade Bianche",
-      "Brabantse Pijl",
       "Amstel Gold Race"
     ]
   },
@@ -4550,7 +4549,6 @@
     "races": [
       "Strade Bianche",
       "Milaan-Sanremo",
-      "Brabantse Pijl",
       "Amstel Gold Race"
     ]
   },
@@ -5019,8 +5017,7 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Parijs-Roubaix",
-      "Ronde van Limburg",
-      "Brabantse Pijl"
+      "Ronde van Limburg"
     ]
   },
   "rider/adam-toupalik": {
@@ -5118,8 +5115,7 @@
     "name": "DEBEAUMARCHÉ Nicolas",
     "races": [
       "Bredene Koksijde Classic",
-      "Ronde van Limburg",
-      "Brabantse Pijl"
+      "Ronde van Limburg"
     ]
   },
   "rider/wessel-mouris": {
@@ -5146,6 +5142,7 @@
       "Ronde van Brugge",
       "Scheldeprijs",
       "Ronde van Limburg",
+      "Brabantse Pijl",
       "Amstel Gold Race"
     ]
   },
@@ -5160,8 +5157,7 @@
   "rider/gianni-marchand": {
     "name": "MARCHAND Gianni",
     "races": [
-      "Bredene Koksijde Classic",
-      "Brabantse Pijl"
+      "Bredene Koksijde Classic"
     ]
   },
   "rider/joost-brinkman": {
