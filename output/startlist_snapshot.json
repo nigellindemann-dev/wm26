@@ -106,8 +106,7 @@
     "races": [
       "Omloop Nieuwsblad",
       "Bredene Koksijde Classic",
-      "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Brabantse Pijl"
     ]
   },
   "rider/kaden-groves": {
@@ -691,7 +690,8 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/cedric-beullens": {
@@ -830,7 +830,8 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Strade Bianche",
-      "Milaan-Sanremo"
+      "Milaan-Sanremo",
+      "Amstel Gold Race"
     ]
   },
   "rider/biniam-girmay": {
@@ -1212,8 +1213,7 @@
       "E3 Saxo Classic",
       "In Flanders Fields",
       "Dwars door Vlaanderen",
-      "Ronde van Vlaanderen",
-      "Amstel Gold Race"
+      "Ronde van Vlaanderen"
     ]
   },
   "rider/henri-francois-renard-haquin": {
@@ -1353,7 +1353,9 @@
       "Omloop Nieuwsblad",
       "Kuurne-Brussel-Kuurne",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/rui-oliveira": {
@@ -1610,7 +1612,6 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Milaan-Sanremo",
-      "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
@@ -1978,8 +1979,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
-      "Amstel Gold Race"
+      "Parijs-Roubaix"
     ]
   },
   "rider/samuel-leroux": {
@@ -2883,7 +2883,8 @@
       "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Ronde van Limburg",
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/jens-verbrugghe": {
@@ -3619,7 +3620,8 @@
   "rider/gal-glivar": {
     "name": "GLIVAR Gal",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Amstel Gold Race"
     ]
   },
   "rider/michael-gogl": {
@@ -3781,10 +3783,7 @@
   "rider/ben-healy": {
     "name": "HEALY Ben",
     "races": [
-      "Strade Bianche",
-      "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Strade Bianche"
     ]
   },
   "rider/richard-carapaz": {
@@ -4037,7 +4036,8 @@
     "name": "NOVÁK Pavel",
     "races": [
       "Strade Bianche",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Amstel Gold Race"
     ]
   },
   "rider/albert-torres": {
@@ -4555,8 +4555,7 @@
     "name": "HOLTER Ådne",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
-      "Amstel Gold Race"
+      "Milaan-Sanremo"
     ]
   },
   "rider/anders-halland-johannessen": {
@@ -4579,7 +4578,8 @@
     "name": "DVERSNES LAVIK Fredrik",
     "races": [
       "Strade Bianche",
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/anders-skaarseth": {
@@ -4603,7 +4603,8 @@
   "rider/anton-kuzmin": {
     "name": "KUZMIN Anton",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Amstel Gold Race"
     ]
   },
   "rider/marco-schrettl": {
@@ -4924,7 +4925,8 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Scheldeprijs",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Amstel Gold Race"
     ]
   },
   "rider/joseph-pidcock": {
@@ -5426,8 +5428,7 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Parijs-Roubaix",
-      "Amstel Gold Race"
+      "Parijs-Roubaix"
     ]
   },
   "rider/natnael-tesfatsion": {
@@ -6181,7 +6182,8 @@
   "rider/joppe-sterck": {
     "name": "STERCK Joppe",
     "races": [
-      "Ronde van Limburg"
+      "Ronde van Limburg",
+      "Brabantse Pijl"
     ]
   },
   "rider/delano-swenne": {
@@ -6270,7 +6272,8 @@
   "rider/jardi-christiaan-van-der-lee": {
     "name": "VAN DER LEE Jardi Christiaan",
     "races": [
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/ewen-costiou": {
@@ -6362,13 +6365,16 @@
     "name": "MAISONOBE Sam",
     "races": [
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/mathieu-burgaudeau": {
     "name": "BURGAUDEAU Mathieu",
     "races": [
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/alan-jousseaume": {
@@ -6478,12 +6484,6 @@
       "Amstel Gold Race"
     ]
   },
-  "rider/aleksey-lutsenko": {
-    "name": "LUTSENKO Alexey",
-    "races": [
-      "Amstel Gold Race"
-    ]
-  },
   "rider/ilan-van-wilder": {
     "name": "VAN WILDER Ilan",
     "races": [
@@ -6492,30 +6492,30 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/warren-barguil": {
+    "name": "BARGUIL Warren",
+    "races": [
+      "Amstel Gold Race"
+    ]
+  },
   "rider/alexander-kamp": {
     "name": "KAMP Alexander",
     "races": [
       "Amstel Gold Race"
     ]
   },
-  "rider/nicola-conci": {
-    "name": "CONCI Nicola",
-    "races": [
-      "Amstel Gold Race"
-    ]
-  },
-  "rider/sergio-higuita": {
-    "name": "HIGUITA Sergio",
-    "races": [
-      "Amstel Gold Race"
-    ]
-  },
-  "rider/christian-scaroni": {
-    "name": "SCARONI Christian",
+  "rider/diego-ulissi": {
+    "name": "ULISSI Diego",
     "races": [
       "Amstel Gold Race",
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/nicola-conci": {
+    "name": "CONCI Nicola",
+    "races": [
+      "Amstel Gold Race"
     ]
   },
   "rider/darren-van-bekkum": {
@@ -6532,8 +6532,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/fabio-christen": {
-    "name": "CHRISTEN Fabio",
+  "rider/sjoerd-bax": {
+    "name": "BAX Sjoerd",
     "races": [
       "Amstel Gold Race"
     ]
@@ -6620,8 +6620,8 @@
       "Waalse Pijl"
     ]
   },
-  "rider/diego-ulissi": {
-    "name": "ULISSI Diego",
+  "rider/christian-scaroni": {
+    "name": "SCARONI Christian",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
