@@ -18,7 +18,7 @@ ARANBURU Alex,rider/alex-aranburu,,,,,,,X,,,,,,,,,,X,X,X,4/19
 ARASHIRO Yukiya,rider/yukiya-arashiro,,,,,,,,,,,,,X,,,,,,,1/19
 ARCHIBOLD Franklin,rider/franklin-archibold,,,,X,,,,,,,,,,,,,,,,1/19
 ARMITT Hamish,rider/hamish-armitt,,,,,,,X,,,,,,,,,,,,,1/19
-ARTZ Huub,rider/huub-artz,,,,,,,X,,,X,X,,,X,,X,,,,5/19
+ARTZ Huub,rider/huub-artz,,,,,,,X,,,X,X,,,X,,X,X,,,6/19
 ASGREEN Kasper,rider/kasper-asgreen,X,X,,,,,X,,,X,X,X,,X,,,,,,7/19
 ASKEY Lewis,rider/lewis-askey,X,X,,,,,X,,,X,X,X,,X,,,,,,7/19
 AUGÉ Ronan,rider/ronan-auge,,,,,X,,,,X,X,,,,X,X,,,,,5/19
@@ -105,6 +105,7 @@ CARUSO Damiano,rider/damiano-caruso,,,,,,,X,,,,,,,,,,,,,1/19
 CATTANEO Mattia,rider/mattia-cattaneo,,,,X,,,X,,,,,,,,,,,,,2/19
 CAUDELL Ezra,rider/ezra-caudell,,X,X,,,X,,,,,,,,X,X,,,,,5/19
 CAVIA Daniel,rider/daniel-cavia-sanz,X,X,,,,,,X,,X,X,X,X,,,,,,,7/19
+CHAMBERLAIN Oscar,rider/oscar-chamberlain,,,,,,,,,,,,,,,,,X,,,1/19
 CHAMPOUSSIN Clément,rider/clement-champoussin,,,,X,,,,,,,,,,,,,X,X,X,4/19
 CHARMIG Anthon,rider/anthon-charmig,,,,,,,,,,,,,,,,X,X,,,2/19
 CHARRET Camille,rider/camille-charret,,,,,X,X,,X,,X,X,,X,X,X,X,,,,9/19
@@ -146,8 +147,8 @@ DE JONG Timo,rider/timo-de-jong,X,X,,,,,,,,,,,,,,,,,,2/19
 DE LA CALLE Hugo,rider/hugo-de-la-calle-arango,,,,,,,,,X,X,X,X,,,,,,,,4/19
 DE LIE Arnaud,rider/arnaud-de-lie,X,X,,,,,,,,X,X,,,X,,,,,,5/19
 DE PESTEL Sander,rider/sander-de-pestel,X,X,,,,,,X,X,X,X,X,,X,,,X,,X,10/19
-DE POOTER Dries,rider/dries-de-pooter,X,,,,X,X,,X,X,,X,X,X,X,,X,,,,10/19
-DE PRETTO Davide,rider/davide-de-pretto,,,,X,,,,,,,,,,,,X,X,,,3/19
+DE POOTER Dries,rider/dries-de-pooter,X,,,,X,X,,X,X,,X,X,X,X,,X,,,X,11/19
+DE PRETTO Davide,rider/davide-de-pretto,,,,X,,,,,,,,,,,,X,X,X,,4/19
 DE SCHUYTENEER Steffen,rider/steffen-de-schuyteneer,,X,X,,X,X,,X,,X,,,X,,,,,,,7/19
 DE VRIES Hartthijs,rider/hartthijs-de-vries,,X,X,,X,,X,,X,X,X,X,,,,,,,,8/19
 DEBEAUMARCHÉ Nicolas,rider/nicolas-debeaumarche,,,,,,X,,,,,,,,,X,,,,,2/19
@@ -210,7 +211,7 @@ FINKŠT Tilen,rider/tilen-finkst,,,,,,,,,,,,,X,,,,,,,1/19
 FIORELLI Filippo,rider/filippo-fiorelli,,X,,X,,,,,X,,,,,,,,X,,X,5/19
 FISHER-BLACK Finn,rider/finn-fisher-black,,,,,,,X,,,,,,,,,,,,,1/19
 FLYNN Sean,rider/sean-flynn,X,,X,,,,,X,X,X,X,X,,,,,X,,,8/19
-FOLDAGER Anders,rider/anders-foldager,X,,,X,,,X,,,X,X,,,,,X,X,,,7/19
+FOLDAGER Anders,rider/anders-foldager,X,,,X,,,X,,,X,X,,,,,X,X,X,X,9/19
 FONTAINE Titouan,rider/titouan-fontaine,,X,X,,X,X,,X,,,,,,X,,,,,,6/19
 FOX Matthew,rider/matthew-fox2,,,,X,,,,,,,,,,,,,,,,1/19
 FREDHEIM Stian,rider/stian-fredheim,,,,,,,,X,,,,,,,,,,,,1/19
@@ -226,7 +227,7 @@ GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,X,X,,,,,X,X,X,X,X,X,,X,,,,,,9/19
 GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,,,,,,,,,,,,,,,,,X,,,1/19
 GAROFOLI Gianmarco,rider/gianmarco-garofoli,,,,X,,,,,,,,,,,,,,,,1/19
 GATE Aaron,rider/aaron-gate,X,X,,,X,,,X,,X,X,X,,X,,,,,,8/19
-GAUTHERAT Pierre,rider/pierre-gautherat,,,,X,,,X,X,X,,,,,,,,X,,,5/19
+GAUTHERAT Pierre,rider/pierre-gautherat,,,,X,,,X,X,X,,,,,,,,,,,4/19
 GAVIRIA Fernando,rider/fernando-gaviria,,,,,,,,,,,,,,,X,X,,,,2/19
 GAZZOLI Michele,rider/michele-gazzoli,,,,,,,,,,,,,X,,,,,,,1/19
 GEENS Jonas,rider/jonas-geens,,X,X,,,,,X,,X,,X,X,,,,,,,6/19
@@ -270,10 +271,10 @@ HALLER Marco,rider/marco-haller,X,X,,,,,X,,X,X,,X,,X,,,,,,7/19
 HAMILTON Lucas,rider/lucas-hamilton,,,,X,,,,X,,,,,,,,,,,,2/19
 HANNES Victor,rider/victor-hannes,,,X,,,,,,,,,,,,,,,,,1/19
 HARTEEL Jelle,rider/jelle-harteel,,,X,,X,,,,,,,,X,,,,,,,3/19
-HATHERLY Alan,rider/alan-hatherly,,,,X,,,,,,,,,,,,,,,,1/19
+HATHERLY Alan,rider/alan-hatherly,,,,X,,,,,,,,,,,,,,X,X,3/19
 HEALY Ben,rider/ben-healy,,,,X,,,,,,,,,,,,,X,X,X,4/19
 HEIDUK Kim,rider/kim-heiduk,X,,,X,,,,X,X,X,X,X,,X,,,,,,8/19
-HELLEMOSE Asbjørn,rider/asbjorn-hellemose,,,,,,,,,,,,,,,,X,X,,,2/19
+HELLEMOSE Asbjørn,rider/asbjorn-hellemose,,,,,,,,,,,,,,,,X,X,X,,3/19
 HEREMANS Joppe,rider/joppe-heremans,,,X,,,,,,,,,,,,,,,,,1/19
 HERMANS Quinten,rider/quinten-hermans,,,,X,,,,,,,X,,,,,X,X,X,X,6/19
 HERREGODTS Rune,rider/rune-herregodts,X,X,,,,,,X,X,,X,,,,,,,,,5/19
@@ -466,7 +467,7 @@ OLDANI Stefano,rider/stefano-oldani,,,,,,,,,,,,,,,X,X,X,,,3/19
 OLIVEIRA Rui,rider/rui-oliveira,X,X,,,X,X,,X,X,X,,X,,X,,,,,,9/19
 OLIVER Ben,rider/ben-oliver,,X,X,,X,X,,,,,,,X,X,X,,,,,7/19
 OOSTERLINCK Joes,rider/joes-oosterlinck,,,X,,,,,,,,,,,,,,,,,1/19
-ORINS Robin,rider/robin-orins,,,,,,,,X,,,,,,,X,,X,,,3/19
+ORINS Robin,rider/robin-orins,,,,,,,,X,,,,,,,X,,,,,2/19
 OTRUBA Jakub,rider/jakub-otruba,,,,,X,X,,,,,,,,,,,,X,X,4/19
 OURSELIN Paul,rider/paul-ourselin,,,,,,,X,,,,,,,,,,X,,,2/19
 PAARDEKOOPER Thijmen,rider/thijmen-paardekooper,,,X,,,X,,,,,,,,,,,,,,2/19
@@ -507,7 +508,7 @@ POGAČAR Tadej,rider/tadej-pogacar,,,,X,,,X,,,,,X,,X,,,,,X,5/19
 POLGA Antonio,rider/antonio-polga,,,,,,,X,,,,,,,,,,,,,1/19
 POLI Umberto,rider/umberto-poli,,,,,,,X,,,,,,,,,,,,,1/19
 POLITT Nils,rider/nils-politt,X,X,,,,X,,,X,X,X,X,,X,,,,,,8/19
-POLLEFLIET Gianluca,rider/gianluca-pollefliet,,,,,,,,X,,,,,,,,,X,,,2/19
+POLLEFLIET Gianluca,rider/gianluca-pollefliet,,,,,,,,X,,,,,,,,,,,,1/19
 PRADES Eduard,rider/eduard-prades,,,,,,,,,,,,,,,X,X,X,,,3/19
 PRICE-PEJTERSEN Johan,rider/johan-price-pejtersen,,,X,,,,,,,,,,,,,,,,,1/19
 PUTZ Sebastian,rider/sebastian-putz,,,,,X,,,,,,,,X,,,,,,,2/19
@@ -697,7 +698,7 @@ VANSEVENANT Mauri,rider/mauri-vansevenant,,,,X,,,,,,,,,,,,,X,X,X,4/19
 VAUQUELIN Kévin,rider/kevin-vauquelin,,,,,,,,,,,,,,,,,X,X,X,3/19
 VEISTROFFER Baptiste,rider/baptiste-veistroffer,,,,,X,,,,,,,,,,,,,,,1/19
 VELASCO Simone,rider/simone-velasco,,,,X,,,,,,,,,,,,,X,,,2/19
-VENDRAME Andrea,rider/andrea-vendrame,,,,X,,,X,,,,,,,,,,X,,,3/19
+VENDRAME Andrea,rider/andrea-vendrame,,,,X,,,X,,,,,,,,,,X,X,X,5/19
 VENTURINI Clément,rider/clement-venturini,,,,X,,,X,,,,,,,,,X,X,X,,5/19
 VERBRUGGHE Jens,rider/jens-verbrugghe,,,X,,X,,,,,,,,X,,X,X,,,,5/19
 VERCOUILLIE Victor,rider/victor-vercouillie,X,,,,,X,,,,X,X,X,,X,X,,,,,7/19
