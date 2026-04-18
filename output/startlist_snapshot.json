@@ -2589,7 +2589,8 @@
       "Bredene Koksijde Classic",
       "In Flanders Fields",
       "Ronde van Limburg",
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Amstel Gold Race"
     ]
   },
   "rider/tom-crabbe": {
@@ -4103,7 +4104,8 @@
   "rider/alessandro-pinarello": {
     "name": "PINARELLO Alessandro",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/nick-schultz": {
@@ -4145,8 +4147,7 @@
   "rider/milan-vader": {
     "name": "VADER Milan",
     "races": [
-      "Strade Bianche",
-      "Amstel Gold Race"
+      "Strade Bianche"
     ]
   },
   "rider/mattia-cattaneo": {
