@@ -235,7 +235,7 @@ GEENS Jonas,rider/jonas-geens,,X,X,,,,,X,,X,,X,X,,,,,,,6/19
 GEERAERTS Ferre,rider/ferre-geeraerts,,X,,,,X,,X,,X,X,,X,X,,X,,,,8/19
 GELDERS Gil,rider/gil-gelders,,,,,X,X,,,,,,,,,,X,,,,3/19
 GELEIJN Owen,rider/owen-geleijn,,,,X,,,,,X,,,,,,,,,,,2/19
-GENIETS Kevin,rider/kevin-geniets,,,,X,,,X,,,,,,,,,X,X,,,4/19
+GENIETS Kevin,rider/kevin-geniets,,,,X,,,X,,,,,,,,,X,X,X,X,6/19
 GEORGE Alfred,rider/alfred-george,,,X,,,,,,,,,,,,,,,,,1/19
 GERMANI Lorenzo,rider/lorenzo-germani,,,,X,,,,,,,,,,,,X,X,,,3/19
 GHYS Robbe,rider/robbe-ghys,,,,,,,,X,,,,,,,,,,,,1/19
@@ -379,6 +379,7 @@ LOOCKX Lander,rider/lander-loockx,,,,X,,,,,X,,,,,,,X,X,,,4/19
 LOUVEL Matis,rider/matis-louvel,X,X,,,,,,,X,X,X,X,,X,,,,,,7/19
 LOWAGIE Arthur,rider/arthur-lowagie,,,X,,,,,,,,,,,,,,,,,1/19
 LOZANO David,rider/david-lozano-riba,,,,,,,X,,,,,,,,,,,,,1/19
+LUTSENKO Alexey,rider/aleksey-lutsenko,,,,,,,,,,,,,,,,,X,,,1/19
 LÓPEZ Joseba,rider/joseba-lopez-cuesta,,,,,,,,,,,,,,,X,X,X,,,3/19
 LØLAND Sakarias Koller,rider/sakarias-koller-loland,,,,,,,,,X,,X,,,,,,,,,2/19
 MAAS Jan,rider/jan-maas,,X,X,,X,X,,X,,,,,,,,,X,,,6/19
@@ -493,7 +494,7 @@ PEÁK Barnabás,rider/barnabas-peak,,,,,,,,,,,,,,,X,,,,,1/19
 PHILIPSEN Jasper,rider/jasper-philipsen,X,X,,,X,,X,X,,X,X,,X,X,,,,,,9/19
 PICKRELL Riley,rider/riley-pickrell,,X,X,,,,,,,,,,X,X,X,,,,,5/19
 PIDCOCK Joseph,rider/joseph-pidcock,,,,,X,X,,,,,,,,,,,,,,2/19
-PIDCOCK Thomas,rider/thomas-pidcock,X,,,X,,,X,,,,,,,,,,,X,X,5/19
+PIDCOCK Thomas,rider/thomas-pidcock,X,,,X,,,X,,,,,,,,,,,,X,4/19
 PIETROBON Andrea,rider/andrea-pietrobon,,,,X,,,X,,,,,,,,,,,,,2/19
 PINARELLO Alessandro,rider/alessandro-pinarello,,,,X,,,,,,,,,,,,,,,,1/19
 PIRAS Andrea,rider/andrea-piras,,,,X,,,,,,,,,,,,,,,,1/19
@@ -730,7 +731,7 @@ WELLENS Tim,rider/tim-wellens,X,X,,,,,,,,,,,,,,X,X,X,X,6/19
 WELSFORD Sam,rider/sam-welsford,,,,,,,,X,,X,X,X,,X,,,,,,5/19
 WERTZ Hugo,rider/hugo-wertz,,,X,,,,,,,,,,,,,,,,,1/19
 WIGGINS Ben,rider/ben-wiggins,,,,,X,,,,,,,,,,X,,,,,2/19
-WILKSCH Hannes,rider/hannes-wilksch,,,,X,,,,,,,,,,,,,,,,1/19
+WILKSCH Hannes,rider/hannes-wilksch,,,,X,,,,,,,,,,,,,,,X,2/19
 WIRTGEN Luc,rider/luc-wirtgen,,,,X,,,,,,,,,,,,,,,,1/19
 WITHEN PHILIPSEN Albert,rider/albert-withen-philipsen,X,,,X,X,X,,,,,,,,,X,,X,,,6/19
 WOETS Mattanja,rider/mattanja-woets,,,X,,,,,,,,,,,,,,,,,1/19

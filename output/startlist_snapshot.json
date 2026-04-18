@@ -1612,7 +1612,6 @@
       "Omloop Nieuwsblad",
       "Strade Bianche",
       "Milaan-Sanremo",
-      "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
   },
@@ -3837,7 +3836,9 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/lorenzo-germani": {
@@ -4474,7 +4475,8 @@
   "rider/hannes-wilksch": {
     "name": "WILKSCH Hannes",
     "races": [
-      "Strade Bianche"
+      "Strade Bianche",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/luc-wirtgen": {
@@ -6482,6 +6484,12 @@
   },
   "rider/raul-garcia-pierna": {
     "name": "GARCÍA PIERNA Raúl",
+    "races": [
+      "Amstel Gold Race"
+    ]
+  },
+  "rider/aleksey-lutsenko": {
+    "name": "LUTSENKO Alexey",
     "races": [
       "Amstel Gold Race"
     ]
