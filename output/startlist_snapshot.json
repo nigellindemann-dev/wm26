@@ -5872,7 +5872,8 @@
     "races": [
       "In Flanders Fields",
       "Ronde van Vlaanderen",
-      "Scheldeprijs"
+      "Scheldeprijs",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/benoit-cosnefroy": {
@@ -6627,6 +6628,12 @@
   },
   "rider/valentin-paret-peintre": {
     "name": "PARET-PEINTRE Valentin",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
+  "rider/jorgen-nordhagen": {
+    "name": "NORDHAGEN Jørgen",
     "races": [
       "Waalse Pijl"
     ]
