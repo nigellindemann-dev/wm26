@@ -6605,8 +6605,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/victor-langellotti": {
-    "name": "LANGELLOTTI Victor",
+  "rider/ivan-romeo": {
+    "name": "ROMEO Iván",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
@@ -6655,6 +6655,12 @@
     "name": "LAFAY Victor",
     "races": [
       "Waalse Pijl"
+    ]
+  },
+  "rider/victor-langellotti": {
+    "name": "LANGELLOTTI Victor",
+    "races": [
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/koen-bouwman": {
