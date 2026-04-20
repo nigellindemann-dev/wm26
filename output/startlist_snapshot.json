@@ -1392,7 +1392,8 @@
       "Kuurne-Brussel-Kuurne",
       "Ronde van Brugge",
       "E3 Saxo Classic",
-      "Dwars door Vlaanderen"
+      "Dwars door Vlaanderen",
+      "Waalse Pijl"
     ]
   },
   "rider/juan-sebastian-molano": {
@@ -1606,8 +1607,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/thomas-pidcock": {
-    "name": "PIDCOCK Thomas",
+  "rider/tom-pidcock": {
+    "name": "PIDCOCK Tom",
     "races": [
       "Omloop Nieuwsblad",
       "Strade Bianche",
@@ -3580,7 +3581,6 @@
     "races": [
       "Strade Bianche",
       "Milaan-Sanremo",
-      "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
   },
@@ -4676,7 +4676,8 @@
       "Ronde van Brugge",
       "In Flanders Fields",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/vegard-stake-laengen": {
@@ -4684,7 +4685,8 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Ronde van Brugge"
+      "Ronde van Brugge",
+      "Waalse Pijl"
     ]
   },
   "rider/thor-michielsen": {
@@ -5827,7 +5829,8 @@
       "Ronde van Vlaanderen",
       "Parijs-Roubaix",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/sakarias-koller-loland": {
@@ -5916,7 +5919,6 @@
     "races": [
       "Ronde van Vlaanderen",
       "Amstel Gold Race",
-      "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
   },
@@ -6645,12 +6647,6 @@
   },
   "rider/killian-verschuren": {
     "name": "VERSCHUREN Killian",
-    "races": [
-      "Waalse Pijl"
-    ]
-  },
-  "rider/victor-lafay": {
-    "name": "LAFAY Victor",
     "races": [
       "Waalse Pijl"
     ]
