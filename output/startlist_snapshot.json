@@ -1616,7 +1616,7 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/thomas-pidcock": {
+  "rider/tom-pidcock": {
     "name": "PIDCOCK Tom",
     "races": [
       "Omloop Nieuwsblad",
@@ -3744,7 +3744,7 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/paul-seixas1": {
+  "rider/paul-seixas": {
     "name": "SEIXAS Paul",
     "races": [
       "Strade Bianche",
@@ -4185,8 +4185,7 @@
   "rider/milan-vader": {
     "name": "VADER Milan",
     "races": [
-      "Strade Bianche",
-      "Waalse Pijl"
+      "Strade Bianche"
     ]
   },
   "rider/mattia-cattaneo": {
@@ -4581,8 +4580,7 @@
       "Strade Bianche",
       "E3 Saxo Classic",
       "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
+      "Amstel Gold Race"
     ]
   },
   "rider/clement-venturini": {
@@ -4607,8 +4605,7 @@
     "name": "HOLTER Ådne",
     "races": [
       "Strade Bianche",
-      "Milaan-Sanremo",
-      "Waalse Pijl"
+      "Milaan-Sanremo"
     ]
   },
   "rider/anders-halland-johannessen": {
@@ -4988,7 +4985,8 @@
       "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Parijs-Roubaix",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/joseph-pidcock": {
@@ -5098,7 +5096,8 @@
       "E3 Saxo Classic",
       "Ronde van Limburg",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/elias-maris": {
@@ -5875,7 +5874,8 @@
       "In Flanders Fields",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Parijs-Roubaix"
+      "Parijs-Roubaix",
+      "Waalse Pijl"
     ]
   },
   "rider/jan-tratnik": {
@@ -6330,7 +6330,6 @@
     "races": [
       "Brabantse Pijl",
       "Amstel Gold Race",
-      "Waalse Pijl",
       "Luik-Bastenaken-Luik"
     ]
   },
@@ -6353,7 +6352,8 @@
     "name": "VAN DER LEE Jardi Christiaan",
     "races": [
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/ewen-costiou": {
@@ -6433,7 +6433,8 @@
     "name": "LEKNESSUND Andreas",
     "races": [
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/joan-bou": {
@@ -6675,17 +6676,17 @@
       "Waalse Pijl"
     ]
   },
+  "rider/jai-hindley": {
+    "name": "HINDLEY Jai",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
   "rider/daniel-felipe-martinez": {
     "name": "MARTÍNEZ Daniel Felipe",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/jai-hindley": {
-    "name": "HINDLEY Jai",
-    "races": [
-      "Waalse Pijl"
     ]
   },
   "rider/julien-bernard": {
@@ -6726,12 +6727,6 @@
       "Waalse Pijl"
     ]
   },
-  "rider/markel-beloki": {
-    "name": "BELOKI Markel",
-    "races": [
-      "Waalse Pijl"
-    ]
-  },
   "rider/yael-joalland": {
     "name": "JOALLAND Yaël",
     "races": [
@@ -6745,17 +6740,17 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/davide-formolo": {
+    "name": "FORMOLO Davide",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
   "rider/ivan-romeo": {
     "name": "ROMEO Iván",
     "races": [
       "Waalse Pijl",
       "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/davide-formolo": {
-    "name": "FORMOLO Davide",
-    "races": [
-      "Waalse Pijl"
     ]
   },
   "rider/christian-scaroni": {
@@ -6813,12 +6808,6 @@
       "Waalse Pijl"
     ]
   },
-  "rider/killian-verschuren": {
-    "name": "VERSCHUREN Killian",
-    "races": [
-      "Waalse Pijl"
-    ]
-  },
   "rider/odd-christian-eiking": {
     "name": "EIKING Odd Christian",
     "races": [
@@ -6827,6 +6816,12 @@
   },
   "rider/adrien-maire": {
     "name": "MAIRE Adrien",
+    "races": [
+      "Waalse Pijl"
+    ]
+  },
+  "rider/killian-verschuren": {
+    "name": "VERSCHUREN Killian",
     "races": [
       "Waalse Pijl"
     ]
