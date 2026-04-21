@@ -49,7 +49,7 @@ BELOKI Markel,rider/markel-beloki,,,,,,,,,,,,,,,,,,X,,1/19
 BENITO Adrián,rider/adrian-benito-gonzalez,,,,X,,,,,,,,,,,,,,,,1/19
 BENNETT George,rider/george-bennett,,,,X,,,,,,,,,,,,,,X,,2/19
 BENNETT Sam,rider/sam-bennett,,,,,X,X,,,,,X,,,,X,X,,,,5/19
-BERCKMOES Jenno,rider/jenno-berckmoes,X,X,,X,,,X,,X,X,X,X,,,,X,X,X,,11/19
+BERCKMOES Jenno,rider/jenno-berckmoes,X,X,,X,,,X,,X,X,X,X,,,,X,X,,,10/19
 BERGER Antoine,rider/antoine-berger,,,X,,,,,,,,,,,,,,,,,1/19
 BERNARD Julien,rider/julien-bernard,,,,,,,,,,,,,,,,,,X,,1/19
 BESSEGA Andrea,rider/andrea-bessega,,,,,,,,,,,,,,,X,,,,,1/19
@@ -240,7 +240,7 @@ GAVIRIA Fernando,rider/fernando-gaviria,,,,,,,,,,,,,,,X,X,,,,2/19
 GAZZOLI Michele,rider/michele-gazzoli,,,,,,,,,,,,,X,,,,,,,1/19
 GEENS Jonas,rider/jonas-geens,,X,X,,,,,X,,X,,X,X,,,,,,,6/19
 GEERAERTS Ferre,rider/ferre-geeraerts,,X,,,,X,,X,,X,X,,X,X,,X,,,,8/19
-GELDERS Gil,rider/gil-gelders,,,,,X,X,,,,,,,,,,X,,,,3/19
+GELDERS Gil,rider/gil-gelders,,,,,X,X,,,,,,,,,,X,,X,,4/19
 GELEIJN Owen,rider/owen-geleijn,,,,X,,,,,X,,,,,,,,,X,,3/19
 GENIETS Kevin,rider/kevin-geniets,,,,X,,,X,,,,,,,,,X,X,X,X,6/19
 GEORGE Alfred,rider/alfred-george,,,X,,,,,,,,,,,,,,,,,1/19
@@ -506,7 +506,7 @@ PEÁK Barnabás,rider/barnabas-peak,,,,,,,,,,,,,,,X,,,,,1/19
 PHILIPSEN Jasper,rider/jasper-philipsen,X,X,,,X,,X,X,,X,X,,X,X,,,,,,9/19
 PICKRELL Riley,rider/riley-pickrell,,X,X,,,,,,,,,,X,X,X,,,,,5/19
 PIDCOCK Joseph,rider/joseph-pidcock,,,,,X,X,,,,,,,,,,,,,,2/19
-PIDCOCK Tom,rider/tom-pidcock,X,,,X,,,X,,,,,,,,,,,,X,4/19
+PIDCOCK Tom,rider/thomas-pidcock,X,,,X,,,X,,,,,,,,,,,,X,4/19
 PIETROBON Andrea,rider/andrea-pietrobon,,,,X,,,X,,,,,,,,,,,,,2/19
 PINARELLO Alessandro,rider/alessandro-pinarello,,,,X,,,,,,,,,,,,,,,X,2/19
 PIRAS Andrea,rider/andrea-piras,,,,X,,,,,,,,,,,,,,,,1/19
@@ -572,7 +572,7 @@ SCHULTEN Chiel,rider/chiel-schulten,,,X,,,,,,,,,,,,,,,,,1/19
 SCHULTZ Nick,rider/nick-schultz,,,,X,,,X,,,,,,,,,,,,X,3/19
 SCHWARZBACHER Matthias,rider/matthias-schwarzbacher,,,,,,,,X,X,,X,X,,X,,,,,,5/19
 SEGAERT Alec,rider/alec-segaert,X,X,X,,X,,,,X,X,X,X,,X,,,,,,9/19
-SEIXAS Paul,rider/paul-seixas,,,,X,,,,,,,,,,,,,,X,X,3/19
+SEIXAS Paul,rider/paul-seixas1,,,,X,,,,,,,,,,,,,,X,X,3/19
 SENTJENS Sente,rider/sente-sentjens,,X,,,X,X,,,,,,,X,,X,,,,,5/19
 SERRANO Gonzalo,rider/gonzalo-serrano,,,,X,,,,X,X,,X,,,X,,,X,,,6/19
 SEVILLA Diego Pablo,rider/diego-pablo-sevilla,,,,X,,,,,,,,,,,,,,,,1/19
@@ -668,7 +668,7 @@ VAN ASBROECK Tom,rider/tom-van-asbroeck,X,,X,,,X,,,X,X,X,X,,X,,,,,,8/19
 VAN BAARLE Dylan,rider/dylan-van-baarle,X,X,,,,,,,X,,X,X,,X,,,X,,,7/19
 VAN BEKKUM Darren,rider/darren-van-bekkum,,,,,,,,,,,,,,,,,X,,,1/19
 VAN BELLE Loe,rider/loe-van-belle,,,X,,,,,,,,,,,,,,,,,1/19
-VAN BOVEN Luca,rider/luca-van-boven,X,X,,,,,X,,X,,,X,,,,X,X,,,7/19
+VAN BOVEN Luca,rider/luca-van-boven,X,X,,,,,X,,X,,,X,,,,X,X,X,,8/19
 VAN DEN BERG Julius,rider/julius-van-den-berg,X,,X,,,,,X,,X,,X,X,X,,,,,,7/19
 VAN DEN BERG Marijn,rider/marijn-van-den-berg,X,X,,,,,,X,,,,,,,,,,,,3/19
 VAN DEN BOER Seppe,rider/seppe-van-den-boer,,,,,X,,,,,,,,X,,,,,,,2/19
@@ -760,7 +760,7 @@ ZAMBANINI Edoardo,rider/edoardo-zambanini,,,,X,,,X,,,,,,,,,X,X,X,,5/19
 ZAMPERINI Edoardo,rider/edoardo-zamperini,,,,,,,X,,,X,X,X,X,,,,,,,5/19
 ZANA Filippo,rider/filippo-zana,,,,X,,,,,,,,,,,,,,X,,2/19
 ZIMMERMANN Georg,rider/georg-zimmermann,,,,,,,X,,,,,,,,,,X,X,,3/19
-ZINGLE Axel,rider/axel-zingle,X,X,,,,,,,X,,X,X,,,,,X,,,6/19
+ZINGLE Axel,rider/axel-zingle,X,X,,,,,,,X,,X,X,,,,,X,X,,7/19
 ZOCCARATO Samuele,rider/samuele-zoccarato,,,,X,,,,,,,,,,,,,,,,1/19
 ZUKOWSKY Nickolas,rider/nickolas-zukowsky,,,,,,,,,X,X,,X,X,X,,,,,,5/19
 ZWIEHOFF Ben,rider/ben-zwiehoff,,,,X,,,,,,,,,,,,,,,,1/19

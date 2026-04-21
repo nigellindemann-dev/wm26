@@ -698,8 +698,7 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Waalse Pijl"
+      "Amstel Gold Race"
     ]
   },
   "rider/cedric-beullens": {
@@ -737,7 +736,8 @@
       "E3 Saxo Classic",
       "Ronde van Vlaanderen",
       "Brabantse Pijl",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/roel-van-sintmaartensdijk": {
@@ -1352,7 +1352,8 @@
       "E3 Saxo Classic",
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
-      "Amstel Gold Race"
+      "Amstel Gold Race",
+      "Waalse Pijl"
     ]
   },
   "rider/tim-wellens": {
@@ -1615,7 +1616,7 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/tom-pidcock": {
+  "rider/thomas-pidcock": {
     "name": "PIDCOCK Tom",
     "races": [
       "Omloop Nieuwsblad",
@@ -3743,7 +3744,7 @@
       "Milaan-Sanremo"
     ]
   },
-  "rider/paul-seixas": {
+  "rider/paul-seixas1": {
     "name": "SEIXAS Paul",
     "races": [
       "Strade Bianche",
@@ -4785,7 +4786,8 @@
     "races": [
       "Nokere Koerse",
       "Bredene Koksijde Classic",
-      "Brabantse Pijl"
+      "Brabantse Pijl",
+      "Waalse Pijl"
     ]
   },
   "rider/davide-donati": {

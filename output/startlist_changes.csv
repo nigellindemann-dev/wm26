@@ -15406,3 +15406,21 @@ timestamp,race,change_type,rider_name,rider_url
 2026-04-20T19:07:21.881742Z,Waalse Pijl,ADDED,FRIGO Marco,rider/marco-frigo
 2026-04-21T07:53:03.796840Z,Luik-Bastenaken-Luik,REMOVED,VAN WILDER Ilan,rider/ilan-van-wilder
 2026-04-21T07:53:03.796840Z,Waalse Pijl,REMOVED,VAN WILDER Ilan,rider/ilan-van-wilder
+2026-04-21T13:43:28.270085Z,Waalse Pijl,ADDED,VAN BOVEN Luca,rider/luca-van-boven
+2026-04-21T13:43:28.270085Z,Waalse Pijl,ADDED,ZINGLE Axel,rider/axel-zingle
+2026-04-21T13:43:28.270085Z,Waalse Pijl,ADDED,GELDERS Gil,rider/gil-gelders
+2026-04-21T13:43:28.270085Z,Waalse Pijl,REMOVED,SEIXAS Paul,rider/paul-seixas
+2026-04-21T13:43:28.270085Z,Strade Bianche,REMOVED,SEIXAS Paul,rider/paul-seixas
+2026-04-21T13:43:28.270085Z,Luik-Bastenaken-Luik,REMOVED,SEIXAS Paul,rider/paul-seixas
+2026-04-21T13:43:28.270085Z,Waalse Pijl,REMOVED,BERCKMOES Jenno,rider/jenno-berckmoes
+2026-04-21T13:43:28.270085Z,Strade Bianche,REMOVED,PIDCOCK Tom,rider/tom-pidcock
+2026-04-21T13:43:28.270085Z,Luik-Bastenaken-Luik,REMOVED,PIDCOCK Tom,rider/tom-pidcock
+2026-04-21T13:43:28.270085Z,Omloop Nieuwsblad,REMOVED,PIDCOCK Tom,rider/tom-pidcock
+2026-04-21T13:43:28.270085Z,Milaan-Sanremo,REMOVED,PIDCOCK Tom,rider/tom-pidcock
+2026-04-21T13:43:28.270085Z,Waalse Pijl,ADDED,SEIXAS Paul,rider/paul-seixas1
+2026-04-21T13:43:28.270085Z,Strade Bianche,ADDED,SEIXAS Paul,rider/paul-seixas1
+2026-04-21T13:43:28.270085Z,Luik-Bastenaken-Luik,ADDED,SEIXAS Paul,rider/paul-seixas1
+2026-04-21T13:43:28.270085Z,Strade Bianche,ADDED,PIDCOCK Tom,rider/thomas-pidcock
+2026-04-21T13:43:28.270085Z,Luik-Bastenaken-Luik,ADDED,PIDCOCK Tom,rider/thomas-pidcock
+2026-04-21T13:43:28.270085Z,Omloop Nieuwsblad,ADDED,PIDCOCK Tom,rider/thomas-pidcock
+2026-04-21T13:43:28.270085Z,Milaan-Sanremo,ADDED,PIDCOCK Tom,rider/thomas-pidcock
