@@ -15449,3 +15449,45 @@ timestamp,race,change_type,rider_name,rider_url
 2026-04-21T19:14:19.005732Z,Omloop Nieuwsblad,ADDED,PIDCOCK Tom,rider/tom-pidcock
 2026-04-21T19:14:19.005732Z,Waalse Pijl,REMOVED,VADER Milan,rider/milan-vader
 2026-04-22T19:15:39.338187Z,Luik-Bastenaken-Luik,REMOVED,HIRSCHI Marc,rider/marc-hirschi
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,MAAS Jan,rider/jan-maas
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,VAN BOVEN Luca,rider/luca-van-boven
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,ORINS Robin,rider/robin-orins
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,DE BUYST Jasper,rider/jasper-de-buyst
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,BURGAUDEAU Mathieu,rider/mathieu-burgaudeau
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,REY Martín,rider/martin-rey-vazquez
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,THOMPSON Reuben,rider/reuben-thompson
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,JOALLAND Yaël,rider/yael-joalland
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,VERCHER Mattéo,rider/matheo-vercher
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,OURSELIN Paul,rider/paul-ourselin
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,ALLENO Clément,rider/clement-alleno
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,LE BERRE Mathis,rider/mathis-le-berre
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,BURNETT Josh,rider/josh-burnett
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Ronde van Vlaanderen,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Strade Bianche,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Brabantse Pijl,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Amstel Gold Race,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Milaan-Sanremo,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Waalse Pijl,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,E3 Saxo Classic,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Dwars door Vlaanderen,REMOVED,GRÉGOIRE Romain,rider/romain-gregoire1
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,LAENGEN Vegard Stake,rider/vegard-stake-laengen
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,ROTA Lorenzo,rider/lorenzo-rota
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,QUARTUCCI Lorenzo,rider/lorenzo-quartucci
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,HERRADA Jesús,rider/jesus-herrada-lopez
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,HERREGODTS Rune,rider/rune-herregodts
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Ronde van Vlaanderen,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Strade Bianche,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Brabantse Pijl,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Amstel Gold Race,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Milaan-Sanremo,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Waalse Pijl,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,E3 Saxo Classic,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Dwars door Vlaanderen,ADDED,GRÉGOIRE Romain,rider/romain-gregoire
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,REMOVED,LANGELLOTTI Victor,rider/victor-langellotti
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,JOUSSEAUME Alan,rider/alan-jousseaume
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,DELBOVE Joris,rider/joris-delbove
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,ZIMMERMANN Georg,rider/georg-zimmermann
+2026-04-23T13:45:39.083759Z,Luik-Bastenaken-Luik,ADDED,GUERNALEC Thibault,rider/thibault-guernalec
