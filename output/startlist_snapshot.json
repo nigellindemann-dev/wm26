@@ -3827,7 +3827,8 @@
       "Strade Bianche",
       "Brabantse Pijl",
       "Amstel Gold Race",
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/james-shaw": {
@@ -3835,7 +3836,8 @@
     "races": [
       "Strade Bianche",
       "Amstel Gold Race",
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/michael-valgren-andersen": {
@@ -5886,7 +5888,8 @@
       "Dwars door Vlaanderen",
       "Ronde van Vlaanderen",
       "Parijs-Roubaix",
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/jan-tratnik": {
@@ -6341,8 +6344,7 @@
     "name": "BATTISTELLA Samuele",
     "races": [
       "Brabantse Pijl",
-      "Amstel Gold Race",
-      "Luik-Bastenaken-Luik"
+      "Amstel Gold Race"
     ]
   },
   "rider/alex-baudin": {
@@ -6365,7 +6367,8 @@
     "races": [
       "Brabantse Pijl",
       "Amstel Gold Race",
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/ewen-costiou": {
@@ -6553,7 +6556,8 @@
     "name": "LEONARD Michael",
     "races": [
       "Amstel Gold Race",
-      "Waalse Pijl"
+      "Waalse Pijl",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/enzo-paleni": {
@@ -6857,8 +6861,8 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/martin-rey-vazquez": {
-    "name": "REY Martín",
+  "rider/jesus-herrada-lopez": {
+    "name": "HERRADA Jesús",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
@@ -6869,8 +6873,50 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/jesus-herrada-lopez": {
-    "name": "HERRADA Jesús",
+  "rider/martin-rey-vazquez": {
+    "name": "REY Martín",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/pablo-carrascosa": {
+    "name": "CARRASCOSA Pablo",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/inigo-elosegui": {
+    "name": "ELOSEGUI Iñigo",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/unai-iribar-jauregi": {
+    "name": "IRIBAR Unai",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/cesar-perez-lopez": {
+    "name": "PÉREZ César",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mikel-retegi": {
+    "name": "RETEGI Mikel",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/diego-uriarte-belzunegi": {
+    "name": "URIARTE Diego",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mats-wenzel": {
+    "name": "WENZEL Mats",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
