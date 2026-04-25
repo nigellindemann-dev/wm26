@@ -4517,8 +4517,7 @@
       "Strade Bianche",
       "Milaan-Sanremo",
       "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Waalse Pijl"
     ]
   },
   "rider/roland-thalmann": {
@@ -6796,8 +6795,7 @@
   "rider/lenny-martinez": {
     "name": "MARTINEZ Lenny",
     "races": [
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Waalse Pijl"
     ]
   },
   "rider/harm-vanhoucke": {
@@ -6949,6 +6947,12 @@
   },
   "rider/antonio-tiberi": {
     "name": "TIBERI Antonio",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mathijs-paasschens": {
+    "name": "PAASSCHENS Mathijs",
     "races": [
       "Luik-Bastenaken-Luik"
     ]

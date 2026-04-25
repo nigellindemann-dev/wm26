@@ -7,7 +7,7 @@ AERTS Toon,rider/toon-aerts,,,,,,,,,,,,X,,X,,X,X,,,4/19
 AFFINI Edoardo,rider/edoardo-affini,X,,,,,,X,,X,X,X,X,,X,,,,,,7/19
 AGNOLETTO Blake,rider/blake-agnoletto,,,X,,,X,,,,,,,,,,,,,,2/19
 AGOSTINACCHIO Mattia,rider/mattia-agostinacchio,,,,,,,,,,,,,,,,X,,,,1/19
-ALAPHILIPPE Julian,rider/julian-alaphilippe,,,,X,,,X,,,,,,,,,,X,X,X,5/19
+ALAPHILIPPE Julian,rider/julian-alaphilippe,,,,X,,,X,,,,,,,,,,X,X,,4/19
 ALBANESE Vincenzo,rider/vincenzo-albanese,X,X,,X,,,,X,,,,,,,,,,,,4/19
 ALLEGAERT Piet,rider/piet-allegaert,X,X,,,X,,,,,X,X,X,,,,,,,,6/19
 ALLENO Clément,rider/clement-alleno,X,X,,,,,,,X,X,X,X,,,,,,,X,7/19
@@ -423,7 +423,7 @@ MARSMAN Tim,rider/tim-marsman,,,,,,,X,X,,X,,,X,,X,,,,,5/19
 MARTIN Guillaume,rider/guillaume-martin,,,,,,,,,,,,,,,,,,X,X,2/19
 MARTINELLI Alessio,rider/alessio-martinelli,,,,X,,,,,,,,,,,,,,,,1/19
 MARTINEZ Juan Guillermo,rider/guillermo-juan-martinez,,,,,,,,,,,,,,,,,,X,,1/19
-MARTINEZ Lenny,rider/lenny-martinez,,,,,,,,,,,,,,,,,,X,X,2/19
+MARTINEZ Lenny,rider/lenny-martinez,,,,,,,,,,,,,,,,,,X,,1/19
 MARTÍ Pau,rider/pau-marti-soriano,,,,X,,,,,,,,,,,,X,X,X,X,5/19
 MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez,,,,,,,,,,,,,,,,,,X,X,2/19
 MARX Louis,rider/louis-marx,,,X,,,,,,,,,,,,,,,,,1/19
@@ -493,6 +493,7 @@ ORINS Robin,rider/robin-orins,,,,,,,,X,,,,,,,X,,,X,X,4/19
 OTRUBA Jakub,rider/jakub-otruba,,,,,X,X,,,,,,,,,,,,X,X,4/19
 OURSELIN Paul,rider/paul-ourselin,,,,,,,X,,,,,,,,,,X,X,X,4/19
 PAARDEKOOPER Thijmen,rider/thijmen-paardekooper,,,X,,,X,,,,,,,,,,,,,,2/19
+PAASSCHENS Mathijs,rider/mathijs-paasschens,,,,,,,,,,,,,,,,,,,X,1/19
 PACHER Quentin,rider/quentin-pacher,,,,,,,X,,,,,,,,,X,X,X,X,5/19
 PAGE Hugo,rider/hugo-page,X,X,X,,X,X,,,,X,X,X,,X,,,,,,9/19
 PAJUR Romet,rider/romet-pajur,,X,,,,,,,,,,,,,,,,,,1/19
