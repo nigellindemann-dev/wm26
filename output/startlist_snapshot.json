@@ -1139,8 +1139,7 @@
       "Ronde van Vlaanderen",
       "Scheldeprijs",
       "Parijs-Roubaix",
-      "Brabantse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Brabantse Pijl"
     ]
   },
   "rider/robert-donaldson": {
@@ -4971,7 +4970,8 @@
   "rider/baptiste-veistroffer": {
     "name": "VEISTROFFER Baptiste",
     "races": [
-      "Nokere Koerse"
+      "Nokere Koerse",
+      "Luik-Bastenaken-Luik"
     ]
   },
   "rider/fabian-lienhard": {
@@ -5356,8 +5356,7 @@
     "races": [
       "Milaan-Sanremo",
       "Amstel Gold Race",
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Waalse Pijl"
     ]
   },
   "rider/bryan-coquard": {
@@ -6881,8 +6880,7 @@
   "rider/jasper-de-buyst": {
     "name": "DE BUYST Jasper",
     "races": [
-      "Waalse Pijl",
-      "Luik-Bastenaken-Luik"
+      "Waalse Pijl"
     ]
   },
   "rider/guillermo-juan-martinez": {
@@ -6927,14 +6925,14 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/koen-bouwman": {
-    "name": "BOUWMAN Koen",
+  "rider/chris-harper": {
+    "name": "HARPER Chris",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/chris-harper": {
-    "name": "HARPER Chris",
+  "rider/louis-rouland": {
+    "name": "ROULAND Louis",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
@@ -6945,14 +6943,14 @@
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/antonio-tiberi": {
-    "name": "TIBERI Antonio",
+  "rider/mathijs-paasschens": {
+    "name": "PAASSCHENS Mathijs",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
   },
-  "rider/mathijs-paasschens": {
-    "name": "PAASSCHENS Mathijs",
+  "rider/antonio-tiberi": {
+    "name": "TIBERI Antonio",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
@@ -6969,6 +6967,12 @@
       "Luik-Bastenaken-Luik"
     ]
   },
+  "rider/marco-brenner": {
+    "name": "BRENNER Marco",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
   "rider/chris-hamilton": {
     "name": "HAMILTON Chris",
     "races": [
@@ -6977,6 +6981,12 @@
   },
   "rider/gijs-leemreize": {
     "name": "LEEMREIZE Gijs",
+    "races": [
+      "Luik-Bastenaken-Luik"
+    ]
+  },
+  "rider/mats-wenzel": {
+    "name": "WENZEL Mats",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
@@ -7013,12 +7023,6 @@
   },
   "rider/diego-uriarte-belzunegi": {
     "name": "URIARTE Diego",
-    "races": [
-      "Luik-Bastenaken-Luik"
-    ]
-  },
-  "rider/mats-wenzel": {
-    "name": "WENZEL Mats",
     "races": [
       "Luik-Bastenaken-Luik"
     ]
